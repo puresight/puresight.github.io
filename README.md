@@ -1,2 +1,0 @@
-puresight.github.com
-====================
