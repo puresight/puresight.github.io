@@ -1,0 +1,15 @@
+/* style.css */
+
+html {
+  background: #fff url(https://s3.amazonaws.com/dfc_attachments/images/3374235/background.jpg);
+}
+
+body {
+  margin: 4%;
+}
+
+main {
+  background: #fff;
+  padding: 2ex 2em;
+  line-height: 1.618;
+}
