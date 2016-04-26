@@ -1,4 +1,8 @@
-# Released under MIT License
+This website uses the Hyde theme which is MIT licensed.
+
+
+Hyde theme
+----------
 
 Copyright (c) 2013 Mark Otto.
 

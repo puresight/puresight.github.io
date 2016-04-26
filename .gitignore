@@ -1,6 +1,12 @@
-# Ignore docs files
+_dead
 _gh_pages
+
+# Ignore Jekyll stuff
+Gemfile
+Gemfile.lock
 _site
+
+# Ignore dot files
 .ruby-version
 
 # Numerous always-ignore extensions
@@ -29,9 +35,10 @@ nbproject
 *.sublime-workspace
 .idea
 
-# Komodo
+# Proggies
 *.komodoproject
 .komodotools
+.jekyll-metadata
 
 # grunt-html-validation
 validation-status.json

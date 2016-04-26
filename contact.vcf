@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+ADR;TYPE=home;TYPE=pref:;;;Austin;TX;78731;United States of America
+EMAIL:monty.w.dickerson@gmail.com
+FN:Monty Dickerson
+GEO:30.359886;-97.737885
+TZ:America/Chicago
+N:Dickerson;Monty;;;
+TEL;TYPE=CELL:+1-512-900-8489
+TITLE:Front-End Developer
+ROLE:Software Engineer
+URL:http://www.montydickerson.com/
+END:VCARD

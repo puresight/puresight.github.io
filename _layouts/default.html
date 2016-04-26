@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-us">
+---
+layout: barebones
+---
 
-  {% include head.html %}
+{% include sidebar.html layout="page" category="general" %}
+<!-- include.layout -->
+<div class="content container">
 
-  <body>
+{{ content }}
 
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {{ content }}
-    </div>
-
-  </body>
-</html>
+</div>
