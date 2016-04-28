@@ -1,15 +1,14 @@
-markdown: redcarpet
 permalink: pretty
 
 title: "Monty\'s"
 tagline: "Monty Dickerson"
-description: "little corner blog"
-url: http://puresight.github.io
+description: "Monty Dickerson, front-end developer, web / javascript software"
+url: http://montydickerson.com
 baseurl: "/"
+type: "website"
 
 author:
   name: "Monty Dickerson"
-  url: "http://www.montydickerson.com/"
-  twitter: "@puresight"
-
-version: 1.0.0
+  twitter: "puresight"
+  github: "puresight"
+  linkedin: "montydickerson"
