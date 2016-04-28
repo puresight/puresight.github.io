@@ -1,12 +1,8 @@
-{% comment %}
-
-    metadata
-
-{% endcomment %}
+{% comment %} metadata {% endcomment %}
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
 <link href="http://gmpg.org/xfn/11" rel="profile" />
+<link rel="schema.DC" href="http://purl.org/dc/terms/" />
 
 {% comment %} Mobile {% endcomment %}
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -15,22 +11,21 @@
 <meta property="og:title" content="{{ tagline }}" />
 
 {% comment %} Site {% endcomment %}
-<meta property="og:site_name"   content="{{ site.title }}" />
-<meta property="og:type"        content="{{ site.type }}" />
-<meta property="og:description" content="{{ site.description }}" />
-<!--link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico"-->
-<!--link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png"-->
-<link rel="schema.DC" href="http://purl.org/dc/terms/" />
-<meta name="DC.publisher"   content="{{ site.author.name }}" />
+<meta property="og:site_name" content="{{ site.title }}"/>
+<meta property="og:type"      content="{{ site.type }}"/>
+<link rel="shortcut icon" href="{{ site.baseurl }}{{ site.favicon }}"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}{{ site.image144 }}"/>
+<meta name="DC.publisher" content="{{ site.author.name }}"/>
 
 {% comment %} Page {% endcomment %}
-<meta name="DC.title"       content="{{ page.title }}" />
-<meta name="DC.description" content="{{ page.description }}" />
-<meta name="DC.subject"     content="{{ page.subject }}" />
-<meta name="DC.creator"     content="{{ page.creator }}" />
-<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<meta name="DC.title"           content="{{ page.title }}" />
+<meta name="DC.description"     content="{{ page.description }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta name="DC.subject"   content="{{ page.subject }}" />
+<meta name="DC.creator"   content="{{ page.creator }}" />
+<meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" />
 <meta property="og:url"   content="{{ site.url }}{{ page.url }}" />
-<!--meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" /-->
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
 {% comment %} Syndication {% endcomment %}
 <link rel="alternate" type="application/atom+xml" href="{{ site.baseurl }}atom.xml">

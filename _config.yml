@@ -4,6 +4,8 @@ description: "Monty Dickerson, front-end developer, web / javascript software"
 url: http://montydickerson.com
 baseurl: "/"
 type: "website"
+favicon: "images/favicon/js.png"
+image144: "images/monty/sq144.jpg"
 
 author:
   name: "Monty Dickerson"
@@ -16,6 +18,7 @@ defaults:
     scope:
       path: ""
     values:
+      image: "images/monty/sq200.jpg"
       description: "Monty Dickerson is a web / front-end software developer specializing in javascript."
       creator: "Monty Dickerson"
       publisher: "Monty Dickerson"
