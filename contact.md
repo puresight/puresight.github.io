@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subject: personal contact information
-description: "Personal contact details for Monty Dickerson"
+description: "This page has the personal contact details for Monty Dickerson."
 ---
 
 * vCard: [{{ site.author.name }}]({{ site.baseurl }}contact.vcf)
