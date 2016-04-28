@@ -1,5 +1,3 @@
-permalink: pretty
-
 title: "Monty\'s"
 tagline: "Monty Dickerson"
 description: "Monty Dickerson, front-end developer, web / javascript software"
@@ -12,3 +10,15 @@ author:
   twitter: "puresight"
   github: "puresight"
   linkedin: "montydickerson"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      description: "Monty Dickerson is a web / front-end software developer specializing in javascript."
+      creator: "Monty Dickerson"
+      publisher: "Monty Dickerson"
+#
+# https://jekyllrb.com/docs/configuration/#front-matter-defaults
+#

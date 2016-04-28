@@ -1,1 +1,58 @@
-/* styles */
+/***
+ * styles
+ */
+
+
+
+
+
+/* socialicons licensed from http://azmind.com/2012/11/06/social-icons-sprites-35-ready-to-use-icons-psd-png-html-css/ */
+
+.socialicons a {
+  display: inline-block;
+  overflow: hidden;
+  width: 24px;
+  height: 24px;
+  margin: 6px;
+  border-radius: 3px;
+  text-indent: -9em;
+  background: left -34px no-repeat;
+  vertical-align: middle;
+  transition: all .3s;
+}
+.socialicons a.twitter { background-image: url(../images/social-icons/twitter.png);}
+.socialicons a.dribbble { background-image: url(../images/social-icons/dribbble.png);}
+.socialicons a.feed { background-image: url(../images/social-icons/rss.png);}
+.socialicons a.pinterest { background-image: url(../images/social-icons/pinterest.png);}
+.socialicons a.digg { background-image: url(../images/social-icons/digg.png);}
+.socialicons a.flickr { background-image: url(../images/social-icons/flickr.png);}
+.socialicons a.forrst { background-image: url(../images/social-icons/forrst.png);}
+.socialicons a.vimeo { background-image: url(../images/social-icons/vimeo.png);}
+.socialicons a.reddit { background-image: url(../images/social-icons/reddit.png);}
+.socialicons a.linkedin { background-image: url(../images/social-icons/linkedin.png);}
+.socialicons a.facebook { background-image: url(../images/social-icons/facebook.png);}
+.socialicons a.paypal { background-image: url(../images/social-icons/paypal.png);}
+.socialicons a.stumbleupon { background-image: url(../images/social-icons/stumbleupon.png);}
+.socialicons a.email { background-image: url(../images/social-icons/email.png);}
+.socialicons a.deviantart { background-image: url(../images/social-icons/deviantart.png);}
+.socialicons a.netvibes { background-image: url(../images/social-icons/netvibes.png);}
+.socialicons a.yahoo { background-image: url(../images/social-icons/yahoo.png);}
+.socialicons a.github { background-image: url(../images/social-icons/github.png);}
+.socialicons a.addthis { background-image: url(../images/social-icons/addthis.png);}
+.socialicons a.behance { background-image: url(../images/social-icons/behance.png);}
+.socialicons a.blogger { background-image: url(../images/social-icons/blogger.png);}
+.socialicons a.slashdot { background-image: url(../images/social-icons/slashdot.png);}
+.socialicons a.technorati { background-image: url(../images/social-icons/technorati.png);}
+.socialicons a.googleplus { background-image: url(../images/social-icons/googleplus.png);}
+.socialicons a.apple { background-image: url(../images/social-icons/apple.png);}
+.socialicons a.myspace { background-image: url(../images/social-icons/myspace.png);}
+.socialicons a.sharethis { background-image: url(../images/social-icons/sharethis.png);}
+.socialicons a.yelp { background-image: url(../images/social-icons/yelp.png);}
+.socialicons a.delicious { background-image: url(../images/social-icons/delicious.png);}
+.socialicons a.lastfm { background-image: url(../images/social-icons/lastfm.png);}
+.socialicons a.youtube { background-image: url(../images/social-icons/youtube.png);}
+.socialicons a.skype { background-image: url(../images/social-icons/skype.png);}
+.socialicons a.tumblr { background-image: url(../images/social-icons/tumblr.png);}
+.socialicons a.aim { background-image: url(../images/social-icons/aim.png);}
+.socialicons a.google { background-image: url(../images/social-icons/google.png);}
+.socialicons a:hover, .socialicons a:focus { background-color: #444; }

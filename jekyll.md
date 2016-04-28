@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Jekyll links
+title: Jekyll
+subject: static site generator
+description: "Jekyll is a static site generator supported by Github. It can turn simple markdown text files into HTML web pages that can be served up anywhere, without a CMS."
 ---
 
 Jekyll is a static site generator supported by Github. It can turn simple markdown text files into HTML web pages that can be served up anywhere, without a CMS.
 
-Docs
-----
-* [jekyllrb.com](https://jekyllrb.com/)
-* [jekyll.tips](http://jekyll.tips/)
+* [Jekyllrb.com](https://jekyllrb.com/)
+* [Jekyll.tips](http://jekyll.tips/)
+* [markdown](https://daringfireball.net/projects/markdown/syntax#html)
+* [Kramdown](http://kramdown.gettalong.org/syntax.html)
+* [Liquid templating](http://liquidmarkup.org/)
 
 Videos
 ------
