@@ -1,6 +1,6 @@
 title: "Monty\'s"
 tagline: "Monty Dickerson"
-description: "Monty Dickerson, front-end developer, web / javascript software"
+description: "Monty Dickerson is a web / front-end software developer specializing in javascript."
 url: http://montydickerson.com
 baseurl: "/"
 type: "website"
@@ -18,7 +18,10 @@ defaults:
     scope:
       path: ""
     values:
-      image: "images/monty/sq200.jpg"
+      image:
+        url: "images/monty/sq200.jpg"
+        width: 200
+        height: 200
       description: "Monty Dickerson is a web / front-end software developer specializing in javascript."
       creator: "Monty Dickerson"
       publisher: "Monty Dickerson"

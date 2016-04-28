@@ -1,5 +1,5 @@
 {% if page.title == "Home" %}
-  {% capture tagline %}{{ site.title }} · {{ site.description }}{% endcapture %}
+  {% capture tagline %}{{ site.title }} website - {{ page.description }}{% endcapture %}
 {% else %}
-  {% capture tagline %}{{ page.title }} · {{ site.title }}{% endcapture %}
+  {% capture tagline %}{{ site.title }} - {{ page.title }} - {{ page.description }}{% endcapture %}
 {% endif %}
