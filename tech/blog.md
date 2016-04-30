@@ -6,7 +6,7 @@ description: "Periodically published blogs by Monty Dickerson on technical or pr
 ---
 
 <section class="posts">
-  {% for post in site.categories.general limit:4 %}
+  {% for post in site.categories.tech limit:3 %}
   <hr/>
   <article class="post">
     <header>
@@ -25,7 +25,7 @@ description: "Periodically published blogs by Monty Dickerson on technical or pr
 <section id="archive">
   <hr/>
   <ul class="past">
-  {% for post in site.categories.general limit:9 %}
+  {% for post in site.categories.tech offset:3 limit:9 %}
     <li>
       <time>{{ post.date | date:"%F" }}</time>
 

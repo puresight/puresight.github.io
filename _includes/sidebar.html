@@ -23,7 +23,7 @@
       >Contact</a>
 -->
 <!--
-      {% for post in site.categories.general limit:5 %}
+      {% for post in site.categories.tech limit:5 %}
           {% if post.external-url %}
               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
                 href="{{ post.external-url | xml_escape }}" title="{{ post.title | xml_escape }}">{{ post.title | truncate: 40, "..." | xml_escape }}
@@ -43,7 +43,7 @@
           title="Twitter">Twitter</a>
         <a class="linkedin" href="https://linkedin.com/in/{{ site.author.linkedin }}"
           title="LinkedIn">LinkedIn</a>
-        <a class="feed" href="{{ site.baseurl }}atom.xml"
+        <a class="feed" href="{{ site.baseurl }}tech/atom.xml"
           title="Newsfeed">Newsfeed</a>
     </p>
   </div>
