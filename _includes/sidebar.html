@@ -8,6 +8,8 @@
 
       <!--a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a-->
 
+{% comment %}
+// // // // // // // //
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null and node.title != "Home" %}
@@ -16,13 +18,14 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-<!--
-      <a class="sidebar-nav-item{% if page.url contains "blog" %} active{% endif %}" href="{{ site.baseurl }}blog/"
-      >Blog</a>
-      <a class="sidebar-nav-item{% if page.url contains "contact" %} active{% endif %}" href="{{ site.baseurl }}contact/"
+// // // // // // // //
+{% endcomment %}
+      <a class="sidebar-nav-item{% if page.url contains "contact" %} active{% endif %}" href="{{ site.baseurl }}contact.html"
       >Contact</a>
--->
-<!--
+      <a class="sidebar-nav-item{% if page.url contains "jekyll" %} active{% endif %}" href="{{ site.baseurl }}tech/jekyll.html"
+      >Jekyll</a>
+{% comment %}
+// // // // // // // //
       {% for post in site.categories.tech limit:5 %}
           {% if post.external-url %}
               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
@@ -34,10 +37,10 @@
               </a>
           {% endif %}
       {% endfor %}
--->
-      <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
+      <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
+// // // // // // // //
+{% endcomment %}
     </nav>
-    <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
     <p class="socialicons">
         <a class="twitter" href="https://twitter.com/{{ site.author.twitter }}"
           title="Twitter">Twitter</a>
