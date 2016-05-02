@@ -5,17 +5,17 @@ subject: autobiography
 description: "This page has personal information about Monty Dickerson."
 ---
 
-As an experienced software engineer, and communications technologist,
-I have eyes that see through the complexity to the bones of problems,
-to the patterns & relationships of opportunities.
+Monty is an experienced software engineer and communications technologist,
+with eyes to see through the complexity to the bones of problems,
+unveiling the patterns & relationships of opportunities.
 
-I thrive in challenges that demand fresh perspective, require new insight,
+I thrive in challenges that require fresh perspective, demand new insight,
 and insist on learning to overcome.
-I have an innate strength to remain confident, stay true to purpose,
-and drive to get results.
-I gain satisfaction by seeing hopes through.
+I possess innate strength to remain confident, stay true to purpose,
+and drive to results.
+I gain satisfaction through seeing aspirations become real.
 
-Please send me a note?
+Send me a note?
 I would love to hear from you.
 
 * vCard: [{{ site.author.name }}]({{ site.baseurl }}contact.vcf)
