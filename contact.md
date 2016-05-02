@@ -1,9 +1,22 @@
 ---
 layout: page
-title: Contact
-subject: personal contact information
-description: "This page has the personal contact details for Monty Dickerson."
+title: Monty
+subject: autobiography
+description: "This page has personal information about Monty Dickerson."
 ---
+
+As an experienced software engineer, and communications technologist,
+I have eyes that see through the complexity to the bones of problems,
+to the patterns & relationships of opportunities.
+
+I thrive in challenges that demand fresh perspective, require new insight,
+and insist on learning to overcome.
+I have an innate strength to remain confident, stay true to purpose,
+and drive to get results.
+I gain satisfaction by seeing hopes through.
+
+Please send me a note?
+I would love to hear from you.
 
 * vCard: [{{ site.author.name }}]({{ site.baseurl }}contact.vcf)
 * Email: <a href='m&#97;&#105;lto&#58;hel&#108;o&#64;mo%6E&#37;74yd&#105;c%&#54;B%65rson&#46;%63&#37;&#54;Fm'>h&#101;l&#108;&#111;&#64;mo&#110;t&#121;dicke&#114;son&#46;com</a>

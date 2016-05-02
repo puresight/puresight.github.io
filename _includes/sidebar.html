@@ -5,9 +5,6 @@
       <!--p class="lead">{{ site.description }}</p-->
     </div>
     <nav class="sidebar-nav">
-
-      <!--a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a-->
-
 {% comment %}
 // // // // // // // //
       {% assign pages_list = site.pages %}
@@ -18,12 +15,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-// // // // // // // //
-{% endcomment %}
-      <a class="sidebar-nav-item{% if page.url contains "contact" %} active{% endif %}" href="{{ site.baseurl }}contact.html"
-      >Contact</a>
-{% comment %}
-// // // // // // // //
       {% for post in site.categories.tech limit:5 %}
           {% if post.external-url %}
               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
@@ -38,6 +29,8 @@
       <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
 // // // // // // // //
 {% endcomment %}
+      <a class="sidebar-nav-item{% if page.url contains "contact" %} active{% endif %}" href="{{ site.baseurl }}contact.html"
+      >Bio</a>
     </nav>
     <p class="socialicons">
         <a class="twitter" href="https://twitter.com/{{ site.author.twitter }}"
