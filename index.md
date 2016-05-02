@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Blog
-subject: weblog
-description: "Periodically published blogs by Monty Dickerson on technical or professional topics."
+title: Home
+subject: website
+blog-subject: weblog
+blog-title: Blog
+blog-description: "Periodically published blogs by Monty Dickerson on technical or professional topics."
 ---
 
 <section class="posts">
