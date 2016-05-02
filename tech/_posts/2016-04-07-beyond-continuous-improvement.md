@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Value Clients Want"
+title: "Delivering The Value Clients Want"
 category: tech
 external_url: https://medium.com/@puresight/i-ve-noticed-with-clothes-often-a-lower-quality-and-less-expensive-item-pairs-better-with-an-ad80c35c7db0
 external_site: medium

@@ -20,6 +20,7 @@
   vertical-align: middle;
   transition: all .3s;
 }
+.socialicons a:hover, .socialicons a:focus { background-color: #777; }
 .socialicons a.twitter { background-image: url(../images/social-icons/twitter.png);}
 .socialicons a.dribbble { background-image: url(../images/social-icons/dribbble.png);}
 .socialicons a.feed { background-image: url(../images/social-icons/rss.png);}
@@ -55,4 +56,3 @@
 .socialicons a.tumblr { background-image: url(../images/social-icons/tumblr.png);}
 .socialicons a.aim { background-image: url(../images/social-icons/aim.png);}
 .socialicons a.google { background-image: url(../images/social-icons/google.png);}
-.socialicons a:hover, .socialicons a:focus { background-color: #444; }
