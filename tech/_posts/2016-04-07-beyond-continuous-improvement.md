@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Beyond Continuous Improvement"
+title: "The Value Clients Want"
 category: tech
 external_url: https://medium.com/@puresight/i-ve-noticed-with-clothes-often-a-lower-quality-and-less-expensive-item-pairs-better-with-an-ad80c35c7db0
 external_site: medium
 subject: blog post
-description: "Is systems thinking relevant to digital product design and develpoment?"
+description: "Is systems thinking relevant to digital product design and development?"
 ---
 
 I’ve noticed with clothes, often a lower quality and less expensive item pairs better with an outfit than something of more obvious desire, e.g. a $20 converse sneaker over a leather shoe costing six times that much.
