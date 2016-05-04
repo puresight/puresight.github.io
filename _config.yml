@@ -19,6 +19,8 @@ defaults:
       path: ""
     values:
       image:
+        alt: "Monty Dickerson"
+        caption: "Monty Dickerson"
         url: "images/monty/sq200.jpg"
         width: 200
         height: 200

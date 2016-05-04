@@ -2,9 +2,28 @@
  * styles
  */
 
+header h1 {
+  margin-bottom: 1rem;
+}
 
+h2 {
+  font-size: 1.25rem;
+}
 
-
+.page-pic {
+  display: inline-block;
+  max-width: 9ex; /* float left 8ex */
+  margin: 0 1em 1ex; /* float right */
+/*  margin: 0.5ex 0.9em 0.5ex 0; /* float left */
+  float: right;
+}
+.page-pic img {
+  margin: 0;
+  border-radius: 10%;
+}
+.page-pic figcaption {
+  display: none;
+}
 
 /* socialicons licensed from http://azmind.com/2012/11/06/social-icons-sprites-35-ready-to-use-icons-psd-png-html-css/ */
 

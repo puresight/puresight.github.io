@@ -4,12 +4,18 @@ title: Jekyll
 category: reference
 subject: static site generator
 description: "Jekyll is a static site generator supported by Github. It can turn simple markdown text files into HTML web pages that can be served up anywhere, without a CMS."
+image:
+  alt: "OctoJekyll"
+  caption: "Octojekyll"
+  url: "images/octojekyll.png"
+  width: 100
+  height: 100
 ---
 
-Jekyll is a [static site generator](https://www.staticgen.com/) hosted by Github.
-It can turn simple [markdown](https://daringfireball.net/projects/markdown/syntax#html)
-text files (and [YAML]({{site.baseurl}}tech/yaml.html) configuration)
-into web pages that can be served up anywhere, without a
+Jekyll is a [static site generator](https://www.staticgen.com/) that
+turns [markdown](https://daringfireball.net/projects/markdown/syntax#html)
+text and [YAML]({{site.baseurl}}tech/yaml.html) configuration
+into web pages, that can be served anywhere, without a
 [CMS](https://en.wikipedia.org/wiki/Web_content_management_system).
 
 * [Jekyllrb.com](https://jekyllrb.com/)

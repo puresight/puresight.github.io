@@ -4,6 +4,12 @@ title: Texas A&amp;M University
 category: clients
 subject: school
 description: "Texas A&amp;M University's college of liberal arts employed me as their lead web applications developer from 2009–2013."
+image:
+  alt: "Texas A&M University"
+  caption: "Texas A&M"
+  url: "images/tamu.png"
+  width: 360
+  height: 360
 ---
 
 Texas A&M  University’s

@@ -4,6 +4,12 @@ title: Agile
 category: reference
 subject: manifesto
 description: "YAML is a human-friendly data serialization format for encoding data in plain text."
+image:
+  alt: "agile"
+  caption: ""
+  url: "images/agile.png"
+  width: 100
+  height: 100
 ---
 
 “Agile software development is a set of principles for software development
