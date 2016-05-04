@@ -27,8 +27,8 @@ Videos
 ------
 * [Jekyll tutorial series](https://www.youtube.com/watch?v=oiNVQ9Zjy4o&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=1) by [Thomas Bradley](https://twitter.com/thomasjbradley)
 
-Hosts
----------
+Hosting Options
+---------------
 * [Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 * [Gitlab](http://doc.gitlab.com/ee/pages/)
-* [Amazon S3](https://github.com/laurilehmijoki/s3_website)
+* [Amazon](https://github.com/laurilehmijoki/s3_website)
