@@ -6,7 +6,7 @@ subject: article
 description: "Welcome to my website."
 ---
 
-Hi! Welcome to my homepage, built with [Jekyll]({{site.baseurl}}tech/jekyll.html).
+Hi! Welcome to my new site, built with [Jekyll]({{site.baseurl}}tech/jekyll.html).
 Jekyll's tech aligns with what I chose at
 [Texas A&M]({{site.baseurl}}clients/tamu.html)
 in 2011, when I built websites using a static site generator named _Excelsis,_
