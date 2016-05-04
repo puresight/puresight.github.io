@@ -2,8 +2,8 @@
 layout: page
 title: JavaScript
 category: reference
-subject: static site generator
-description: "JavaScript"
+subject: "programming language"
+description: "JavaScript is a prototype-based, multi-paradigm, dynamic scripting language—that supports object-oriented (OOP), imperative, and functional programming (FP) styles."
 image:
   alt: "JavaScript"
   caption: ""
