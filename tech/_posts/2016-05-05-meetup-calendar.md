@@ -27,13 +27,11 @@ Seven steps to unified calendaring →
 6. In the leftmost column, click the down-arrow menu button to the right of "Other Calendars," and select "Add by URL."
 7. Paste the URL you got from Meetup.com to add.
 
-Integration between companies' services is always fragile
-(because when they're competing against each other, there is no incentive
-for them to make it easy on you).
-So, be sure to test this out to see if it actually works, on your phone.
+Integration between companies' services is always fragile;
+because when they're competing against each other there is no incentive
+to make that easy on you.
 
-This life hack works for me today.
-I hope it helps you, too -
-so you'll remember to attend the meetups you signed up for,
-leave on time, and arrive early enough to get a snack,
-and enjoy conversation.
+Sync your phone, then test it.
+Works for me today! I hope it helps you, too.
+So you'll attend the meetups you signed up for,
+leaving in time for them and arriving early.
