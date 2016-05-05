@@ -21,7 +21,7 @@ Seven steps to unified calendaring →
 
 1. Login to Meetup.com, and go to its [homepage](http://www.meetup.com/).
 2. Click the calendar button (next to the search box).
-3. Scroll down a a little down; on the right side, see a calendar: under the calendar, see an "Export to…" button; click there.
+3. Scroll a little down, and on the right side, see a calendar: under it, click the "Export to…" button.
 4. From the "Sync Meetups you're attending with your personal calendar" menu, choose "Google calendar," for your Android phone.
 5. Login to [Google Calendar](https://calendar.google.com/calendar/render#main_7) on your desktop computer.
 6. In the leftmost column, click the down-arrow menu button to the right of "Other Calendars," and select "Add by URL."
