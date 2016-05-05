@@ -8,7 +8,7 @@ blog-description: "Periodically published blogs by Monty Dickerson on technical 
 ---
 
 <section class="posts">
-  {% for post in site.categories.tech limit:3 %}
+  {% for post in site.categories.tech limit:5 %}
   <article class="post">
     <header>
       <h1 class="post-title">
@@ -26,7 +26,7 @@ blog-description: "Periodically published blogs by Monty Dickerson on technical 
 
 <section id="archive">
   <ul class="past">
-  {% for post in site.categories.tech offset:3 limit:9 %}
+  {% for post in site.categories.tech offset:5 limit:9 %}
     <li>
       <time>{{ post.date | date:"%F" }}</time>
 

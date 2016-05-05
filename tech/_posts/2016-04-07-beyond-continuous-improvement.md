@@ -8,6 +8,8 @@ subject: article
 description: "Is systems thinking relevant to digital product design and development?"
 ---
 
+_{{ page.description }}_
+
 I’ve noticed with clothes, often a lower quality and less expensive item pairs better with an outfit than something of more obvious desire, e.g. a $20 converse sneaker over a leather shoe costing six times that much.
 
 In light of a video I watched this week — I stumbled upon an excellent talk called [Beyond Continuous Improvement](https://www.youtube.com/watch?v=OqEeIG8aPPk) given in 1994 by __Dr. Russell Askoff__ — this is explained by _Systems Thinking._ Any overall outfit is what matters most, and how shoes match and fit in matters more, than whether the shoes are composed of high quality materials.

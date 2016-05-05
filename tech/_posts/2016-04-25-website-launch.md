@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "New"
+title: "New!"
 category: tech
 subject: article
-description: "Welcome to the new website I built using Jekyll."
+description: "Welcome to my new website."
 ---
 
-Welcome to my site. I built with [Jekyll]({{site.baseurl}}tech/jekyll.html)
+{{ page.description }}
+I built with [Jekyll]({{site.baseurl}}tech/jekyll.html)
 because its tech aligns with what I chose at
 [Texas A&M]({{site.baseurl}}clients/tamu.html),
 where I assembled websites in a generator/CMS
