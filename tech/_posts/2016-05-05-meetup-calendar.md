@@ -4,7 +4,7 @@ title: "Get meetup.com alerts"
 category: tech
 subject: article
 tags: android calendar meetup
-description: "Wouldn't it be nice if your phone would just know what Meetup.com events
+description: "Wouldn't it be nice if your Android phone would just know what Meetup.com events
 you have RSVP'd to? And give you appointment reminders for them, the way it does
 for stuff on your Google calendar?"
 ---
@@ -17,7 +17,7 @@ website creates a [feed]({{site.baseurl}}tech/syndication.html)
 of the meetings you said you'll be attending;
 and Google's Calendar app lets you add an external calendar by URL.
 
-Just a few steps:
+Seven steps to unified calendaring →
 
 1. Login to Meetup.com, and go to its [homepage](http://www.meetup.com/).
 2. Click the calendar button (next to the search box).
@@ -35,5 +35,5 @@ So, be sure to test this out to see if it actually works, on your phone.
 For me, this life hack works today.
 And I hope it helps you, too!
 So you'll remember to attend the meetups you signed up for,
-leave on time, and arrive early enough to get a snack and enjoy
-conversation.
+leave on time, and arrive early enough to get a snack,
+and enjoy conversation.
