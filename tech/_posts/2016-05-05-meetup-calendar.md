@@ -23,7 +23,7 @@ Seven steps to unified calendaring →
 2. Click the calendar button (next to the search box).
 3. Scroll a little down, and on the right side, see a calendar: under it, click the "Export to…" button.
 4. From the "Sync Meetups you're attending with your personal calendar" menu, choose "Google calendar," for your Android phone.
-5. Login to [Google Calendar](https://calendar.google.com/calendar/render#main_7) on your desktop computer.
+5. Login to [Google Calendar](https://calendar.google.com/) on your desktop computer.
 6. In the leftmost column, click the down-arrow menu button to the right of "Other Calendars," and select "Add by URL."
 7. Paste the URL you got from Meetup.com to add.
 
@@ -32,8 +32,8 @@ Integration between companies' services is always fragile
 for them to make it easy on you).
 So, be sure to test this out to see if it actually works, on your phone.
 
-For me, this life hack works today.
-And I hope it helps you, too!
-So you'll remember to attend the meetups you signed up for,
+This life hack works for me today.
+I hope it helps you, too -
+so you'll remember to attend the meetups you signed up for,
 leave on time, and arrive early enough to get a snack,
 and enjoy conversation.
