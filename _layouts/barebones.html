@@ -7,10 +7,11 @@
 {% include css.html %}
 
 </head>
-<body class="layout-reverse loading">
+<body class="hyde layout-reverse loading">
 
 {{ content }}
-{% include bodyfoot.html %}
 
+<script async defer src="{{ site.baseurl }}js/deferred.js"></script>
+<script src="{{ site.baseurl }}js/script.js"></script>
 </body>
 </html>

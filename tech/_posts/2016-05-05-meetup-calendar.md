@@ -34,4 +34,4 @@ to make that easy on you.
 Sync your phone, then test it.
 Works for me today! I hope it helps you, too.
 So you'll attend the meetups you signed up for,
-leaving in time for them and arriving early.
+leaving in time for them to arrive early.
