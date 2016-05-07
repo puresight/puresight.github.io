@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Licenses
+noindex: true
 subject: copyright
 description: "This page describes the licenses of intellectual properties used in this work."
 ---

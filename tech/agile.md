@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Agile
-category: reference
+category: tech
+tags:
+- agile
 subject: manifesto
 description: "Agile software development is a set of values and principles for software development."
 image:

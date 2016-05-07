@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Version control"
-category: reference
+category: tech
+tags:
+- tools
+- git
 subject: "software configuration management"
 description: "Git is a distributed version control system."
 image:

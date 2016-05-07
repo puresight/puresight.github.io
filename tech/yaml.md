@@ -1,7 +1,9 @@
 ---
 layout: page
 title: YAML
-category: reference
+category: tech
+tags:
+- data
 subject: static site generator
 description: "YAML is a human-friendly data serialization format for encoding data in plain text."
 image:

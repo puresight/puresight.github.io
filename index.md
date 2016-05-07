@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+noindex: true
 subject: website
 blog-subject: weblog
 blog-title: Blog

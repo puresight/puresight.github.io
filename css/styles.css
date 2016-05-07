@@ -31,37 +31,48 @@ h2 {
 
 
 .clock {
+  display: inline-block;
   position: relative;
-  width:  90px;
-  height: 90px;
-  margin: 2ex 0 0;
-  padding-bottom: 31%;
+  width:  100px;
+  height: 100px;
+  background-color: #ccc;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 20%;
+}
+.clock:after {
+  content: "";
+  width:  10%;
+  height: 10%;
+  left: 50%;
+  top: 50%;
   border-radius: 50%;
-  border: 1px solid white;
-  opacity: 0.5;
 }
 .clock > div {
   position: absolute; top: 0; right: 0; bottom: 0; left: 0;
 }
-.clock > div > div {
+.clock:after, .clock > div > div {
   position: absolute;
-  background-color: white;
+  background-color: #000;
   transform-origin: 50% 100%;
 }
+.clock:after {
+  transform: translate(-50%, -50%);
+}
 .clock .hours div {
-  width: 2.5%;
-  height: 25%;
-  left: 48.75%;
-  top: 30%;
+  width: 4%;
+  height: 20%;
+  left: 48%;
+  top: 29%;
 }
 .clock .minutes div {
-  width: 2%;
+  width: 3%;
   height: 40%;
   left: 49%;
-  top: 10%;
+  top: 12%;
 }
 .clock .seconds div {
-  width: 1.5%;
+  display: none;
+  width: 2%;
   height: 45%;
   left: 49.5%;
   top: 14%;
