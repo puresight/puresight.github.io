@@ -3,30 +3,50 @@ if("document"in self){if(!("classList"in document.createElement("_"))||document.
 //END eligrey/classList.js (public domain)
 
 
-var months = [
-      "january", "february", "march", "april", "may", "june",
-      "july", "august", "september", "october", "november", "december"
-    ],
-    weekdays = [
-      "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"
-    ],
-    themebase = [
-      "theme-base-0c", "theme-base-00", "theme-base-0a", "theme-base-00", //am
-      "theme-base-0d", "theme-base-0b", "theme-base-00", "theme-base-08", //pm
-    ],
-    t = new Date(),
-    year = t.getFullYear(),
-    month = months[t.getMonth()],
-    weekday = weekdays[t.getDay()],
-    hour = t.getHours(),
-    hour12 = Math.floor(hour / 2),
-    ampm = [ "am", "pm" ][ Math.floor(hour / 12) ],
-    day8th = Math.floor(hour / 3),
-    min = t.getMinutes(),
-    b = document.body;
+var M = {
 
-b.classList.add(month);
-b.classList.add(weekday);
-b.classList.add(themebase[day8th]);
+  months: [
+    "january", "february", "march", "april", "may", "june",
+    "july", "august", "september", "october", "november", "december"
+  ],
 
-b.classList.remove("loading");
+  weekdays: [
+    "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"
+  ],
+
+  themebase: [
+    "theme-base-0c", "theme-base-00", "theme-base-0a", "theme-base-00", //am
+    "theme-base-0d", "theme-base-0b", "theme-base-00", "theme-base-08", //pm
+  ],
+
+  /** @see https://cssanimation.rocks/clocks/ */
+  setClock: function(hour, minute, second){
+    var hourHand = document.querySelector(".clock .hours"),
+      minuteHand = document.querySelector(".clock .minutes"),
+      secondHand = document.querySelector(".clock .seconds");
+    //Safari needs?: webkitTransform
+    hourHand.style.transform = 'rotateZ('+ (hour * 30 + minute / 2) +'deg)';
+    minuteHand.style.transform = 'rotateZ('+ (minute * 6) +'deg)';
+    secondHand.style.transform = 'rotateZ('+ (second * 6) +'deg)';
+  },
+
+  main: function(body){
+    var time = new Date(),
+      year = time.getFullYear(),
+      hour = time.getHours(),
+      minute = time.getMinutes(),
+      second = time.getSeconds(),
+      min = time.getMinutes(),
+      day8th = Math.floor(hour / 3);
+
+    body.classList.add(this.months[time.getMonth()]);
+    body.classList.add(this.weekdays[time.getDay()]);
+    body.classList.add(this.themebase[day8th]);
+    this.setClock(hour, minute, second);
+
+    body.classList.remove("loading");
+  }
+
+};
+
+M.main(document.body);

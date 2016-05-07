@@ -2,6 +2,10 @@
  * styles
  */
 
+.hidden {
+  display: none;
+}
+
 header h1 {
   margin-bottom: 1rem;
 }
@@ -24,6 +28,50 @@ h2 {
 .page-pic figcaption {
   display: none;
 }
+
+
+.clock {
+  position: relative;
+  width:  90px;
+  height: 90px;
+  margin: 2ex 0 0;
+  padding-bottom: 31%;
+  border-radius: 50%;
+  border: 1px solid white;
+  opacity: 0.5;
+}
+.clock > div {
+  position: absolute; top: 0; right: 0; bottom: 0; left: 0;
+}
+.clock > div > div {
+  position: absolute;
+  background-color: white;
+  transform-origin: 50% 100%;
+}
+.clock .hours div {
+  width: 2.5%;
+  height: 25%;
+  left: 48.75%;
+  top: 30%;
+}
+.clock .minutes div {
+  width: 2%;
+  height: 40%;
+  left: 49%;
+  top: 10%;
+}
+.clock .seconds div {
+  width: 1.5%;
+  height: 45%;
+  left: 49.5%;
+  top: 14%;
+  transform-origin: 50% 80%;
+}
+@keyframes rotate { 100% { transform: rotateZ(360deg); } }
+.clock .hours   { animation: rotate 43200s infinite steps(12); }
+.clock .minutes { animation: rotate  3600s infinite steps(60); }
+.clock .seconds { animation: rotate    60s infinite steps(60); }
+
 
 
 /* socialicons licensed from http://azmind.com/2012/11/06/social-icons-sprites-35-ready-to-use-icons-psd-png-html-css/ */
