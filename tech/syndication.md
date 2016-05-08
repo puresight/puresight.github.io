@@ -23,7 +23,7 @@ Formats
 -------
 * Really Simple Syndication [RSS]()
 * [Atom](http://atomenabled.org/) is for syndicating a feed of periodically published content (RFC 4287)
-* [ICS](zzz) allows Internet users to send calendar meeting requests ([RFC 2445](https://www.ietf.org/rfc/rfc2445.txt))
+* [ICS](https://en.wikipedia.org/wiki/ICalendar) allows Internet users to send calendar meeting requests ([RFC 2445](https://www.ietf.org/rfc/rfc2445.txt))
 
 Tools
 -----
