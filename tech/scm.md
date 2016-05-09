@@ -6,7 +6,7 @@ tags:
 - tools
 - git
 subject: "software configuration management"
-description: "Git is a distributed version control system."
+description: "Software configuration management is the process of tracking and controlling changes in software."
 image:
   alt: "git"
   caption: "git"
@@ -15,8 +15,8 @@ image:
   height: 512
 ---
 
-Software configuration management (SCM)
-is the task of tracking and controlling changes in the software,
+Software configuration management (SCM) is the process of tracking
+and controlling changes in software,
 part of the larger cross-disciplinary field of configuration management.
 SCM practices include version control, and establishing baselines.
 

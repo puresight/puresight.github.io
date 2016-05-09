@@ -5,7 +5,7 @@ category: tech
 tags:
 - language
 subject: "programming language"
-description: "JavaScript is a prototype-based, multi-paradigm, dynamic scripting language—that supports object-oriented (OOP), imperative, and functional programming (FP) styles."
+description: "JavaScript is a prototype-based, multi-paradigm, dynamic scripting language—that supports object-oriented (OOP), imperative, and functional programming styles."
 image:
   alt: "JavaScript"
   caption: ""
