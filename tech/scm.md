@@ -24,11 +24,15 @@ SCM practices include version control, and establishing baselines.
 -------------------------------
 * [Atlassian's git primer](https://www.atlassian.com/git/)
 * [Github's training offerings](https://training.github.com/classes/essentials/)
-* [tryGit](https://try.github.io/levels/1/challenges/1) from CodeSchool
+* [CodeSchool's TryGit](https://try.github.io/levels/1/challenges/1)
 
 Non-distributed tools
 ---------------------
-* Apache Subversion ([svn](https://subversion.apache.org/))
+* [Apache Subversion](https://subversion.apache.org/)
+
+Proprietary
+-----------
+* [IBM Rational Team Concert](https://jazz.net/products/rational-team-concert/)
 
 Historical
 --------------------
