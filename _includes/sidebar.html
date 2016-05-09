@@ -1,4 +1,4 @@
-<div class="sidebar">
+<aside class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
@@ -28,11 +28,18 @@
       {% endfor %}
       <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
 // // // // // // // //
+<a class="{% if page.url contains "schedule" %} active{% endif %}"
+  href="{{ site.baseurl }}schedule.html"
+><time class="day"></time></a>
+•
 {% endcomment %}
-      <a class="{% if page.url contains "contact" %} active{% endif %}" href="{{ site.baseurl }}contact.html"
-      >Bio</a> •
-      <a class="{% if page.url contains "tech/index" %} active{% endif %}" href="{{ site.baseurl }}tech/index.html"
+      <a class="{% if page.url contains "tech/index" %} active{% endif %}"
+        href="{{ site.baseurl }}tech/index.html"
       >Notes</a>
+      •
+      <a class="{% if page.url contains "contact" %} active{% endif %}"
+        href="{{ site.baseurl }}contact.html"
+      >Bio</a>
     </nav>
     <p class="socialicons">
         <a class="twitter" href="https://twitter.com/{{ site.author.twitter }}"
@@ -43,4 +50,4 @@
           title="Newsfeed">Newsfeed</a>
     </p>
   </div>
-</div>
+</aside>

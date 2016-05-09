@@ -2,9 +2,27 @@
  * styles
  */
 
-.hidden {
-  display: none;
-}
+ .hidden {
+   display: none;
+ }
+
+span.eighth-0,
+span.eighth-1,
+span.eighth-2,
+span.eighth-3,
+span.eighth-4,
+span.eighth-5,
+span.eighth-6,
+span.eighth-7 { display: none; }
+
+.eighth-0 .eighth-0,
+.eighth-1 .eighth-1,
+.eighth-2 .eighth-2,
+.eighth-3 .eighth-3,
+.eighth-4 .eighth-4,
+.eighth-5 .eighth-5,
+.eighth-6 .eighth-6,
+.eighth-7 .eighth-7 { display: inline; }
 
 header h1 {
   margin-bottom: 1rem;
@@ -16,12 +34,13 @@ h2 {
 
 .page-pic {
   display: inline-block;
-  max-width: 9ex; /* float left 8ex */
+  float: right;
   margin: 0 1em 1ex; /* float right */
 /*  margin: 0.5ex 0.9em 0.5ex 0; /* float left */
-  float: right;
 }
-.page-pic img {
+.page-pic img, .page-pic .fig {
+  width: 9ex; /* float left 8ex */
+  max-height: 9ex;
   margin: 0;
   border-radius: 10%;
 }
@@ -29,15 +48,12 @@ h2 {
   display: none;
 }
 
-
 .clock {
   display: inline-block;
   position: relative;
-  width:  100px;
-  height: 100px;
+  min-width:  24px;
+  min-height: 24px;
   background-color: #ccc;
-  background-color: rgba(0, 0, 0, 0.1);
-  border-radius: 20%;
 }
 .clock:after {
   content: "";
