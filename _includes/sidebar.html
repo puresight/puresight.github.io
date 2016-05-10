@@ -28,10 +28,6 @@
       {% endfor %}
       <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
 // // // // // // // //
-<a class="{% if page.url contains "schedule" %} active{% endif %}"
-  href="{{ site.baseurl }}schedule.html"
-><time class="day"></time></a>
-•
 {% endcomment %}
       <a class="{% if page.url contains "tech/index" %} active{% endif %}"
         href="{{ site.baseurl }}tech/index.html"
@@ -40,6 +36,10 @@
       <a class="{% if page.url contains "contact" %} active{% endif %}"
         href="{{ site.baseurl }}contact.html"
       >Bio</a>
+      •
+      <a class="{% if page.url contains "schedule" %} active{% endif %}"
+        href="{{ site.baseurl }}schedule.html"
+      ><time class="day"></time></a>
     </nav>
     <p class="socialicons">
         <a class="twitter" href="https://twitter.com/{{ site.author.twitter }}"
