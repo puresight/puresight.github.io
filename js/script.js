@@ -105,18 +105,18 @@ Object.assign(M, {
   },
 
   /**
+   * Presumed: language = en
    * @param num
    * @returns "th" or "nd" or "rd" suffix appropriate to num
    */
   th: function th(num){
     if ("number" !== typeof num) throw new TypeError();
-    else {
-      let i = num % 10;
-      if (i > 2 || i === 0) return "th";
-      if (i === 3) return "rd";
-      if (i === 2) return "nd";
-      if (i === 1) return "st";
-    }
+    if (num > 3 && num < 21) return "th"; // teens are special in English
+    let i = num % 10;
+    if (i === 3) return "rd";
+    if (i === 2) return "nd";
+    if (i === 1) return "st";
+    return "th";
   }
 });
 
