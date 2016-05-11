@@ -110,13 +110,17 @@ Object.assign(M, {
    * @returns "th" or "nd" or "rd" suffix appropriate to num
    */
   th: function th(num){
+    let html = "<sup>";
     if ("number" !== typeof num) throw new TypeError();
-    if (num > 3 && num < 21) return "th"; // teens are special in English
-    let i = num % 10;
-    if (i === 3) return "rd";
-    if (i === 2) return "nd";
-    if (i === 1) return "st";
-    return "th";
+    if (num > 3 && num < 21) html+= "th"; // teens are special in English
+    else {
+      let i = num % 10;
+      if (i === 3) html += "rd";
+      else if (i === 2) html += "nd";
+      else if (i === 1) html += "st";
+      else html += "th";
+    }
+    return html + "</sup>";
   }
 });
 

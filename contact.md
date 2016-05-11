@@ -13,7 +13,7 @@ I thrive in challenges that require fresh perspective, demand new insight,
 and insist on learning to overcome.
 I possess innate strength to remain confident, stay true to purpose,
 and drive to results.
-I gain satisfaction through seeing aspirations become real.
+I gain satisfaction seeing aspirations become reality.
 
 <!-- Send me a note? I would love to hear from you. -->
 
