@@ -19,12 +19,13 @@ image:
 
 {{ page.description }}
 
-Formats
--------
-* Really Simple Syndication [RSS]()
+Feed Formats
+------------
+* Really Simple Syndication [RSS](https://cyber.law.harvard.edu/rss/rss.html)
 * [Atom](http://atomenabled.org/) is for syndicating a feed of periodically published content (RFC 4287)
-* [ICS](https://en.wikipedia.org/wiki/ICalendar) allows Internet users to send calendar meeting requests ([RFC 2445](https://www.ietf.org/rfc/rfc2445.txt))
+* [ICS](https://en.wikipedia.org/wiki/ICalendar) allows Internet users to send calendar appointment/meeting requests ([RFC 2445](https://www.ietf.org/rfc/rfc2445.txt))
 
-Tools
------
+Feed Tools
+----------
 * [feedvalidator](http://www.feedvalidator.org/)
+* [feed.press](https://feed.press/features) analytics

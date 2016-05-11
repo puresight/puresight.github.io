@@ -25,6 +25,9 @@ It takes concepts from programming languages such as
 C, Perl, and Python, and ideas from XML
 and the data format of e-mail.
 
+YAML is the coolness behind [Jekyll]({{site.baseurl}}tech/jekyll.html)'s
+awesome "front matter" feature!
+
 Tutorials
 ---------
 

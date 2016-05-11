@@ -17,13 +17,13 @@ image:
 
 {{ page.description }}
 
-Well, it can!
-The [meetup.com](http://www.meetup.com/meetup_api/feeds/)
-website creates a [feed]({{site.baseurl}}tech/syndication.html)
-of the meetings you said you'll be attending;
-and Google's Calendar app lets you add an external calendar by URL.
+Well, it can! The meetup.com
+website creates a [feed of the meetings](http://www.meetup.com/meetup_api/feeds/)
+you said you'll be attending.
+And Google's Calendar app lets you add an
+[external calendar by URL.]({{site.baseurl}}tech/syndication.html)
 
-Seven steps to unified calendaring →
+So, here are seven easy steps to tie it together →
 
 1. Login to Meetup.com, and go to its [homepage](http://www.meetup.com/).
 2. Click the calendar button (next to the search box).
