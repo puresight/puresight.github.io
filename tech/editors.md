@@ -6,7 +6,7 @@ tags:
 - editors
 - IDE
 subject: "programming"
-description: "Text editors are apps useful for revising unicode text files. Here are some editors optimized for programmers writing source code, or markup."
+description: "Text editors are useful for composing source code, writing markup, or revising unicode text. Here are some editors optimized for programmers."
 image:
   alt: "text editor"
   caption: ""
@@ -35,3 +35,8 @@ Add-on integrations
 * for tabs, newlines, etc [EditorConfig](http://editorconfig.org/)
 * for JS style guide [Airbnb](http://airbnb.io/javascript/)
 * for JS syntax checking [ESLint](http://eslint.org/docs/user-guide/getting-started)
+
+Cloud solutions (editor as a service)
+-------------------------------------
+* [Cloud9](https://c9.io/)
+* [https://alternativeto.net/software/cloud9/](https://alternativeto.net/software/cloud9/)

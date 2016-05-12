@@ -9,7 +9,7 @@ description: "JavaScript is a prototype-based, multi-paradigm, dynamic scripting
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/js200.png"
+  url: "images/icons/js200.png"
   width: 200
   height: 200
 ---

@@ -9,7 +9,7 @@ description: "YAML is a human-friendly data serialization format for encoding da
 image:
   alt: "YAML"
   caption: ""
-  url: "images/yaml.png"
+  url: "images/icons/yaml.png"
   width: 100
   height: 36
 ---

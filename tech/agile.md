@@ -9,7 +9,7 @@ description: "Agile software development is a set of values and principles for s
 image:
   alt: "agile"
   caption: ""
-  url: "images/agile.png"
+  url: "images/icons/agile.png"
   width: 100
   height: 100
 ---

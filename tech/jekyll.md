@@ -10,7 +10,7 @@ description: "Jekyll is a static site generator supported by Github. It can turn
 image:
   alt: "OctoJekyll"
   caption: "Octojekyll"
-  url: "images/octojekyll.png"
+  url: "images/icons/octojekyll.png"
   width: 100
   height: 100
 ---
