@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editors
+title: Text Editors
 category: tech
 tags:
 - editors
@@ -17,7 +17,7 @@ image:
 
 {{ page.description }}
 
-Text Editors
+Code Editors
 ------------
 * [Vi](https://www.cs.colostate.edu/helpdocs/vi.html) (terminal app) is
 useful to know for doing server config over SSH.

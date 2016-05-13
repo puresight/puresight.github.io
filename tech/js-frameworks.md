@@ -53,14 +53,8 @@ Historic
 * [Sitepen's Dojo](https://dojotoolkit.org/)
 * [jQuery](https://jquery.com/)
 
-Inspiring Languages
--------------------
+JS inspirations
+---------------
+* [Python](https://www.python.org/)
 * [Elm](http://elm-lang.org/)
 * [ClojureScript Om](https://github.com/omcljs/om#om)
-
-Online Education Centers
------------------------
-* [Front End Masters](https://FrontEndMasters.com/)
-* [Safari Books Online](https://www.SafariBooksOnline.com)
-* [Egghead.io](https://egghead.io/)
-* [Pluralsight](https://www.pluralsight.com/)
