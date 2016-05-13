@@ -18,12 +18,12 @@ image:
 
 Mature
 ------
-* [Backbone.js](http://backbonejs.org/) (+[Underscore](http://underscorejs.org/))
-    * __Pro:__ MVC, functional programming friendly
+* [Backbone.js](http://backbonejs.org/) and [Underscore](http://underscorejs.org/)
+    * __Pro:__ MVC
     * __Con:__ slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
     * __Extensions:__ [Chaplin](http://chaplinjs.org/), [Marionette](http://marionettejs.com/)
 * [Ember.js](http://emberjs.com/)
-    * __Pro:__ continuity, community, open source, devops, evolving, adopts best of others
+    * __Pro:__ enterprise, evolving, continuity, community, open source, devops
     * __Con:__ slower to adopt latest coolness, some bloat, steep learning curve
 * [Google's Angular 1](https://angularjs.org/)
     * __Pro:__ most popular framework
@@ -33,14 +33,20 @@ Mature
     * __Con:__ not opinionated enough
     * __Extensions:__ [Flux](https://facebook.github.io/flux/) model, [Relay](https://facebook.github.io/relay/) ajax, [GraphQL](http://graphql.org/) sync, [Redux](http://redux.js.org/) reactive UI
 
-New
----
+Interesting
+-----------
 * [Google's Angular 2](https://angular.io/)
     * __Pro:__ fast, popular
-    * __Con:__ unreleased, new
+    * __Con:__ new
 * [Durandal's Aurelia](http://aurelia.io/)
     * __Pro:__ pro-standards, advanced, sleek, simple
-    * __Con:__ unreleased, unpopular
+    * __Con:__ new, unpopular
+* [Google's Polymer](https://www.polymer-project.org/1.0/)
+    * __Pro:__ pro-standards, “Material Design” theme
+    * __Con:__ experimental
+* [Meteor](https://www.meteor.com/)
+    * __Pro:__ rapid prototyping
+    * __Con:__ laggard, some non-standard stuff
 
 Historic
 --------
@@ -49,8 +55,8 @@ Historic
 
 Inspiring Languages
 -------------------
-* [ClojureScript](http://clojure.org/about/clojurescript)
 * [Elm](http://elm-lang.org/)
+* [ClojureScript Om](https://github.com/omcljs/om#om)
 
 Online Education Centers
 -----------------------
