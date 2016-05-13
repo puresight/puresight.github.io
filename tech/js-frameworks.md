@@ -20,13 +20,13 @@ Mature
 ------
 * [Backbone.js](http://backbonejs.org/) and [Underscore](http://underscorejs.org/)
     * __Pro:__ MVC
-    * __Con:__ slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
+    * __Con:__ old, slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
     * __Extensions:__ [Chaplin](http://chaplinjs.org/), [Marionette](http://marionettejs.com/)
 * [Ember.js](http://emberjs.com/)
     * __Pro:__ enterprise, evolving, continuity, community, open source, devops
     * __Con:__ slower to adopt latest coolness, some bloat, steep learning curve
 * [Google's Angular 1](https://angularjs.org/)
-    * __Pro:__ most popular framework
+    * __Pro:__ popular
     * __Con:__ deprecated
 * [Facebook's React](https://facebook.github.io/react/)
     * __Pro:__ simple, fast, community, open source, evolving
@@ -37,7 +37,7 @@ Interesting
 -----------
 * [Google's Angular 2](https://angular.io/)
     * __Pro:__ fast, popular
-    * __Con:__ new
+    * __Con:__ new, not true open source
 * [Durandal's Aurelia](http://aurelia.io/)
     * __Pro:__ pro-standards, advanced, sleek, simple
     * __Con:__ new, unpopular
