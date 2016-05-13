@@ -25,6 +25,10 @@ Feed Formats
 * [Atom](http://atomenabled.org/) is for syndicating a feed of periodically published content (RFC 4287)
 * [ICS](https://en.wikipedia.org/wiki/ICalendar) allows Internet users to send calendar appointment/meeting requests ([RFC 2445](https://www.ietf.org/rfc/rfc2445.txt))
 
+Applications
+------------
+* [Podcasting](https://en.wikipedia.org/wiki/Podcast)__:__ [on iTunes](https://itunespartner.apple.com/en/podcasts/overview), [in Atom format](https://resourcecenter.odee.osu.edu/digital-media-production/how-write-podcast-rss-xml)
+
 Feed Tools
 ----------
 * [feedvalidator](http://www.feedvalidator.org/)
