@@ -47,6 +47,9 @@ Interesting
 * [Meteor](https://www.meteor.com/)
     * __Pro:__ rapid prototyping
     * __Con:__ laggard, some non-standard stuff
+* [Cycle.js](http://cycle.js.org/) and [RxJS](http://reactivex.io/)
+    * __Pro:__ reactive, advanced
+    * __Con:__ complex
 
 Historic
 --------
