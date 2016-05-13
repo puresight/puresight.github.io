@@ -33,8 +33,8 @@
         href="{{ site.baseurl }}tech/index.html"
       >Notes</a>
       •
-      <a class=""
-        href="{{ site.baseurl }}index.html"
+      <a class="{% if page.url contains "tech/blog" %} active{% endif %}"
+        href="{{ site.baseurl }}tech/blog.html"
       >Blog</a>
       •
       <a class="{% if page.url contains "schedule" %} active{% endif %}"

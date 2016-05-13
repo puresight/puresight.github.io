@@ -16,10 +16,10 @@ image:
 
 {{ page.description }}
 
-Mature
-------
+Mainstream
+----------
 * [Backbone.js](http://backbonejs.org/) and [Underscore](http://underscorejs.org/)
-    * __Pro:__ MVC
+    * __Pro:__ mature, MVC
     * __Con:__ old, slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
     * __Extensions:__ [Chaplin](http://chaplinjs.org/), [Marionette](http://marionettejs.com/)
 * [Ember.js](http://emberjs.com/)
@@ -29,7 +29,7 @@ Mature
     * __Pro:__ popular
     * __Con:__ deprecated
 * [Facebook's React](https://facebook.github.io/react/)
-    * __Pro:__ simple, fast, community, open source, evolving
+    * __Pro:__ simple, fast, community, open source, mature, evolving
     * __Con:__ not opinionated enough
     * __Extensions:__ [Flux](https://facebook.github.io/flux/) model, [Relay](https://facebook.github.io/relay/) ajax, [GraphQL](http://graphql.org/) sync, [Redux](http://redux.js.org/) reactive UI
 
