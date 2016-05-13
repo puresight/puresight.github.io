@@ -20,10 +20,14 @@ image:
 * element.closest [jonathantneal/closest](https://github.com/jonathantneal/closest)
 * ES5 [es-shims/es5-shim](https://github.com/es-shims/es5-shim)
 
+Polyfills as a service
+----------------------
+* [Polyfill.io](http://Polyfill.io/)'s service reads the User-Agent header in the the request for their library and responds with only the polyfills needed for that browser.
+
 Reference
 ---------
 
-These websites have become _de facto_ reference for documenting deficiencies
+These websites have become _de facto_ reference for documenting deficiencies:
 
 * Kangax [compatibility tables](https://kangax.github.io/compat-table/es6/)
 * [Can I Use](http://caniuse.com/)
