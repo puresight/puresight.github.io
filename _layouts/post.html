@@ -19,6 +19,16 @@ layout: default
     <figcaption>{{ page.image.caption }}</figcaption>
   </figure>
   {{ content }}
+
+  <footer>
+    <hr/>
+    {% if page.previous and page.previous.url %}
+      <a href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next and page.next.url %}
+      <a href="{{ page.next.url }}" style="float:right">{{ page.next.title }} →</a>
+    {% endif %}
+  </footer>
 </article>
 
 <!--div class="related">

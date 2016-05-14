@@ -7,6 +7,8 @@ subject: technology
 description: "Technology reference notes"
 ---
 
+For professionals
+
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
   {% if node.title and node.noindex != true and node.layout == "page" and node.category == page.category %}
