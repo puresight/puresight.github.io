@@ -152,3 +152,32 @@ h2 {
 .socialicons a.tumblr { background-image: url(../images/social-icons/tumblr.png);}
 .socialicons a.aim { background-image: url(../images/social-icons/aim.png);}
 .socialicons a.google { background-image: url(../images/social-icons/google.png);}
+
+
+#overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0;
+  background-color: #000;
+  transition: all 0.5s;
+}
+
+/**
+.loading #overlay { z-index: 900; opacity: 1.0; }
+
+.dot {
+  position: absolute;
+  left: 90%;
+  top: 2em;
+  width:  1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: #ccc;
+  z-index: 1;
+  transition: left 1s;
+}
+
+.loading .dot { left: 10%; }
+/**/

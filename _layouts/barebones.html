@@ -2,16 +2,17 @@
 <html lang="en">
 <head>
 
-<meta http-equiv="Cache-Control" content="max-age=86400" />
 {% include liquid.html %}
+<meta http-equiv="Cache-Control" content="max-age=86400" />
 {% include metadata.html %}
 {% include css.html %}
 
 </head>
-<body class="hyde layout-reverse notready">
+<body class="hyde layout-reverse loading">
 
 {{ content }}
 
+<div id="overlay"></div>
 <script async defer src="{{ site.baseurl }}js/deferred.js"></script>
 <script src="{{ site.baseurl }}js/script.js"></script>
 {% if page.script %}<script src="{{ site.baseurl }}js/{{ page.script }}}}.js"></script>{% endif %}

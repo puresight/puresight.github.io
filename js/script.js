@@ -27,7 +27,7 @@ function M(win){
   bodyElement.classList.add("eighth-" + eighth);
 
   M.setClocks(hour, minute, second);
-  bodyElement.classList.remove("notready");
+  M.ready = true;
 }
 
 //Mix properties into namespace M
@@ -125,3 +125,8 @@ Object.assign(M, {
 });
 
 M(window);
+
+window.addEventListener("load", function(e) {
+  if (!M.ready) throw new Error("M not ready at window load");
+  document.body.classList.remove("loading");
+});
