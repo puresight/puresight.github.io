@@ -7,6 +7,7 @@ description: "Welcome to my new website."
 ---
 
 {{ page.description }}
+
 I built with [Jekyll]({{site.baseurl}}tech/jekyll.html)
 because its tech aligns with what I chose at
 [Texas A&M]({{site.baseurl}}clients/tamu.html),

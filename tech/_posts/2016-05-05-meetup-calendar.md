@@ -5,7 +5,7 @@ category: tech
 subject: article
 tags: android calendar meetup
 description: "Wouldn't it be nice if your Android phone would just know what Meetup.com events
-you have RSVP'd to? And give you appointment reminders for them, the way it does
+you RSVP'd to? And give you appointment reminders for them, the way it does
 for stuff on your Google calendar?"
 image:
   alt: "Meetup.com"

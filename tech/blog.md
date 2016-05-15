@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog
 noindex: true
 subject: weblog
@@ -19,10 +19,10 @@ description: "Periodically published blogs by Monty Dickerson on technical or pr
     </header>
     {{ post.content }}
   </article>
-  <hr/>
   {% endfor %}
 </section>
 
+<hr/>
 <section id="archive">
   <ul class="past">
   {% for post in site.categories.tech offset:5 limit:9 %}

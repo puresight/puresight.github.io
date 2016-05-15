@@ -20,7 +20,7 @@ function M(win){
   M.month = M.months[time.getMonth()];
   M.weekday = M.weekdays[time.getDay()];
 
-  M.map(timeElements, M.appendSpan, M.map(timeElements, M.classTime));
+  M.map(timeElements, M.replaceText, M.map(timeElements, M.classTime));
   bodyElement.classList.add(M.month.toLowerCase());
   bodyElement.classList.add(M.weekday.toLowerCase());
   bodyElement.classList.add(M.theme[eighth]);
@@ -101,6 +101,21 @@ Object.assign(M, {
       let span = document.createElement("span");
       span.innerHTML = text;
       return this.appendChild(span);
+    } else throw new RangeError();
+  },
+
+  /**
+   * impure function because mutates DOM
+   * @this = node
+   * @param text TODO escaping
+   */
+  replaceText: function replaceText(text){
+    if (text && this) {
+      let html = "<span>";
+      html += text;
+      html += "</span>";
+      this.innerHTML = html;
+      return html;
     } else throw new RangeError();
   },
 
