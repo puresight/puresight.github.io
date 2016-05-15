@@ -2,9 +2,25 @@
  * styles
  */
 
- .hidden {
-   display: none;
- }
+body {
+  position: relative;
+}
+
+#overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  opacity: 0;
+  background-color: #000;
+  transition: all 0.25s;
+}
+
+.hidden {
+  display: none;
+}
 
 span.eighth-0,
 span.eighth-1,
@@ -153,20 +169,7 @@ h2 {
 .socialicons a.aim { background-image: url(../images/social-icons/aim.png);}
 .socialicons a.google { background-image: url(../images/social-icons/google.png);}
 
-
-#overlay {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  opacity: 0;
-  background-color: #000;
-  transition: all 0.5s;
-}
-
 /**
-.loading #overlay { z-index: 900; opacity: 1.0; }
-
 .dot {
   position: absolute;
   left: 90%;
