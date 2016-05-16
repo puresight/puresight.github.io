@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text Editors
+title: Editors
 category: tech
 tags:
 - editors
@@ -28,7 +28,11 @@ Has been the king of the hill.
 code editor from Github with Node.js plug-ins.
 Shall be the king of the hill.
 * [Adobe Brackets](http://brackets.io/) integrates with Photoshop to pull
-CSS styles from PSD files
+CSS styles from PSD files; this might be useful to some.
+* [Light Table](http://lighttable.com/) is a computer-aided software engingeering IDE
+developed by Chris Granger and Robert Attorri,
+featuring real-time feedback
+allowing instant execution, debugging and access to documentation.
 
 Add-on integrations
 -------------------
@@ -39,4 +43,5 @@ Add-on integrations
 Cloud solutions (editor as a service)
 -------------------------------------
 * [Cloud9](https://c9.io/)
+* [Nitrous](https://www.nitrous.io/pricing/)
 * [https://alternativeto.net/software/cloud9/](https://alternativeto.net/software/cloud9/)

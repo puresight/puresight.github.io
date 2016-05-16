@@ -10,8 +10,8 @@ image:
   alt: "Elm"
   caption: ""
   url: "images/icons/elm.svg"
-  width: 200
-  height: 200
+  width: 512
+  height: 512
 ---
 
 {{ page.description }}
