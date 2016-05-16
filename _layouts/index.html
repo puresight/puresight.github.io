@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign pages_list = site.pages %}
+
+{% for node in pages_list %}
+  {% if node.title and node.noindex != true and node.layout == "page" and node.category == page.category %}
+  <p>
+    <a href="{{ node.url }}">{{ node.title }}</a> - {{ node.description }}
+  </p>
+  {% endif %}
+{% endfor %}
+
+<footer>
+  Website, Copyright {{ site.time | date: '%Y' }} {{ site.author.name }}
+</footer>

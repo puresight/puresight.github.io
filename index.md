@@ -1,6 +1,10 @@
 ---
-layout: myroom
+layout: index
 title: Home
-noindex: true
+tagline: Tech notes
 subject: website
+noindex: true
+category: tech
 ---
+
+Technology notes for software professionals

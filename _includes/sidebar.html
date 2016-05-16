@@ -28,18 +28,18 @@
       {% endfor %}
       <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
 // // // // // // // //
+{% endcomment %}
+      <a class="{% if page.url contains "tech/blog" %} active{% endif %}"
+        href="{{ site.baseurl }}tech/blog.html"
+      >Blog</a>
+      •
+      <a class="{% if page.url contains "tech/index" %} active{% endif %}"
+        href="{{ site.baseurl }}tech/index.html"
+      >Notes</a>
       •
       <a class="{% if page.url contains "schedule" %} active{% endif %}"
         href="{{ site.baseurl }}schedule.html"
       ><time class="day">Today</time></a>
-{% endcomment %}
-      <a class="{% if page.url contains "tech/index" %} active{% endif %}"
-        href="{{ site.baseurl }}tech/index.html"
-      >Tech Notes</a>
-      •
-      <a class="{% if page.url contains "tech/blog" %} active{% endif %}"
-        href="{{ site.baseurl }}tech/blog.html"
-      >Tech Blog</a>
     </nav>
     <p class="socialicons">
         <a class="twitter" href="https://twitter.com/{{ site.author.twitter }}"

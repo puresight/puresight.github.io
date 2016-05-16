@@ -2,10 +2,15 @@
 layout: default
 ---
 
-{% if page.title != "Home" %}
 
 <header>
-    <h1 class="page-title">{{ page.title }}</h1>
+    <h1 class="page-title">
+      {% if page.title == "Home" %}
+        {{ page.tagline }}
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+    </h1>
 </header>
 
 <figure class="page-pic">
@@ -19,7 +24,5 @@ layout: default
   </picture>
   <figcaption>{{ page.image.caption }}</figcaption>
 </figure>
-
-{% endif %}
 
 {{ content }}
