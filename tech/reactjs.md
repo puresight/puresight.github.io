@@ -30,7 +30,14 @@ News
 
 Blogs
 -----
+* [React JS newsletter](http://reactjsnewsletter.com/issues) curated by Tyler McGinnis + Ean Platter
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) by [Andrew Ray](https://twitter.com/andrewray)
+
+Community
+---------
+* [/r/reactjs/](https://www.reddit.com/r/reactjs/)
+* [React JS News](https://reactjsnews.com/) ← [contribute](https://github.com/Legitcode/ReactJSNews/)
+* [Periscope](https://www.periscope.tv/ReactJSNews) @ReactJSNews curated by @zachcodes, @jedwatson, and @browniefed check out @reactpodcast
 
 Courses
 -------
@@ -49,5 +56,5 @@ I like the transparency & openness of how ReactJS is being developed:
 
 ### Intellectual Property
 
-* Copyright ⓒ Facebook [BSD-3](https://en.wikipedia.org/wiki/BSD_licenses#3-clause) license
-* [patents](https://en.wikipedia.org/wiki/React_(JavaScript_library)#Patents_clause_controversy)
+* Copyright Facebook License [BSD-3](https://en.wikipedia.org/wiki/BSD_licenses#3-clause)
+* [Patents](https://en.wikipedia.org/wiki/React_(JavaScript_library)#Patents_clause_controversy)

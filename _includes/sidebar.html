@@ -29,13 +29,13 @@
       <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
 // // // // // // // //
 {% endcomment %}
-      <a class="{% if page.url contains "tech/blog" %} active{% endif %}"
-        href="{{ site.baseurl }}tech/blog.html"
-      >Blog</a>
-      •
       <a class="{% if page.url contains "tech/index" %} active{% endif %}"
         href="{{ site.baseurl }}tech/index.html"
       >Notes</a>
+      •
+      <a class="{% if page.url contains "tech/blog" %} active{% endif %}"
+        href="{{ site.baseurl }}tech/blog.html"
+      >Blog</a>
       •
       <a class="{% if page.url contains "schedule" %} active{% endif %}"
         href="{{ site.baseurl }}schedule.html"
