@@ -28,10 +28,9 @@ Mainstream
 * [Google's Angular 1](https://angularjs.org/)
     * __Pro:__ popular
     * __Con:__ deprecated
-* [Facebook's React](https://facebook.github.io/react/)
+* [Facebook's React]({{site.baseurl}}tech/reactjs.html)
     * __Pro:__ simple, fast, community, open source, mature, evolving
     * __Con:__ not opinionated enough
-    * __Extensions:__ [Flux](https://facebook.github.io/flux/) model, [Relay](https://facebook.github.io/relay/) ajax, [GraphQL](http://graphql.org/) sync, [Redux](http://redux.js.org/) reactive UI
 
 Interesting
 -----------
