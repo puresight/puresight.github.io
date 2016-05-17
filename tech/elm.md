@@ -52,3 +52,8 @@ Blogs
 * [Getting Started With Elm by Mike Clark](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) Pragmatic, 2015
 * [Elm by Example by Grzegorz Balcerek](http://elm-by-example.org/) 0.15
 * [Ossi Hanhinen](https://www.twitter.com/ohanhi)'s [0.16 experience](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+
+Community
+---------
+* [Join Elm Slack](https://elmlang.herokuapp.com/)
+* [Elmcast.io](http://www.elmcast.io/)
