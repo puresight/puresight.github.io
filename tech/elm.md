@@ -36,12 +36,19 @@ $ npm install -g elm
 
 Guides
 ------
+* [elm-lang.org/docs](http://elm-lang.org/docs)
 * [Official Guide](http://guide.elm-lang.org/): [The Elm Architecture](http://guide.elm-lang.org/architecture/)
+* [elm-tutorial.org](http://www.elm-tutorial.org/) on Elm architecture, modules, css, json, routing, API's - by [Sebastian Porto](https://twitter.com/intent/user?screen_name=sebasporto)
 * [The Elm Weekly](http://www.elmweekly.nl/)
+
+Videos
+------
 * [Daily Drip Videos](https://www.dailydrip.com/topics/elm)
 * [Pragmatic Studio $35 Elm—Building Reactive Web Apps (Video Tutorial)](https://pragmaticstudio.com/elm)
 
 Blogs
 -----------
 * [Upgrade 0.16 to Version 0.17](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.17.md)
+* [Getting Started With Elm by Mike Clark](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) Pragmatic, 2015
+* [Elm by Example by Grzegorz Balcerek](http://elm-by-example.org/) 0.15
 * [Ossi Hanhinen](https://www.twitter.com/ohanhi)'s [0.16 experience](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
