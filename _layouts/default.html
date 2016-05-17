@@ -10,6 +10,6 @@ layout: barebones
 
 {% include sidebar.html layout="page" category="general" %}
 
-<main class="content container">
+<main class="content container {% for x in page.categories %}{{ x }} {% endfor %} {% for x in page.tags %}{{ x }} {% endfor %}">
   {{ content }}
 </main>

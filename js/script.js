@@ -88,7 +88,7 @@ Object.assign(M, {
         "day-month-date": M.weekday + ", " + M.month + " " + M.monthday + M.th(M.monthday),
         "day-month-date-year": M.weekday + ", " + M.month + " " + M.monthday + M.th(M.monthday) + ", " + M.year,
       }[this.className];
-    else throw new Error();
+    else return console.log("A time tag's class name was unrecognized") || "";
   },
 
   /**
@@ -116,7 +116,7 @@ Object.assign(M, {
       html += "</span>";
       this.innerHTML = html;
       return html;
-    } else throw new RangeError();
+    } else return console.log("Unexpected parameter") || "";
   },
 
   /**

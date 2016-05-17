@@ -18,9 +18,10 @@
 <meta name="DC.publisher" content="{{ site.author.name }}"/>
 
 {% comment %} Page {% endcomment %}
-<meta name="DC.title"           content="{{ page.title }}" />
-<meta name="DC.description"     content="{{ page.description }}" />
-<meta property="og:description" content="{{ page.description }}" />
+<meta name="DC.subject" content="{% for x in page.categories %}{{ x }},{% endfor %}{% for x in page.tags %}{{ x }},{% endfor %}"/>
+<meta name="DC.title"            content="{{ page.title }}" />
+<meta name="DC.description"      content="{{ page.description }}" />
+<meta property="og:description"  content="{{ page.description }}" />
 <meta name="DC.subject"   content="{{ page.subject }}" />
 <meta name="DC.creator"   content="{{ page.creator }}" />
 <meta property="og:url"   content="{{ site.url }}{{ page.url }}" />

@@ -26,3 +26,13 @@ layout: default
 </figure>
 
 {{ content }}
+
+<p class="hidden">
+{% if page.date %}Revised: {{ page.date }}<br/>{% endif %}
+{% if page.tags %}
+  Tags:<span class="tags">{% for x in page.tags %} <span>{{ x }}</span>{% endfor %}</span><br/>
+{% endif %}
+{% if page.categories %}
+  Categories:<span class="categories">{% for x in page.categories %} <span>{{ x }}</span>{% endfor %}</span><br/>
+{% endif %}
+</p>

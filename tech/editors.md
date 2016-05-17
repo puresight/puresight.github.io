@@ -5,6 +5,7 @@ category: tech
 tags:
 - editors
 - IDE
+- CASE
 subject: "programming"
 description: "Text editors are useful for composing source code, writing markup, or revising unicode text. Here are some editors optimized for programmers."
 image:
@@ -21,18 +22,18 @@ Code Editors
 ------------
 * [Vi](https://www.cs.colostate.edu/helpdocs/vi.html) (terminal app) is
 useful to know for doing server config over SSH.
-* [Sublime Text](https://www.sublimetext.com/) is a proprietary text editor
+* [Atom](http://blog.atom.io/2014/03/13/git-integration.html) from Github
+with Node.js plug-ins. Shall be the king of the hill.
+* [Sublime Text](https://www.sublimetext.com/) ($70) is a proprietary text editor
 with a good UI and features.
 Has been the king of the hill.
-* [Atom](http://blog.atom.io/2014/03/13/git-integration.html) (desktop app)
-code editor from Github with Node.js plug-ins.
-Shall be the king of the hill.
-* [Adobe Brackets](http://brackets.io/) integrates with Photoshop to pull
-CSS styles from PSD files; this might be useful to some.
+* [WebStorm](https://www.jetbrains.com/webstorm/) ($130) IDE from JetBrains does autocomplete, navigation help, error detection, refactorings for JavaScript, Node.js, HTML, CSS, and more.
 * [Light Table](http://lighttable.com/) is a computer-aided software engingeering IDE
 developed by Chris Granger and Robert Attorri,
 featuring real-time feedback
 allowing instant execution, debugging and access to documentation.
+* [Adobe Brackets](http://brackets.io/) integrates with Photoshop to pull
+CSS styles from PSD files; this might be useful to some.
 
 Add-on integrations
 -------------------
