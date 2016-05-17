@@ -5,7 +5,7 @@ category: tech
 tags:
 - language
 subject: "programming language"
-description: "Elm is a functional programming language with virtual DOM, strong types, immutable data structures, et. al."
+description: "Elm is a functional programming language with Virtual DOM, strong types, immutable data structures, et. al."
 image:
   alt: "Elm"
   caption: ""
@@ -19,9 +19,9 @@ image:
 Language
 --------
 
-[Elm](http://guide.elm-lang.org/)
+[Elm](http://elm-lang.org/)
 was designed by [Evan Czaplicki](http://evan.czaplicki.us/)
-as his [thesis in 2012.](http://elm-lang.org/papers/concurrent-frp.pdf)
+as his [thesis](http://elm-lang.org/papers/concurrent-frp.pdf) in 2012.
 
 ```elm
 main = span [class "welcome-message"] [text "Hello, World!"]
