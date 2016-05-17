@@ -43,8 +43,8 @@ Object.assign(M, {
     "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
   ],
   theme: [
-    "theme-base-0c", "theme-base-00", "theme-base-0a", "theme-base-00", //am
-    "theme-base-0d", "theme-base-0b", "theme-base-00", "theme-base-08", //pm
+    "theme-base-0c", "theme-base-00", "theme-base-0b", "theme-base-00", //am
+    "theme-base-0d", "theme-base-00", "theme-base-00", "theme-base-08", //pm
   ],
 
   /**

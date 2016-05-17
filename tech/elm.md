@@ -38,7 +38,7 @@ Guides
 ------
 * [elm-lang.org/docs](http://elm-lang.org/docs)
 * [Official Guide](http://guide.elm-lang.org/): [The Elm Architecture](http://guide.elm-lang.org/architecture/)
-* [elm-tutorial.org](http://www.elm-tutorial.org/) on Elm architecture, modules, css, json, routing, API's - by [Sebastian Porto](https://twitter.com/intent/user?screen_name=sebasporto)
+* [Elm-Tutorial.org](http://www.elm-tutorial.org/) by [Sebastian Porto](https://twitter.com/intent/user?screen_name=sebasporto) on Elm architecture, modules, css, json, routing, API's
 * [The Elm Weekly](http://www.elmweekly.nl/)
 
 Videos
