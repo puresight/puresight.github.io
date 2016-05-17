@@ -16,7 +16,24 @@ image:
 
 {{ page.description }}
 
+I love the transparency & openness of how ReactJS is developed.
 
+## Open Source -
+
+### Code Governance
+
+* [principles](https://reactcommunity.org/)
+* [community](https://github.com/reactjs)
+* [core notes](https://github.com/reactjs/core-notes)
+
+### IP Licensing
+
+* [BSD-3](https://en.wikipedia.org/wiki/BSD_licenses#3-clause)
+* [patents](https://en.wikipedia.org/wiki/React_(JavaScript_library)#Patents_clause_controversy)
+
+News
+----
+* [Twitter](https://twitter.com/reactjs)
 
 Courses
 -------

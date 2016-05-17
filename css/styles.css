@@ -44,9 +44,8 @@ header h1 {
   margin-bottom: 1rem;
 }
 
-h2 {
-  font-size: 1.25rem;
-}
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.05rem; }
 
 .page-pic {
   display: inline-block;
