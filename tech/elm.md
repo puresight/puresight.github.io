@@ -39,6 +39,7 @@ Guides
 * [Official Guide](http://guide.elm-lang.org/): [The Elm Architecture](http://guide.elm-lang.org/architecture/)
 * [The Elm Weekly](http://www.elmweekly.nl/)
 * [Daily Drip Videos](https://www.dailydrip.com/topics/elm)
+* [Pragmatic Studio $35 Elm—Building Reactive Web Apps (Video Tutorial)](https://pragmaticstudio.com/elm)
 
 Blogs
 -----------
