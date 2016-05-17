@@ -50,6 +50,7 @@ Interesting
 * [Cycle.js](http://cycle.js.org/) and [RxJS](http://reactivex.io/)
     * __Pro:__ reactive, advanced
     * __Con:__ complex
+    * Example: [RxJS 5 operators](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35#withlatestfrom)
 
 Historic
 --------
