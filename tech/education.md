@@ -14,31 +14,46 @@ image:
 
 {{ page.description }}
 
-Online Education Centers
------------------------
+Publishers
+----------
+* [O'Reilly Media](http://shop.oreilly.com/)
+* [Manning Publications](https://www.manning.com/)
+* [Packt Publishing](https://www.packtpub.com/)
+* [Leanpub](https://leanpub.com/book_search?search=javascript)
+
+Schools
+-------
 * [Front End Masters](https://FrontEndMasters.com/)
 * [Safari Books Online](https://www.SafariBooksOnline.com)
 * [Egghead.io](https://egghead.io/)
 * [Pluralsight](https://www.pluralsight.com/)
+* [CodeSchool](https://www.codeschool.com/)
 
 Podcasts
 --------
-* JavaScript Jabber
-* JavaScript Air
+* [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [JavaScript Air](https://javascriptair.com/)
+* [FiveJS](https://fivejs.codeschool.com/)
 
 Newsletters
 -----------
-* JavaScript Weekly
-* JSter
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [JSter](http://jster.net/)
 
 Authors
 -------
-* Kyle Simpson
-    * books https://github.com/getify/You-Dont-Know-JS
-    * demo: async events processing https://github.com/getify/a-tale-of-three-lists#a-tale-of-three-lists
-    * twitter @getify
-* Addy Osmani
-    * JS patterns book https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-    * twitter @addyosmani
-* Stoyan Stefanov
-    * Twitter @stoyanstefanov
+
+A few off the top of my mind.
+
+* [Kyle Simpson](https://twitter.com/getify)
+    * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+    * demo: [async events processing](https://github.com/getify/a-tale-of-three-lists#a-tale-of-three-lists)
+* [Addy Osmani](https://twitter.com/addyosmani)
+    * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
+    * [Amazon](http://www.amazon.com/Stoyan-Stefanov/e/B002BLXYIG)
+    * [BookOfSpeed.com](http://www.bookofspeed.com/)
+* [Nicholas C. Zakas](https://twitter.com/slicknet)
+    * [Maintainable JavaScript: Writing Readable Code](http://shop.oreilly.com/product/0636920025245.do)
+* [Eric Elliott](https://twitter.com/_ericelliott)
+    * [JavaScript course](https://ericelliottjs.com/product/lifetime-access-pass/) $995
