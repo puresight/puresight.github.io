@@ -16,9 +16,10 @@ image:
 
 * node version manager [nvm](https://davidwalsh.name/nvm)
 * package manager [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
-* editor [Atom](http://blog.atom.io/2014/03/13/git-integration.html)
+* [source editor]({{site.baseurl}}tech/editors.html)
+* [version control]({{site.baseurl}}tech/scm.html)
 * certificate authority [Let's Encrypt](https://letsencrypt.org/)
 * compiler [Babel](https://babeljs.io/)
-* bundler [Webpack](https://webpack.github.io/docs/tutorials/getting-started/)
-* upkeep [Greenkeeper](https://greenkeeper.io/)
+* [module bundler]({{site.baseurl}}tech/webpack.html)
+* package upkeep [Greenkeeper](https://greenkeeper.io/)
 * continuous integration [TravisCI](https://travis-ci.org/)

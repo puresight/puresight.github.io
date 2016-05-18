@@ -18,6 +18,8 @@ image:
 [Webpack](https://webpack.github.io/)
 is a module bundler that takes modules with dependencies and generates static assets representing those modules.
 
+## [Getting Started](https://webpack.github.io/docs/tutorials/getting-started/)
+
 Features
 --------
 * Split the dependency tree into chunks loaded on demand

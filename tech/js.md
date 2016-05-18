@@ -31,13 +31,14 @@ It's ubiquitous.
 Language
 --------
 
-Since 2012, web browsers fully support
-[ECMAScript 5.1](http://www.ecma-international.org/ecma-262/5.1/)
-specification. Really old browsers just support
+Ancient browsers only supported
 [ECMAScript 3](http://www-archive.mozilla.org/js/language/E262-3.pdf).
-In June 2015, ECMA International published the sixth major version (ES6)
-called [ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/).
+Since 2012, web browsers have supported the
+[ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/)
+specification.
+In 2016, all major browsers support the sixth
+edition—[ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/).
 
 New [ECMAScript](https://github.com/tc39/ecma262/)
-standards are landing every year now; the language is growing so fast that
+standards are landing every year now. The language is growing so fast that
 _transpiling_ is a practical necessity.
