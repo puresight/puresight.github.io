@@ -6,3 +6,5 @@ category: business
 subject: business
 description: "Business notes"
 ---
+
+{{ page.description }}
