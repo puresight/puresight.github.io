@@ -64,6 +64,7 @@ h3 { font-size: 1.05rem; }
 
 .clock.fig {
   height: 10vw;
+  background-color: #eee;
   background-color: rgba(0, 0, 0, 0.1);
 }
 .clock {

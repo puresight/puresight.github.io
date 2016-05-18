@@ -15,6 +15,17 @@ layout: default
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
     </header>
+    <figure class="page-pic">
+      <picture>{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
+        <img
+          src="{{ site.baseurl }}{{ post.image.url }}"
+          alt="{{ post.image.url }}"
+          class="{{ post.image.class }}"
+          style="{{ post.image.style }}"
+        />
+      </picture>
+      <figcaption>{{ post.image.caption }}</figcaption>
+    </figure>
     {{ post.content }}
   </article>
   {% endfor %}
