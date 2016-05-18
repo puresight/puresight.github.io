@@ -29,10 +29,18 @@ SCM practices include version control, and establishing baselines.
 Git SCM clients
 ---------------
 * [Ungit](https://codio.com/docs/ide/tutorials/ungit/) for Node.js
+* [QGit](https://sourceforge.net/projects/qgit/) views revisions, diffs, files history, files annotation, archive tree; commits changes visually cherry picking modified files; apply or format patch series from selected commits, drag & drop commits; push/pop commits
+* [Meld](https://kaiw.github.io/) diff/merge
 * [SourceTree](https://www.sourcetreeapp.com/) for Mac or Windows
-* [GitUp](http://gitup.co/) for Mac
-* [Tower](https://www.git-tower.com/) for Mac
-* [Git Cola](https://git-cola.github.io/) for Linux
+
+Git SCM clients - Mac
+---------------------
+* [GitUp](http://gitup.co/)
+* [Tower](https://www.git-tower.com/)
+
+Git SCM clients - Linux
+-----------------------
+* [Git Cola](https://git-cola.github.io/)
 
 Non-distributed SCM systems
 ---------------------------

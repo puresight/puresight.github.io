@@ -31,9 +31,10 @@ Schools
 
 Podcasts
 --------
-* [JavaScript Jabber](https://devchat.tv/js-jabber)
-* [JavaScript Air](https://javascriptair.com/)
-* [FiveJS](https://fivejs.codeschool.com/)
+* [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) videos
+* [JavaScript Jabber](https://devchat.tv/js-jabber) audio
+* [JavaScript Air](https://javascriptair.com/) audio
+* [FiveJS](https://fivejs.codeschool.com/) audio
 
 Newsletters
 -----------
