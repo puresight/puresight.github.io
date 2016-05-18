@@ -56,8 +56,11 @@ Historic
 * [Sitepen's Dojo](https://dojotoolkit.org/)
 * [jQuery](https://jquery.com/)
 
-JS inspirations
+Catalogs
+--------
+* [JSter](http://jster.net/) is a catalog of JS libraries curated by [Juho Vepsäläinen](https://twitter.com/bebraw)
+
+Non-JS inspirations
 ---------------
-* [Python](https://www.python.org/)
-* [Elm](http://elm-lang.org/)
+* [Elm]({{site.baseurl}}tech/elm.html)
 * [ClojureScript Om](https://github.com/omcljs/om#om)
