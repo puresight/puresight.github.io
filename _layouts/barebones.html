@@ -1,20 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<!--[if IE]>
+  <html class="unsupportedBrowser">
+<![endif]-->
+<!--[if !IE]><!-->
+  <html>
+ <!--<![endif]-->
+ <head>
 
 {% include liquid.html %}
 <meta http-equiv="Cache-Control" content="max-age=86400" />
 {% include metadata.html %}
-{% include css.html %}
+<link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+<link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+<link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+<link rel="stylesheet" href="{{ site.baseurl }}css/styles.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+{% if page.stylesheet %}<link rel="stylesheet" href="{{ site.baseurl }}css/{{ page.stylesheet }}.css">{% endif %}
 
 </head>
-<body class="hyde layout-reverse loading">
+<body class="layout-reverse loading">
 
 {{ content }}
-
 <div id="overlay"></div>
 <script async defer src="{{ site.baseurl }}js/deferred.js"></script>
 <script src="{{ site.baseurl }}js/script.js"></script>
-{% if page.script %}<script src="{{ site.baseurl }}js/{{ page.script }}}}.js"></script>{% endif %}
+{% if page.script %}<script src="{{ site.baseurl }}js/{{ page.script }}.js"></script>{% endif %}
+
 </body>
 </html>

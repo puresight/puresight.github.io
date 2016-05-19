@@ -2,8 +2,27 @@
  * styles
  */
 
+.unsupportedBrowser {
+  display: none; /**/
+}
+
+html.unsupportedBrowser div.unsupportedBrowser {
+  display: block;
+  float: left;
+  max-width: 70%;
+  margin: 1ex;
+  border: 1px solid black;
+  padding: 1ex 1em;
+  background-color: pink;
+}
+
+html {
+  min-height: 100vh;
+}
+
 body {
   position: relative;
+  min-height: 98vh;
 }
 
 #overlay {

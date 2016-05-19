@@ -26,6 +26,15 @@ image:
 * [Flow](http://flowtype.org/) types
 * [React Native](https://facebook.github.io/react-native/) mobile
 
+Values
+------
+* Immutable Data
+* Functional Programming
+* Declarative API's
+* Virtual DOM
+* Implicit Parallelism
+* Horizontal Platform
+
 Tools
 -----
 * [Nuclide](https://nuclide.io/) extends the Atom [editor]({{site.baseurl}}tech/editors.html) to support React Native, Hack, & Flow
