@@ -3,7 +3,7 @@ layout: page
 title: Testing
 category: tech
 subject: schools
-description: "Test-driven programming, integration and deployment in JavaScript"
+description: "Test-driven development, integration and deployment in JavaScript"
 image:
   alt: "JavaScript"
   caption: ""
