@@ -19,7 +19,7 @@ layout: default
       src="{{ site.baseurl }}{{ page.image.url }}"
       alt="{{ page.image.url }}"
       class="{{ page.image.class }}"
-      style="{{ page.image.style }}"
+      style="{{ page.image.style }}; max-width:{{ page.image.width }}"
     />
   </picture>
   <figcaption>{{ page.image.caption }}</figcaption>

@@ -3,6 +3,9 @@ layout: post
 title: "New!"
 category: tech
 subject: article
+tags:
+- cms
+- clients
 description: "Welcome to my new website."
 ---
 
