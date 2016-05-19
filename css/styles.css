@@ -6,7 +6,8 @@
   display: none; /**/
 }
 
-html.unsupportedBrowser div.unsupportedBrowser {
+html.unsupportedBrowser div.unsupportedBrowser,
+.noscript {
   display: block;
   float: left;
   max-width: 70%;

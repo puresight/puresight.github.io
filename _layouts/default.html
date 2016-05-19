@@ -15,6 +15,13 @@ layout: barebones
   <span href="http://microsoft.com/ie">Microsoft Internet Explorer.</span>
 </div>
 
+<noscript>
+  <div class="noscript">
+    This website requires JavaScript.
+    Please enable JavaScript to continue.
+  </div>
+</noscript>
+
 {% include sidebar.html layout="page" category="general" %}
 
 <main class="content container {% for x in page.categories %}{{ x }} {% endfor %} {% for x in page.tags %}{{ x }} {% endfor %}">

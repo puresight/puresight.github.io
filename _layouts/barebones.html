@@ -8,8 +8,12 @@
  <head>
 
 {% include liquid.html %}
-<meta http-equiv="Cache-Control" content="max-age=86400" />
 {% include metadata.html %}
+<meta http-equiv="Cache-Control" content="max-age=86400" />
+<!--[if IE]><meta http-equiv="refresh"
+  content="6; url=http://windows.microsoft.com/en-us/windows/is-computer-up-to-date">
+<![endif]-->
+
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
