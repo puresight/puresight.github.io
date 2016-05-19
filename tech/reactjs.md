@@ -26,6 +26,11 @@ image:
 * [Flow](http://flowtype.org/) types
 * [React Native](https://facebook.github.io/react-native/) mobile
 
+Tools
+-----
+* [Nuclide](https://nuclide.io/) extends the Atom [editor]({{site.baseurl}}tech/editors.html) to support React Native, Hack, & Flow
+* [react-devtools](https://github.com/facebook/react-devtools) extends browser devtools for debugging
+
 Community
 ---------
 * [/r/reactjs/](https://www.reddit.com/r/reactjs/)
