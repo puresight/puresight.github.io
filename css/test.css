@@ -2,6 +2,6 @@
  * test
  */
 
-html {
-  border: 3px dashed pink;
+body {
+  border: 1px dashed pink !important;
 }

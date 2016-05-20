@@ -25,6 +25,8 @@ function M(win){
   bodyElement.classList.add(M.weekday.toLowerCase());
   bodyElement.classList.add(M.theme[eighth]);
   bodyElement.classList.add("eighth-" + eighth);
+  bodyElement.classList.add(80 === win.port ? "production" : "debug");
+  bodyElement.classList.add(win.location.hostname);
 
   M.setClocks(hour, minute, second);
   M.ready = true;

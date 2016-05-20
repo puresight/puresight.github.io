@@ -7,9 +7,9 @@ description: "Centers, schools, and resources for learning JavaScript programmin
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
-  width: 200
-  height: 200
+  url: "images/nonicons/school.png"
+  width: 160
+  height: 160
 ---
 
 {{ page.description }}
@@ -44,7 +44,7 @@ Newsletters
 Authors
 -------
 
-A few off the top of my mind.
+A few, off the top of my mind...
 
 * [Kyle Simpson](https://twitter.com/getify)
     * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)

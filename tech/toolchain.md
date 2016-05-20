@@ -17,7 +17,7 @@ image:
 * node version manager [nvm](https://davidwalsh.name/nvm)
 * node JS framework [Express](http://expressjs.com/)
 * package manager [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
-* [source editor]({{site.baseurl}}tech/editors.html)
+* [source code editor]({{site.baseurl}}tech/editors.html)
 * [version control]({{site.baseurl}}tech/scm.html)
 * [testing-driven development]({{site.baseurl}}tech/testing.html)
 * certificate authority [Let's Encrypt](https://letsencrypt.org/)

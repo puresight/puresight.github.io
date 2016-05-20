@@ -1,5 +1,5 @@
 /***
- * styles
+ * global styles
  */
 
 .unsupportedBrowser {
@@ -17,13 +17,13 @@ html.unsupportedBrowser div.unsupportedBrowser,
   background-color: pink;
 }
 
-html {
-  min-height: 100vh;
+.debug, .localhost {
+  border: 1px dashed #00f;
 }
 
 body {
   position: relative;
-  min-height: 98vh;
+  min-height: 99vh;
 }
 
 #overlay {
@@ -67,10 +67,17 @@ header h1 {
 h2 { font-size: 1.25rem; }
 h3 { font-size: 1.05rem; }
 
+.loading .page-pic {
+  opacity: 0.1;
+  margin-top: -1ex;
+}
+
 .page-pic {
-  display: inline-block;
+  display: block;
   float: right;
   margin: 0 1em 1ex;
+  opacity: 1;
+  transition: 1s all;
 }
 .page-pic img, .page-pic .fig {
   width: 10vw;

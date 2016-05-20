@@ -3,7 +3,7 @@ layout: page
 title: Test/QA
 category: tech
 subject: schools
-description: "Test-driven development in JavaScript on client and server"
+description: "Test-driven development on JavaScript in the client and server"
 image:
   alt: "JavaScript"
   caption: ""
@@ -20,7 +20,7 @@ Back-end
 -------------
 * [Mocha](https://mochajs.org/) tests run serially for flexible & accurate reporting; mapping uncaught exceptions to the correct test cases
 * [Istanbul](https://www.npmjs.com/package/istanbul) code coverage tool
-* [Should](https://www.npmjs.com/package/should) test framework agnostic assertions
+* [Should](https://www.npmjs.com/package/should) test-framework agnostic assertions with a fluent interface
 
 Front-end
 -----------------
