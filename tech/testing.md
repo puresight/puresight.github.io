@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Testing
+title: Test/QA
 category: tech
 subject: schools
-description: "Test-driven development, CI, and deployment in JavaScript"
+description: "Test-driven development in JavaScript on client and server"
 image:
   alt: "JavaScript"
   caption: ""

@@ -19,7 +19,7 @@ image:
 * package manager [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 * [source editor]({{site.baseurl}}tech/editors.html)
 * [version control]({{site.baseurl}}tech/scm.html)
-* [testing]({{site.baseurl}}tech/testing.html)
+* [testing-driven development]({{site.baseurl}}tech/testing.html)
 * certificate authority [Let's Encrypt](https://letsencrypt.org/)
 * compiler [Babel](https://babeljs.io/)
 * [module bundler]({{site.baseurl}}tech/webpack.html)
