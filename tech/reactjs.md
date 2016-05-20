@@ -16,16 +16,14 @@ image:
 
 {{ page.description }}
 
-## React ecosystem
-
-* [React](https://facebook.github.io/react/) - functional components, view-model bindings, Virtual DOM
-* [React Router](https://github.com/reactjs/react-router) - lazy code loading, dynamic route matching, location transition handling
+* [React](https://facebook.github.io/react/) has functional components, view-model bindings, Virtual DOM, etc
+* [React Router](https://github.com/reactjs/react-router) does lazy code loading, dynamic route matching, location transition handling
 * [Relay](https://facebook.github.io/relay/) manages contextual database queries through declarative ajax calls with optimistic updates and error handling; see [cartoons](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed)
 * [Flux](https://facebook.github.io/flux/)  is a pattern for handling data in your application; [see cartoon guide](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
 * [Redux](http://redux.js.org/) flux plus hot reloading & time travel debugging (thanks to the [elm]({{site.baseurl}}tech/elm.html) architecture) see [cartoon guide](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 * [GraphQL](http://graphql.org/)  is a data query language with client and server parts
 * [Flow](http://flowtype.org/) lets you gradually opt-in to statically type checking your code
-* [React Native](https://facebook.github.io/react-native/) enables building mobile apps on mobile with JS and React
+* [React Native](https://facebook.github.io/react-native/) enables building mobile apps on mobile with JS + React
 
 Values
 ------
