@@ -18,27 +18,27 @@ image:
 
 ## React ecosystem
 
-* [React](https://facebook.github.io/react/) view
-* [Relay](https://facebook.github.io/relay/) data
-* [Flux](https://facebook.github.io/flux/) model
-* [Redux](http://redux.js.org/) flux (like [elm]({{site.baseurl}}tech/elm.html) architecture)
-* [GraphQL](http://graphql.org/) api
-* [Flow](http://flowtype.org/) types
-* [React Native](https://facebook.github.io/react-native/) mobile
+* [React](https://facebook.github.io/react/) - functional components, view-model bindings, Virtual DOM
+* [React Router](https://github.com/reactjs/react-router) - lazy code loading, dynamic route matching, location transition handling
+* [Relay](https://facebook.github.io/relay/) manages contextual database queries through declarative ajax calls with optimistic updates and error handling; see [cartoons](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed)
+* [Flux](https://facebook.github.io/flux/)  is a pattern for handling data in your application; [see cartoon guide](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
+* [Redux](http://redux.js.org/) flux plus hot reloading & time travel debugging (thanks to the [elm]({{site.baseurl}}tech/elm.html) architecture) see [cartoon guide](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+* [GraphQL](http://graphql.org/)  is a data query language with client and server parts
+* [Flow](http://flowtype.org/) lets you gradually opt-in to statically type checking your code
+* [React Native](https://facebook.github.io/react-native/) enables building mobile apps on mobile with JS and React
 
 Values
 ------
 * Immutable Data
 * Functional Programming
 * Declarative API's
-* Virtual DOM
 * Implicit Parallelism
 * Horizontal Platform
 
 Tools
 -----
 * [Nuclide](https://nuclide.io/) extends the Atom [editor]({{site.baseurl}}tech/editors.html) to support React Native, Hack, & Flow
-* [react-devtools](https://github.com/facebook/react-devtools) extends browser devtools for debugging
+* [react-devtools](https://github.com/facebook/react-devtools) is the devtools extension for debugging
 
 Community
 ---------
@@ -54,7 +54,7 @@ Courses
 
 ## Open Source
 
-I like the transparency & openness of how ReactJS is being developed:
+transparency & openness:
 
 ### Code Governance
 
