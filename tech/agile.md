@@ -9,14 +9,24 @@ description: "Agile software development is a set of values and principles for s
 image:
   alt: "agile"
   caption: ""
-  url: "images/icons/agile.png"
+  url: "images/icons/responsiveorg.png"
   width: 100
   height: 100
 ---
 
 {{ page.description }}
 
-[The Manifesto for Agile Software Development](http://agilemanifesto.org/)
+From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
+
+> Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:
+>
+> * Profit ↔ Purpose
+> * Hierarchies ↔ Networks
+> * Controlling ↔ Empowering
+> * Planning ↔ Experimentation
+> * Privacy ↔ Transparency
+
+From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/):_
 
 > We are uncovering better ways of developing software by doing it and
 > helping others do it. Through this work we have come to value:
@@ -27,16 +37,6 @@ image:
 > 4. Responding to change over following a plan
 >
 > That is, while there is value in the items on the right, we value the items on the left more.
-
-[The Responsive Org Manifesto](http://www.responsive.org/manifesto)
-
-> Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:
->
-> * Profit ↔ Purpose
-> * Hierarchies ↔ Networks
-> * Controlling ↔ Empowering
-> * Planning ↔ Experimentation
-> * Privacy ↔ Transparency
 
 [Self-Determination Theory](http://selfdeterminationtheory.org/theory/)
 (Edward L. Deci, Richard M. Ryan) is a macro theory of human motivation and personality

@@ -5,7 +5,7 @@ category: tech
 tags:
 - library
 subject: UI
-description: "Web components consist of custom elements, templates, shadow DOM and HTML imports."
+description: "Web components consist of custom elements, templates, shadow DOM, and HTML imports."
 image:
   alt: "JavaScript"
   caption: ""
