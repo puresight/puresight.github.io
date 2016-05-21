@@ -5,7 +5,7 @@ category: tech
 tags:
 - framework
 subject: software libraries
-description: "Java has its SE & EE Classes. Microsoft .NET has its Framework Class Library. Ruby has its Rails. And JavaScript? has a multiverse of frameworks."
+description: "Java has its SE & EE Classes. Microsoft .NET has its Framework Class Library. Ruby has its Rails. And JavaScript? has a multiverse of programming frameworks."
 image:
   alt: "JavaScript"
   caption: ""
@@ -15,6 +15,8 @@ image:
 ---
 
 {{ page.description }}
+
+> _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://twitter.com/andrewray), 2015_
 
 Mainstream
 ----------
@@ -30,16 +32,16 @@ Mainstream
     * __Con:__ deprecated
 * [Facebook's React]({{site.baseurl}}tech/reactjs.html)
     * __Pro:__ simple, fast, community, open source, mature, evolving
-    * __Con:__ not opinionated enough
+    * __Con:__ IP
 
 Interesting
 -----------
 * [Google's Angular 2](https://angular.io/)
     * __Pro:__ fast, popular
-    * __Con:__ new, not true open source
+    * __Con:__ IP, new, not true open source
 * [Durandal's Aurelia](http://aurelia.io/)
     * __Pro:__ pro-standards, advanced, sleek, simple
-    * __Con:__ new, unpopular
+    * __Con:__ IP, new, unpopular
 * [Google's Polymer](https://www.polymer-project.org/1.0/)
     * __Pro:__ pro-standards, “Material Design” theme
     * __Con:__ experimental
@@ -53,7 +55,7 @@ Interesting
 
 Historic
 --------
-* [Sitepen's Dojo](https://dojotoolkit.org/)
+* [Dojo](https://dojotoolkit.org/) [+ Dijit](https://dojotoolkit.org/reference-guide/dijit/info.html)
 * [jQuery](https://jquery.com/)
 
 Catalogs

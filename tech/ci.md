@@ -3,7 +3,7 @@ layout: page
 title: Continuous Integration
 category: tech
 subject: schools
-description: "Continuous Integration is an integral part of an agile team's toolchain."
+description: "Continuous Integration is an integral part of every agile team's toolchain."
 image:
   alt: "JavaScript"
   caption: ""

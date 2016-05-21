@@ -30,6 +30,10 @@ Videos
 ------
 * [Jekyll tutorial series](https://www.youtube.com/watch?v=oiNVQ9Zjy4o&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=1) by [Thomas Bradley](https://twitter.com/thomasjbradley)
 
+Mobile blogging
+---------------
+* MrHyde: [app](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde), [source](https://github.com/FauDroids/MrHyde)
+
 Jekyll as a service
 -------------------
 * [Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
