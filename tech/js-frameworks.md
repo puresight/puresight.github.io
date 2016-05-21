@@ -16,6 +16,14 @@ image:
 
 {{ page.description }}
 
+[ES2015]({{site.baseurl}}tech/js.html) is a amazing language
+that no longer requires a library
+just to smooth out the differences & deficiencies of web browsers.
+[Polyfills]({{site.baseurl}}tech/polyfills.html) do that!
+
+Because today you do not need a JS framework, you are free to opt-in
+to one that fits your product development (and software engineering) objectives.
+
 > _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/web-components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://twitter.com/andrewray), 2015_
 
 Mainstream

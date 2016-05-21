@@ -16,6 +16,14 @@ image:
 
 {{ page.description }}
 
+Examples
+---------
+* Spotify engineering culture: [1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) |
+[2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+
+Manifesto’s
+-----------
+
 From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
 
 > Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:

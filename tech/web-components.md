@@ -2,9 +2,7 @@
 layout: page
 title: Web Components
 category: tech
-tags:
-- library
-subject: UI
+subject: web
 description: "Web Components are the visual interface elements of apps."
 image:
   alt: "JavaScript"
@@ -33,6 +31,11 @@ Libraries
 ---------
 
 Contact me to share your favorites!
+
+Catalogs
+--------
+* [customelements.io](https://customelements.io/)
+* [polymer](https://elements.polymer-project.org/)
 
 Some Blogs
 -----
