@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Components
+title: Web Components
 category: tech
 tags:
 - library
 subject: UI
-description: "Web components are visual interface widgets for front-end UI's."
+description: "Web Components are the visual interface elements of apps."
 image:
   alt: "JavaScript"
   caption: ""
@@ -24,15 +24,15 @@ They consist of custom elements, templates, shadow DOM, and HTML imports.
 
 [Are We Componentized Yet?](https://jonrimmer.github.io/are-we-componentized-yet/)
 
-In 2016, components are partially implemented, so to use them
-you need [some polyfills]({{site.baseurl}}tech/polyfills.html)
-and/or a
+In 2016, components are partially implemented—so to use them
+you need [polyfills]({{site.baseurl}}tech/polyfills.html)
+or a
 [framework]({{site.baseurl}}tech/js-frameworks.html).
 
 Libraries
 ---------
 
-Please contact me to share your favorites with me!
+Contact me to share your favorites!
 
 Some Blogs
 -----

@@ -5,7 +5,7 @@ category: tech
 tags:
 - framework
 subject: javascript
-description: "Declare how your app should look at any given point in time, and React manages UI updates when data changes. React enables building reusable components."
+description: "Declare how your app should look at any given point in time, and React manages UI updates when data changes."
 image:
   alt: "ReactJS"
   caption: ""
@@ -15,8 +15,9 @@ image:
 ---
 
 {{ page.description }}
+React enables building reusable [components]({{site.baseurl}}tech/web-components.html).
 
-* [React](https://facebook.github.io/react/) features functional [components]({{site.baseurl}}tech/components.html), view-model bindings, Virtual DOM, et cetera
+* [React](https://facebook.github.io/react/) features functional components, view-model bindings, Virtual DOM, et cetera
 * [React Router](https://github.com/reactjs/react-router) does lazy code loading, dynamic route matching, location transition handling
 * [Relay](https://facebook.github.io/relay/) manages contextual database queries through declarative ajax calls with optimistic updates and error handling; see [cartoons](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-4-aef7d819a8ed).
 * [Flux](https://facebook.github.io/flux/)  is a pattern for handling data in your application; [see cartoon guide](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207).

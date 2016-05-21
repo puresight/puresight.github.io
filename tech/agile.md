@@ -5,7 +5,7 @@ category: tech
 tags:
 - agile
 subject: manifesto
-description: "Agile software development is a set of values and principles for software development."
+description: "Agile is the values and principles that create an environment optimal for software development."
 image:
   alt: "Responsive Org"
   caption: ""
@@ -26,6 +26,12 @@ From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
 > * Planning ↔ Experimentation
 > * Privacy ↔ Transparency
 
+[Self-Determination Theory](http://selfdeterminationtheory.org/theory/)
+(Edward L. Deci, Richard M. Ryan) is a macro theory of human motivation and personality
+that concerns people's inherent growth tendencies and innate psychological needs:
+
+> SDT propositions focus on how social and cultural factors facilitate or undermine people’s sense of volition and initiative, in addition to their well-being and the quality of their performance.  Conditions supporting the individual’s experience of autonomy, competence, and relatedness are argued to foster the most volitional and high quality forms of motivation and engagement for activities, including enhanced performance, persistence, and creativity. In addition, SDT proposes that the degree to which any of these three psychological needs is unsupported or thwarted within a social context will have a robust detrimental impact on wellness in that setting.
+
 From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/):_
 
 > We are uncovering better ways of developing software by doing it and
@@ -37,9 +43,3 @@ From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/)
 > 4. Responding to change over following a plan
 >
 > That is, while there is value in the items on the right, we value the items on the left more.
-
-[Self-Determination Theory](http://selfdeterminationtheory.org/theory/)
-(Edward L. Deci, Richard M. Ryan) is a macro theory of human motivation and personality
-that concerns people's inherent growth tendencies and innate psychological needs:
-
-> SDT propositions focus on how social and cultural factors facilitate or undermine people’s sense of volition and initiative, in addition to their well-being and the quality of their performance.  Conditions supporting the individual’s experience of autonomy, competence, and relatedness are argued to foster the most volitional and high quality forms of motivation and engagement for activities, including enhanced performance, persistence, and creativity. In addition, SDT proposes that the degree to which any of these three psychological needs is unsupported or thwarted within a social context will have a robust detrimental impact on wellness in that setting.

@@ -16,7 +16,7 @@ image:
 
 {{ page.description }}
 
-> _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://twitter.com/andrewray), 2015_
+> _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/web-components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://twitter.com/andrewray), 2015_
 
 Mainstream
 ----------
