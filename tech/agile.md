@@ -7,11 +7,11 @@ tags:
 subject: manifesto
 description: "Agile software development is a set of values and principles for software development."
 image:
-  alt: "agile"
+  alt: "Responsive Org"
   caption: ""
   url: "images/icons/responsiveorg.png"
-  width: 100
-  height: 100
+  width: 1000
+  height: 1000
 ---
 
 {{ page.description }}
