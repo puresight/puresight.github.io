@@ -5,7 +5,7 @@ category: tech
 tags:
 - language
 subject: "programming language"
-description: "Elm is a functional programming language with Virtual DOM, strong types, immutable data structures, et. al."
+description: "Elm is a functional programming language with Virtual DOM, strong types, and immutable data structures."
 image:
   alt: "Elm"
   caption: ""

@@ -5,7 +5,7 @@ category: tech
 tags:
 - library
 subject: UI
-description: "Web components consist of custom elements, templates, shadow DOM, and HTML imports."
+description: "Web components are visual interface widgets for front-end UI's."
 image:
   alt: "JavaScript"
   caption: ""
@@ -15,6 +15,7 @@ image:
 ---
 
 {{ page.description }}
+They consist of custom elements, templates, shadow DOM, and HTML imports.
 
 * Custom elements are new HTML elements, created imperatively.
 * Templates are sections of HTML to be used by scripts.

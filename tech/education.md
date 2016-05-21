@@ -3,7 +3,7 @@ layout: page
 title: Education
 category: tech
 subject: schools
-description: "Centers, schools, and resources for learning JavaScript programming."
+description: "Publishers, online schools, and resources for learning front-end development."
 image:
   alt: "JavaScript"
   caption: ""
