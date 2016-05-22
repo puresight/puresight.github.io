@@ -33,8 +33,11 @@ Mainstream
     * __Con:__ old, slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
     * __Extensions:__ [Chaplin](http://chaplinjs.org/), [Marionette](http://marionettejs.com/)
 * [Ember.js](http://emberjs.com/)
-    * __Pro:__ enterprise, evolving, continuity, community, open source, devops
+    * __Pro:__ enterprise, evolving, continuity, community, open source, devops, cli
     * __Con:__ slower to adopt latest coolness, some bloat, steep learning curve
+* [Google's Polymer](https://www.polymer-project.org/1.0/)
+    * __Pro:__ standards, [web components]({{site.baseurl}}tech/web-components.html), cli
+    * __Con:__ new
 * [Google's Angular 1](https://angularjs.org/)
     * __Pro:__ popular
     * __Con:__ deprecated
@@ -44,26 +47,26 @@ Mainstream
 
 Interesting
 -----------
-* [Google's Angular 2](https://angular.io/)
-    * __Pro:__ fast, popular
-    * __Con:__ IP, new, not true open source
-* [Durandal's Aurelia](http://aurelia.io/)
-    * __Pro:__ pro-standards, advanced, sleek, simple
-    * __Con:__ IP, new, unpopular
-* [Google's Polymer](https://www.polymer-project.org/1.0/)
-    * __Pro:__ pro-standards, “Material Design” theme
-    * __Con:__ experimental
-* [Meteor](https://www.meteor.com/)
-    * __Pro:__ rapid prototyping
-    * __Con:__ laggard, some non-standard stuff
+* [Bacon.js](https://baconjs.github.io/) small functional reactive programming lib
+    * __Pro:__ FRP
+    * __Con:__ new
 * [Cycle.js](http://cycle.js.org/) and [RxJS](http://reactivex.io/)
     * __Pro:__ reactive, advanced
     * __Con:__ complex
     * Example: [RxJS 5 operators](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35#withlatestfrom)
+* [Google's Angular 2](https://angular.io/)
+    * __Pro:__ fast, popular, cli
+    * __Con:__ IP, new
+* [Durandal's Aurelia](http://aurelia.io/)
+    * __Pro:__ pro-standards, advanced, sleek, simple
+    * __Con:__ IP, new, unpopular
+* [Meteor](https://www.meteor.com/)
+    * __Pro:__ rapid prototyping
+    * __Con:__ laggard, some non-standard stuff
 
 Historic
 --------
-* [Dojo](https://dojotoolkit.org/) [+ Dijit](https://dojotoolkit.org/reference-guide/dijit/info.html)
+* [Dojo](https://dojotoolkit.org/) [+ Dijit](https://dojotoolkit.org/reference-guide/dijit/info.html) ([demo](http://archive.dojotoolkit.org/nightly/dojotoolkit/dijit/themes/themeTester-orig.html))
 * [jQuery](https://jquery.com/)
 
 Catalogs

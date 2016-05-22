@@ -14,15 +14,16 @@ image:
 
 {{ page.description }}
 
-Individuals
+Individual Polyfills
 -----------
 * Promises [jakearchibald/es6-promise](https://github.com/jakearchibald/es6-promise)
 * URL [Polymer/URL](https://github.com/Polymer/URL)
 * element.classList [eligrey/classList.js](https://github.com/eligrey/classList.js)
 * element.closest [jonathantneal/closest](https://github.com/jonathantneal/closest)
 * ES5 [es-shims/es5-shim](https://github.com/es-shims/es5-shim)
+* Ajax [fetch](https://github.github.io/fetch/)
 
-Sets
+Libraries
 ------
 * [webcomponents.js](http://webcomponents.org/polyfills/) for [web components]({{site.baseurl}}tech/web-components.html)
 * [systemjs](https://github.com/systemjs/systemjs) for module loading
