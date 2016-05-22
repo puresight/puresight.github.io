@@ -21,16 +21,14 @@ They consist of custom elements, templates, shadow DOM, and HTML imports.
 * HTML import is a way of including one HTML document in another, declaratively.
 
 [Are We Componentized Yet?](https://jonrimmer.github.io/are-we-componentized-yet/)
-
 Web components land in 2017!
-Get started today via some [polyfills]({{site.baseurl}}tech/polyfills.html), or a
+Get started today via some [polyfills]({{site.baseurl}}tech/polyfills.html) or a
 [framework]({{site.baseurl}}tech/js-frameworks.html).
 
 Libraries
 ---------
 * [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/) #io16
 * [Vaadin Elements](https://vaadin.com/elements)
-* Please contact me to share with me your favorites!
 
 Catalogs
 --------
