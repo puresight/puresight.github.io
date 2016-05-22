@@ -4,8 +4,6 @@ description: "Monty Dickerson is a front-end software developer who specializes 
 url: http://montydickerson.com
 baseurl: "/"
 type: "website"
-favicon: "images/favicon/js.png"
-image144: "images/monty/sq144.jpg"
 
 author:
   name: "Monty Dickerson"
