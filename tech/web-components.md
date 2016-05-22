@@ -22,20 +22,20 @@ They consist of custom elements, templates, shadow DOM, and HTML imports.
 
 [Are We Componentized Yet?](https://jonrimmer.github.io/are-we-componentized-yet/)
 
-In 2016, components are partially implemented—so to use them
-you need [polyfills]({{site.baseurl}}tech/polyfills.html)
-or a
+Web components land in 2017!
+Get started today via some [polyfills]({{site.baseurl}}tech/polyfills.html), or a
 [framework]({{site.baseurl}}tech/js-frameworks.html).
 
 Libraries
 ---------
-
-Contact me to share your favorites!
+* [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/) #io16
+* [Vaadin Elements](https://vaadin.com/elements)
+* Please contact me to share with me your favorites!
 
 Catalogs
 --------
 * [customelements.io](https://customelements.io/)
-* [polymer](https://elements.polymer-project.org/)
+* [Polymer Project](https://elements.polymer-project.org/)
 
 Some Blogs
 -----
