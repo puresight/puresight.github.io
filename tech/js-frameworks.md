@@ -75,5 +75,4 @@ Catalogs
 
 Non-JS inspirations
 ---------------
-* [Elm]({{site.baseurl}}tech/elm.html)
 * [ClojureScript Om](https://github.com/omcljs/om#om)

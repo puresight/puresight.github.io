@@ -5,7 +5,7 @@ category: tech
 tags:
 - agile
 subject: manifesto
-description: "Agile is the values and principles that create an environment optimal for software development."
+description: "Agile is the set of values and principles that create an environment optimal for software development."
 image:
   alt: "Responsive Org"
   caption: ""
@@ -18,8 +18,8 @@ image:
 
 Examples
 ---------
-* Spotify engineering culture: [1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) |
-[2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+* Spotify engineering culture: [one](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) |
+[two](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
 
 Manifesto’s
 -----------

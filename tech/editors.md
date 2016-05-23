@@ -7,7 +7,7 @@ tags:
 - IDE
 - CASE
 subject: "programming"
-description: "Text editors are useful for composing source code and writing markup. These editors optimized for developers."
+description: "Text editors are useful for composing source code and writing markup. These editors are optimized for developers."
 image:
   alt: "text editor"
   caption: ""
