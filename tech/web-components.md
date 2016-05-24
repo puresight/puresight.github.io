@@ -27,7 +27,7 @@ Get started today via some [polyfills]({{site.baseurl}}tech/polyfills.html) or a
 
 Libraries
 ---------
-* [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/) #io16
+* [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/)
 * [Vaadin Elements](https://vaadin.com/elements)
 
 Catalogs
