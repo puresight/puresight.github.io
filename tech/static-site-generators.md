@@ -20,12 +20,12 @@ websites make pages on-demand, pulling
 data from a DBMS and doing some template content substitutions.
 Every page is built again, every time a request is made.
 
-For most clients, this is _way_ overkill. It’s overhead. It
-makes digital life less scalable, and more complex;
+For most clients, this is way overkill. It’s overhead. It
+makes digital life less scalable and more complex;
 less maintainable, and more expensive.
 
 Usually websites only change when a story or graphic is edited or added
-by a human—_right?_
+by a human, right?
 So [static site generators](https://www.staticgen.com/)
 leverage this by generating all pages of the website
 when there’s an actual change made.
