@@ -6,7 +6,7 @@ tags:
 - tools
 - website
 subject: websites
-description: "Jekyll is a static site generator supported by Github. It can turn simple markdown text files into HTML web pages that can be served up anywhere — without a CMS."
+description: "SSG’s remake web pages when changes happen to a site, to create digital presence that is as scalable (and secure) as it is simple."
 image:
   alt: "OctoJekyll"
   caption: "Octojekyll"
@@ -14,6 +14,8 @@ image:
   width: 100
   height: 100
 ---
+
+{{ page.description }}
 
 [CMS](https://en.wikipedia.org/wiki/Web_content_management_system)-driven
 websites make pages on-demand, pulling
