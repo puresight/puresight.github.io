@@ -32,6 +32,9 @@ when there’s an actual change made.
 Boom, no moving parts. You get fast, maintainable, secure, and
 reliable tech you can trust.
 
+There are situations where a web CMS is justified and appropriate
+in the enterprise; we should use the right-sized tool for the task.
+
 ## Jekyll
 
 Jekyll was a forerunner SSG with a massive network effect: Github hosts it for free.
