@@ -19,6 +19,7 @@ team's
 
 Tools
 -----
+* [Gitlab CI](http://docs.gitlab.com/ce/ci/) - Gitlab-based
 * [Jenkins](https://jenkins.io/) - Java-based old school
 * [GoCD](http://www.go.cd/) - Java+Ruby
 * [Integrity](http://integrity.github.io/) - Ruby-based

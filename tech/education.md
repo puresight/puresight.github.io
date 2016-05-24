@@ -20,6 +20,11 @@ Publishers
 * [Manning Publications](https://www.manning.com/)
 * [Packt Publishing](https://www.packtpub.com/)
 * [Leanpub](https://leanpub.com/book_search?search=javascript)
+* [Pragmatic Studio](https://pragmaticstudio.com/)
+* [Wiley](http://www.wiley.com/WileyCDA/Section/id-350351.html)
+* [Pearson](http://www.pearsoned.co.uk/bookshop/subject.asp?item=225)
+* [A Book Apart](https://abookapart.com/)
+* [HOW](http://www.howdesign.com/design-books/)
 
 Schools
 -------
