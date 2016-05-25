@@ -2,6 +2,12 @@
 layout: default
 title: "404: Page not found"
 permalink: 404.html
+image:
+  alt: "static"
+  caption: ""
+  url: "images/animated/tv-static.gif"
+  width: 480
+  height: 364
 ---
 
 <div class="page">
@@ -11,6 +17,14 @@ permalink: 404.html
     <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.
   </p>
 </div>
+
+<p>
+  <img
+    src="{{ site.baseurl }}{{ page.image.url }}"
+    alt="{{ page.image.alt }}"
+    style="border: 1ex solid #888; max-width: 11em; margin: auto;"
+  />
+</p>
 
 {% comment %} @see https://duckduckgo.com/search_box
 <iframe src="https://duckduckgo.com/search.html?width=262&site=montydickerson.com&prefill=Search"
