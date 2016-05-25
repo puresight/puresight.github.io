@@ -12,6 +12,9 @@ image:
   url: "images/icons/responsiveorg.png"
   width: 1000
   height: 1000
+todo:
+- talk TEAM team teams, go team! talk it up
+- mentoring and apprenticeship and learning
 ---
 
 {{ page.description }}

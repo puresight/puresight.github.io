@@ -11,11 +11,9 @@ image:
   width: 200
   height: 200
 noindex: true
+todo:
+- icons
+- description
 ---
 
 {{ page.description }}
-
-TODO
-----
-* icons
-* description

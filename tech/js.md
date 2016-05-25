@@ -12,6 +12,8 @@ image:
   url: "images/icons/js200.png"
   width: 200
   height: 200
+todo:
+- ES6
 ---
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

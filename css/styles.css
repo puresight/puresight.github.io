@@ -5,6 +5,14 @@
 /* reset: IE doesn't know about main */
 main { display: block; }
 
+body .debug {
+  display: none;
+}
+body.debug .debug {
+  display: block;
+  background-color: #ddf;
+}
+
 .unsupportedBrowser {
   display: none; /**/
 }
@@ -20,7 +28,7 @@ html.unsupportedBrowser div.unsupportedBrowser,
   background-color: pink;
 }
 
-.debug, .localhost {
+body.debug, body.localhost {
   border: 1px dashed #00f;
 }
 

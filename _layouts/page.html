@@ -13,6 +13,13 @@ layout: default
     </h1>
 </header>
 
+{% if page.todo %}
+<div class="debug">
+    <strong>TODO:</strong>
+    <ul class="tags">{% for x in page.todo %} <li>{{ x }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+
 <figure class="page-pic">
   <picture>{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
     <img
@@ -27,7 +34,7 @@ layout: default
 
 {{ content }}
 
-<p class="hidden">
+<p class="debug">
 {% if page.date %}Revised: {{ page.date }}<br/>{% endif %}
 {% if page.tags %}
   Tags:<span class="tags">{% for x in page.tags %} <span>{{ x }}</span>{% endfor %}</span><br/>

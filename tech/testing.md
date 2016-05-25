@@ -10,6 +10,11 @@ image:
   url: "images/icons/js200.png"
   width: 200
   height: 200
+todo:
+- talk about debugging in devTools
+- feature detection
+- cross-browser testing (IE in virtualbox)
+- the two-step of development (build test, build test, build test)
 ---
 
 _{{ page.description }}_

@@ -6,7 +6,7 @@ tags:
 - tools
 - website
 subject: websites
-description: "SSG’s remake web pages when changes happen to a site, to create digital presence that is as scalable (and secure) as it is simple."
+description: "SSG’s remake web pages when changes happen to a site, to produce digital presence that is as scalable (and secure) as it is simple."
 image:
   alt: "OctoJekyll"
   caption: "Octojekyll"
