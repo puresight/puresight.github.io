@@ -1,8 +1,7 @@
 <aside class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1><a href="{{ site.baseurl }}contact.html">{{ site.title }}</a></h1>
-      <!--p class="lead">{{ site.description }}</p-->
+      <h1><a href="{{ site.baseurl }}life/">{{ site.title }}</a></h1>
     </div>
     <nav class="sidebar-nav">
 {% comment %}
@@ -37,8 +36,8 @@
         href="{{ site.baseurl }}tech/blog.html"
       >Blog</a>
       •
-      <a class="{% if page.url contains "schedule" %} active{% endif %}"
-        href="{{ site.baseurl }}schedule.html"
+      <a class="{% if page.url contains "life/today" %} active{% endif %}"
+        href="{{ site.baseurl }}life/today.html"
       ><time class="day">Today</time></a>
     </nav>
     <p class="socialicons">
