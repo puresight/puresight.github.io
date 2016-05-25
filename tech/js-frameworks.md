@@ -5,7 +5,7 @@ category: tech
 tags:
 - framework
 subject: software libraries
-description: "Java has its SE & EE Classes. Microsoft .NET has its Framework Class Library. Ruby has its Rails. And JavaScript? has a multiverse of programming frameworks."
+description: "Java has SE & EE Classes, dotNET has a Framework Class Library, and Ruby has its Rails… JavaScript has a multiverse of programming frameworks."
 image:
   alt: "JavaScript"
   caption: ""

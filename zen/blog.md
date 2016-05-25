@@ -3,11 +3,11 @@ layout: page
 title: Blog
 noindex: true
 subject: weblog
-description: "Periodically published blogs by Monty Dickerson on business topics."
+description: "Periodically published blogs by Monty Dickerson on zen."
 ---
 
 <section class="posts">
-  {% for post in site.categories.business limit:5 %}
+  {% for post in site.categories.zen limit:5 %}
   <article class="post">
     <header>
       <h1 class="post-title">
@@ -36,7 +36,7 @@ description: "Periodically published blogs by Monty Dickerson on business topics
 
 <section id="archive">
   <ul class="past">
-  {% for post in site.categories.business offset:5 limit:9 %}
+  {% for post in site.categories.zen offset:5 limit:9 %}
     <li>
       <time>{{ post.date | date:"%F" }}</time>
 
