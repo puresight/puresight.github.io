@@ -48,10 +48,12 @@ Community
 * [Periscope](https://www.periscope.tv/ReactJSNews) @ReactJSNews curated by @zachcodes, @jedwatson, and @browniefed check out @reactpodcast
 * [Twitter](https://twitter.com/reactjs)
 
-Courses
--------
-* [React For Beginners](https://reactforbeginners.com/) $127
-* [Learn Redux](https://learnredux.com/) $0
+Education
+------
+* [React For Beginners](https://reactforbeginners.com/) course $127
+* [Learn Redux](https://learnredux.com/) course
+* [Full Stack React](https://www.fullstackreact.com/) $99 course (videos book source) [blog](https://www.fullstackreact.com/articles/)
+* [React JS newsletter](http://reactjsnewsletter.com/issues) curated by Tyler McGinnis + Ean Platter
 
 ## Open Source
 
@@ -67,10 +69,6 @@ transparency & openness:
 
 * Copyright Facebook License [BSD-3](https://en.wikipedia.org/wiki/BSD_licenses#3-clause)
 * [Patents](https://en.wikipedia.org/wiki/React_(JavaScript_library)#Patents_clause_controversy)
-
-Education
-------
-* [React JS newsletter](http://reactjsnewsletter.com/issues) curated by Tyler McGinnis + Ean Platter
 
 Quotes
 ------
