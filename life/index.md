@@ -2,7 +2,7 @@
 layout: index
 title: Monty for hire
 subject: autobiography
-description: "Monty is a software engineer and communication technologist with eyes that see through the complexity to the bones of problems, unmasking the relationships of opportunities."
+description: "Monty is a senior front-end developer and communication technologist with eyes that see through the complexity to the bones of problems, unmasking the relationships of opportunities."
 noindex: true
 ---
 
