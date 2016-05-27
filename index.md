@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Home
-tagline: Tech notes
+tagline: Notes
 subject: website
 noindex: true
 category: tech
