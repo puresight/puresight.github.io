@@ -2,6 +2,8 @@
 layout: page
 title: Responsive Web Design
 category: tech
+tags:
+- rwd
 subject: front-end design
 description: "Responsive Web Design"
 image:

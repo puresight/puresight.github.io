@@ -2,6 +2,8 @@
 layout: page
 title: Web Components
 category: tech
+tags:
+- widgets
 subject: web
 description: "Web Components are the visual interface elements of front-end applications."
 image:

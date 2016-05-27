@@ -3,7 +3,9 @@ layout: page
 title: React JS
 category: tech
 tags:
-- framework
+- js
+- frameworks
+- frp
 subject: javascript
 description: "Declare how your app should look at any given point in time, and React manages UI updates when data changes."
 image:

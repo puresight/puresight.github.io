@@ -3,23 +3,22 @@ layout: page
 title: JS frameworks
 category: tech
 tags:
-- framework
+- js
+- frameworks
 subject: software libraries
-description: "Java has SE & EE Classes, dotNET has a Framework Class Library, and Ruby has its Rails… JavaScript has a multiverse of programming frameworks."
+description: "Java has SE & EE Classes, dotNET has Framework Class Library, Ruby has its Rails, and JavaScript has a multiverse of programming frameworks."
 image:
   alt: "JavaScript"
   caption: ""
   url: "images/icons/js200.png"
   width: 200
   height: 200
-todo:
-- ES6
 ---
 
 {{ page.description }}
 
-[ES2015]({{site.baseurl}}tech/js.html) is a amazing language
-that no longer requires a library
+[ES2015]({{site.baseurl}}tech/js.html), aka ES6 JavaScript,
+is a amazing language that no longer needs a library
 just to smooth out the differences & deficiencies of web browsers.
 [Polyfills]({{site.baseurl}}tech/polyfills.html) do that!
 

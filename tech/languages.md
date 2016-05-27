@@ -2,6 +2,8 @@
 layout: page
 title: Languages
 category: tech
+tags:
+- language
 subject: programming languages
 description: "Languages"
 published: false

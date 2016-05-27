@@ -6,7 +6,6 @@ subject: article
 tags: android calendar meetup
 tags:
 - syndication
-- integration
 - calendar
 description: "Wouldn't it be nice if your Android phone would just know what Meetup.com events
 you RSVP'd to? And give you appointment reminders for them, the way it does

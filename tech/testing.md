@@ -2,6 +2,9 @@
 layout: page
 title: Test/QA
 category: tech
+tags:
+- test
+- TDD
 subject: schools
 description: "Test-driven development on JavaScript in the client and server"
 image:

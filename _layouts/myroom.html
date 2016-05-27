@@ -6,6 +6,14 @@ layout: default
   <h1 class="page-title">
     <time class="day-month-date">Today</time>
   </h1>
+  <p class="tags">
+    {% if page.categories or page.category %}
+        {% if page.category %}<a class="category">{{ page.category }}</a>{% endif %}
+        {% for x in page.categories %}<a class="category">{{ x }}</a> {% endfor %}
+    {% endif %}
+    {% for x in page.tags %} <a>{{ x }}</a>
+    {% endfor %}
+  </p>
 </header>
 
 <figure class="page-pic">

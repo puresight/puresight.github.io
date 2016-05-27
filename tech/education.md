@@ -3,6 +3,8 @@ layout: page
 title: Education
 category: tech
 subject: schools
+tags:
+- edu
 description: "Publishers, online schools, and resources for learning front-end development."
 image:
   alt: "JavaScript"

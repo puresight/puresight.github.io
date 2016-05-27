@@ -4,6 +4,7 @@ title: JavaScript
 category: tech
 tags:
 - language
+- js
 subject: "programming language"
 description: "JavaScript is a prototype-based scripting language that supports object-oriented, imperative, and functional programming styles."
 image:
@@ -12,8 +13,6 @@ image:
   url: "images/icons/js200.png"
   width: 200
   height: 200
-todo:
-- ES6
 ---
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -38,7 +37,7 @@ Ancient browsers only supported
 Since 2012, web browsers have supported the
 [ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/)
 specification.
-In 2016, all major browsers support the sixth
+In 2016, all major browsers support the sixth (ES6)
 edition—[ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/).
 
 New [ECMAScript](https://github.com/tc39/ecma262/)

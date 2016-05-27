@@ -14,11 +14,14 @@
   content="6; url=http://windows.microsoft.com/en-us/windows/is-computer-up-to-date">
 <![endif]-->
 
+{% comment %} THEME CSS {% endcomment %}
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
-<link rel="stylesheet" href="{{ site.baseurl }}css/styles.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+<link rel="stylesheet" href="{{ site.baseurl }}css/override.css">
+<link rel="stylesheet" href="{{ site.baseurl }}css/styles.css">
 {% if page.stylesheet %}<link rel="stylesheet" href="{{ site.baseurl }}css/{{ page.stylesheet }}.css">{% endif %}
 
 </head>

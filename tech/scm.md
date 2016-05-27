@@ -20,12 +20,6 @@ and controlling changes in software,
 part of the larger cross-disciplinary field of configuration management.
 SCM practices include version control, and establishing baselines.
 
-[Git](https://www.git-scm.com/) primers
----------------------------------------
-* [Atlassian's git primer](https://www.atlassian.com/git/)
-* [Github's training offerings](https://training.github.com/classes/essentials/)
-* [CodeSchool's TryGit](https://try.github.io/levels/1/challenges/1)
-
 Git clients
 -----------
 * [Ungit](https://codio.com/docs/ide/tutorials/ungit/) for Node.js
@@ -37,6 +31,13 @@ Git clients for Mac only
 ------------------------
 * [GitUp](http://gitup.co/)
 * [Tower](https://www.git-tower.com/)
+
+[Git](https://www.git-scm.com/) education
+-----------------------------------------
+* [Github's training offerings](https://training.github.com/classes/essentials/)
+* [CodeSchool's TryGit](https://try.github.io/levels/1/challenges/1)
+* [Atlassian: git primer](https://www.atlassian.com/git/)
+* [Atlassian: comparing workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 Non-distributed systems
 -----------------------

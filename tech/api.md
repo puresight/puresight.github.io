@@ -2,6 +2,8 @@
 layout: page
 title: API
 category: tech
+tags:
+- API
 subject: Internet
 description: "API"
 noindex: true

@@ -35,6 +35,7 @@ body.debug, body.localhost {
 body {
   position: relative;
   min-height: 99vh;
+  background-color: #fcfcfc;
 }
 
 #overlay {
@@ -52,6 +53,28 @@ body {
 .hidden {
   display: none;
 }
+
+.tags {
+  font-size: 50%;
+  line-height: 2ex;
+}
+
+.tags a {
+  display: inline-block;
+  border: 1px solid transparent;
+  padding: 0 0.5em;
+  background-color: #f3f3f3;
+  color: #777 !important;
+  letter-spacing: 0.2ex;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.tags a:hover, .tags a:focus {
+  text-decoration: none;
+/* outline: 1px dotted black; /**/
+}
+
+.tags a.category {}
 
 span.eighth-0,
 span.eighth-1,
@@ -71,16 +94,10 @@ span.eighth-7 { display: none; }
 .eighth-6 .eighth-6,
 .eighth-7 .eighth-7 { display: inline; }
 
-header h1 {
-  margin-bottom: 1rem;
-}
-
-h2 { font-size: 1.25rem; }
-h3 { font-size: 1.05rem; }
 
 .loading .page-pic {
   opacity: 0.1;
-  margin-top: -1ex;
+  margin-top: -1.01rem;
 }
 
 .page-pic {
@@ -93,7 +110,7 @@ h3 { font-size: 1.05rem; }
 .page-pic img, .page-pic .fig {
   width: 10vw;
   max-height: 10vw;
-  margin: 0;
+  margin: -1rem 0 0 0;
   border-radius: 10%;
 }
 .page-pic figcaption {

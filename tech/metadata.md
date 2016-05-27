@@ -2,6 +2,8 @@
 layout: page
 title: metadata
 category: tech
+tags:
+- meta
 subject: semantic web
 description: "Metadata is important in positioning your web site/app for today's semantic web of social media, search engines, and mobile operating systems."
 noindex: true

@@ -2,6 +2,10 @@
 layout: page
 title: UX
 category: tech
+tags:
+- ux
+- design
+- dataviz
 subject: design
 description: "User Experience"
 noindex: true

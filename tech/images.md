@@ -2,6 +2,9 @@
 layout: page
 title: Images
 category: reference
+tags:
+- img
+- rwd
 subject: website
 published: true
 noindex: true

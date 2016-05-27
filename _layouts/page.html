@@ -2,23 +2,31 @@
 layout: default
 ---
 
-
-<header>
-    <h1 class="page-title">
-      {% if page.title == "Home" %}
-        {{ page.tagline }}
-      {% else %}
-        {{ page.title }}
-      {% endif %}
-    </h1>
-</header>
-
 {% if page.todo %}
 <div class="debug">
     <strong>TODO:</strong>
-    <ul class="tags">{% for x in page.todo %} <li>{{ x }}</li>{% endfor %}</ul>
+    <ul>{% for x in page.todo %} <li>{{ x }}</li>{% endfor %}</ul>
 </div>
 {% endif %}
+
+<header>
+  <h1>
+    {% if page.title == "Home" %}
+      {{ page.tagline }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
+
+  <p class="tags">
+    {% if page.categories or page.category %}
+        {% if page.category %}<a class="category">{{ page.category }}</a>{% endif %}
+        {% for x in page.categories %}<a class="category">{{ x }}</a> {% endfor %}
+    {% endif %}
+    {% for x in page.tags %} <a>{{ x }}</a>
+    {% endfor %}
+  </p>
+</header>
 
 <figure class="page-pic">
   <picture>{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
@@ -35,11 +43,9 @@ layout: default
 {{ content }}
 
 <p class="debug">
-{% if page.date %}Revised: {{ page.date }}<br/>{% endif %}
-{% if page.tags %}
-  Tags:<span class="tags">{% for x in page.tags %} <span>{{ x }}</span>{% endfor %}</span><br/>
-{% endif %}
-{% if page.categories %}
-  Categories:<span class="categories">{% for x in page.categories %} <span>{{ x }}</span>{% endfor %}</span><br/>
-{% endif %}
+  {% if page.date %}Revised: {{ page.date }}<br/>{% endif %}
 </p>
+
+<footer>
+  Copyright {{ site.time | date: '%Y' }} {{ site.author.name }}
+</footer>

@@ -4,8 +4,7 @@ title: "New!"
 category: tech
 subject: article
 tags:
-- cms
-- clients
+- website
 description: "Welcome to my new website."
 ---
 

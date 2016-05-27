@@ -2,6 +2,8 @@
 layout: page
 title: CSS
 category: tech
+tags:
+- css
 subject: front-end design
 description: "Cascading Style Sheets"
 noindex: true

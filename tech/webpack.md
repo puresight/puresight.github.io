@@ -38,7 +38,7 @@ Books
 -----
 * [SurviveJS](http://survivejs.com/) $10
 
-Competitors
+Alternatives
 -----------
 * [Browserify](http://browserify.org/) is a simple module bundler for beginners
 * [JSPM](http://jspm.io/) is a package manager for the browser, for the [SystemJS](https://github.com/systemjs/systemjs) universal module loader, built on top of the dynamic ES6 module loader.

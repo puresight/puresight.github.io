@@ -3,8 +3,8 @@ layout: post
 title: "Delivering Value The Client Wants"
 category: tech
 tags:
-- systemsthinking
 - systems
+- thinking
 external_url: https://medium.com/@puresight/i-ve-noticed-with-clothes-often-a-lower-quality-and-less-expensive-item-pairs-better-with-an-ad80c35c7db0
 external_site: medium
 subject: article
