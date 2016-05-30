@@ -7,11 +7,11 @@ tags:
 subject: web
 description: "Web Components are the visual interface elements of front-end applications."
 image:
-  alt: "JavaScript"
+  alt: "Web Components"
   caption: ""
-  url: "images/icons/js200.png"
-  width: 200
-  height: 200
+  url: "images/icons/web-components.svg"
+  width: 512
+  height: 512
 ---
 
 {{ page.description }}

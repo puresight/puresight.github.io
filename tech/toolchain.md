@@ -7,9 +7,9 @@ tags:
 subject: software toolset
 description: "Your toolchain is the suite of software essential in building front-end apps."
 image:
-  alt: "JavaScript"
+  alt: "chain"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/nonicons/chain.png"
   width: 200
   height: 200
 ---

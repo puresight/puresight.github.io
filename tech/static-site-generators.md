@@ -6,7 +6,7 @@ tags:
 - tools
 - website
 subject: websites
-description: "SSG’s remake web pages when changes happen to a site, to produce digital presence that is as scalable (and secure) as it is simple."
+description: "SSG’s rebuild web pages on change. This process forms websites as scalable as they are secure."
 image:
   alt: "OctoJekyll"
   caption: "Octojekyll"
@@ -17,6 +17,7 @@ image:
 
 {{ page.description }}
 
+By contrast,
 [CMS](https://en.wikipedia.org/wiki/Web_content_management_system)-driven
 websites make pages on-demand, pulling
 data from a DBMS and doing some template content substitutions.
@@ -25,17 +26,16 @@ Every page is built again, every time a request is made.
 For most clients, this is way overkill. It’s overhead. It
 makes digital life less scalable and more complex;
 less maintainable, and more expensive.
-
 Usually websites only change when a story or graphic is edited or added
 by a human, right?
 So [static site generators](https://www.staticgen.com/)
 leverage this by generating all pages of the website
 when there’s an actual change made.
-Boom, no moving parts. You get fast, maintainable, secure, and
+Boom, no moving parts: You get fast, maintainable, secure, and
 reliable tech you can trust.
 
 There are situations where a web CMS is justified and appropriate
-in the enterprise; we should use the right-sized tool for the task.
+in the enterprise. We should use the right-sized tool for the task.
 
 ## Jekyll
 
