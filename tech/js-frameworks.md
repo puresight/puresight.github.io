@@ -35,9 +35,6 @@ Mainstream
 * [Facebook's React]({{site.baseurl}}tech/reactjs.html)
     * __Pro:__ simple, fast, community, open source, mature, evolving
     * __Con:__ IP
-* [Google's Polymer](https://www.polymer-project.org/1.0/)
-    * __Pro:__ standards, [web components]({{site.baseurl}}tech/web-components.html), cli
-    * __Con:__ new
 * [Google's Angular 2](https://angular.io/)
     * __Pro:__ fast, popular, cli
     * __Con:__ IP, new
@@ -47,6 +44,9 @@ Interesting
 * [Google's Angular 1](https://angularjs.org/)
     * __Pro:__ popular
     * __Con:__ deprecated
+* [Google's Polymer](https://www.polymer-project.org/1.0/)
+    * __Pro:__ standards, [web components]({{site.baseurl}}tech/web-components.html), cli
+    * __Con:__ new
 * [Durandal's Aurelia](http://aurelia.io/)
     * __Pro:__ pro-standards, advanced, sleek, simple, components
     * __Con:__ IP, new
