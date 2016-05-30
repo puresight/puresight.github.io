@@ -116,14 +116,20 @@ span.eighth-7 { display: none; }
   border-radius: 10%;
 }
 @media (min-width: 48em) {
-  .page-pic img, .page-pic .fig { max-width: 11vw; }
+  .page-pic img, .page-pic .fig {
+    max-width: 11vw;
+  }
 }
 
-
 .clock.fig {
-  height: 10vw;
+  height: 200px;
   background-color: #eee;
   background-color: rgba(0, 0, 0, 0.1);
+}
+@media (min-width: 48em) {
+  .clock.fig {
+    height: 11vw;
+  }
 }
 .clock {
   display: inline-block;
