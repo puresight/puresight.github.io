@@ -2,6 +2,9 @@
  * global styles
  */
 
+/* only used on the life/today page currently */
+@import url("clock.css");
+
 /* reset: IE doesn't know about main */
 main { display: block; }
 
@@ -122,66 +125,18 @@ span.eighth-7 { display: none; }
 }
 
 .clock.fig {
-  height: 200px;
+  width: 15vw;
+  height: 15vw;
+  max-width: none;
   background-color: #eee;
   background-color: rgba(0, 0, 0, 0.1);
 }
 @media (min-width: 48em) {
   .clock.fig {
+    width: 11vw;
     height: 11vw;
   }
 }
-.clock {
-  display: inline-block;
-  position: relative;
-  min-width:  24px;
-  min-height: 24px;
-  background-color: #ccc;
-  border: 0.25ex solid #999;
-}
-.clock:after {
-  content: "";
-  width:  10%;
-  height: 10%;
-  left: 50%;
-  top: 50%;
-  border-radius: 50%;
-}
-.clock > div {
-  position: absolute; top: 0; right: 0; bottom: 0; left: 0;
-}
-.clock:after, .clock > div > div {
-  position: absolute;
-  background-color: #000;
-  transform-origin: 50% 100%;
-}
-.clock:after {
-  transform: translate(-50%, -50%);
-}
-.clock .hours div {
-  width: 4%;
-  height: 20%;
-  left: 48%;
-  top: 29%;
-}
-.clock .minutes div {
-  width: 3%;
-  height: 40%;
-  left: 49%;
-  top: 12%;
-}
-.clock .seconds div {
-  display: none;
-  width: 2%;
-  height: 45%;
-  left: 49.5%;
-  top: 14%;
-  transform-origin: 50% 80%;
-}
-@keyframes rotate { 100% { transform: rotateZ(360deg); } }
-.clock .hours   { animation: rotate 43200s infinite steps(12); }
-.clock .minutes { animation: rotate  3600s infinite steps(60); }
-.clock .seconds { animation: rotate    60s infinite steps(60); }
 
 .socialicons img {
   width: 1.5rem;
