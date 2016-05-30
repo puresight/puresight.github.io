@@ -368,3 +368,81 @@ Performance
 ----
 Language
 * There are more than a dozen different words for “I” in Japanese, and which one people use depends on the precise social circumstances.
+
+{% comment %}
+// // // // // // // //
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null and node.title != "Home" %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% for post in site.categories.tech limit:5 %}
+          {% if post.external-url %}
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                href="{{ post.external-url | xml_escape }}" title="{{ post.title | xml_escape }}">{{ post.title | truncate: 40, "..." | xml_escape }}
+              </a>
+          {% else %}
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                href="{{ post.url | xml_escape }}" title="{{ post.title | xml_escape }}">{{ post.title | truncate: 40, "..." | xml_escape }}
+              </a>
+          {% endif %}
+      {% endfor %}
+      <!--p>Copyright {{ site.time | date: '%Y' }}</p-->
+
+// // // // // // // //
+
+/* from http://azmind.com/2012/11/06/social-icons-sprites-35-ready-to-use-icons-psd-png-html-css/ */
+
+.socialicons a {
+  display: inline-block;
+  overflow: hidden;
+  width: 24px;
+  height: 24px;
+  margin: 6px;
+  border-radius: 3px;
+  text-indent: -9em;
+  background: left -34px no-repeat;
+  vertical-align: middle;
+  transition: all .3s;
+}
+.socialicons a:hover, .socialicons a:focus { background-color: #777; }
+.socialicons a.twitter { background-image: url(../images/social-icons/twitter.png);}
+.socialicons a.dribbble { background-image: url(../images/social-icons/dribbble.png);}
+.socialicons a.feed { background-image: url(../images/social-icons/rss.png);}
+.socialicons a.pinterest { background-image: url(../images/social-icons/pinterest.png);}
+.socialicons a.digg { background-image: url(../images/social-icons/digg.png);}
+.socialicons a.flickr { background-image: url(../images/social-icons/flickr.png);}
+.socialicons a.forrst { background-image: url(../images/social-icons/forrst.png);}
+.socialicons a.vimeo { background-image: url(../images/social-icons/vimeo.png);}
+.socialicons a.reddit { background-image: url(../images/social-icons/reddit.png);}
+.socialicons a.linkedin { background-image: url(../images/social-icons/linkedin.png);}
+.socialicons a.facebook { background-image: url(../images/social-icons/facebook.png);}
+.socialicons a.paypal { background-image: url(../images/social-icons/paypal.png);}
+.socialicons a.stumbleupon { background-image: url(../images/social-icons/stumbleupon.png);}
+.socialicons a.email { background-image: url(../images/social-icons/email.png);}
+.socialicons a.deviantart { background-image: url(../images/social-icons/deviantart.png);}
+.socialicons a.netvibes { background-image: url(../images/social-icons/netvibes.png);}
+.socialicons a.yahoo { background-image: url(../images/social-icons/yahoo.png);}
+.socialicons a.github { background-image: url(../images/social-icons/github.png);}
+.socialicons a.addthis { background-image: url(../images/social-icons/addthis.png);}
+.socialicons a.behance { background-image: url(../images/social-icons/behance.png);}
+.socialicons a.blogger { background-image: url(../images/social-icons/blogger.png);}
+.socialicons a.slashdot { background-image: url(../images/social-icons/slashdot.png);}
+.socialicons a.technorati { background-image: url(../images/social-icons/technorati.png);}
+.socialicons a.googleplus { background-image: url(../images/social-icons/googleplus.png);}
+.socialicons a.apple { background-image: url(../images/social-icons/apple.png);}
+.socialicons a.myspace { background-image: url(../images/social-icons/myspace.png);}
+.socialicons a.sharethis { background-image: url(../images/social-icons/sharethis.png);}
+.socialicons a.yelp { background-image: url(../images/social-icons/yelp.png);}
+.socialicons a.delicious { background-image: url(../images/social-icons/delicious.png);}
+.socialicons a.lastfm { background-image: url(../images/social-icons/lastfm.png);}
+.socialicons a.youtube { background-image: url(../images/social-icons/youtube.png);}
+.socialicons a.skype { background-image: url(../images/social-icons/skype.png);}
+.socialicons a.tumblr { background-image: url(../images/social-icons/tumblr.png);}
+.socialicons a.aim { background-image: url(../images/social-icons/aim.png);}
+.socialicons a.google { background-image: url(../images/social-icons/google.png);}
+// // // // // // // //
+{% endcomment %}
