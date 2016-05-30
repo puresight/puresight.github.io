@@ -6,14 +6,19 @@ layout: default
   <h1 class="page-title">
     <time class="day-month-date">Today</time>
   </h1>
-  <p class="tags">
+  <ul class="tags">
     {% if page.categories or page.category %}
-        {% if page.category %}<a class="category">{{ page.category }}</a>{% endif %}
-        {% for x in page.categories %}<a class="category">{{ x }}</a> {% endfor %}
+        {% if page.category %}
+          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ page.category }}">{{ page.category }}</a></li>
+        {% endif %}
+        {% for tag in page.categories %}
+          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
+        {% endfor %}
     {% endif %}
-    {% for x in page.tags %} <a>{{ x }}</a>
+    {% for tag in page.tags %}
+      <li><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
     {% endfor %}
-  </p>
+  </ul>
 </header>
 
 <figure class="page-pic">

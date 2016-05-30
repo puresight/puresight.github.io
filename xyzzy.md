@@ -2,12 +2,14 @@
 layout: test
 title: xyzzy
 published: false
+noindex: true
 todo:
 - Add tags to website
 ---
 
-Jekyll TODO
-* [tags](http://charliepark.org/tags-in-jekyll/)
+Jekyll
+----
+* [Add tags to your website](http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/)
 
 IRC/chatrooms/slacks
 -------------------------
@@ -150,9 +152,8 @@ Portfolios
 ----------
 * http://strml.net/
 
-
 What to Watch from React.js Conf 2016
-​-------------------------------------
+----
 * ✔ *Keynote - Yes, if you want to know how big it is growing*
 * ​✔ *React: What Lies Ahead - Yes, Absolutely*​
 * ​✔ *Rich Text Editing with React - Yes, Absolutely*​

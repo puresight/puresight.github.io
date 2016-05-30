@@ -12,4 +12,5 @@ description: "Reference page about images for websites."
 ---
 
 * @_neilorangepeel's [social SVG's](https://github.com/neilorangepeel/Free-Social-Icons)
-* http://findicons.com
+* [FindIcons.com](http://findicons.com)
+* [FontAwesome.io](http://fontawesome.io/examples/)

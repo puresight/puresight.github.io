@@ -58,13 +58,21 @@ body {
 }
 
 .tags {
-  font-size: 50%;
+  padding: 0;
+  list-style: none;
+  font-size: 60%;
   line-height: 2ex;
+}
+
+.tags li {
+  display: inline-block;
 }
 
 .tags a {
   display: inline-block;
-  border: 1px solid transparent;
+  border-color: transparent;
+  border-style: solid none;
+  border-width: 1px;
   padding: 0 0.5em;
   background-color: #f3f3f3;
   color: #777 !important;
@@ -74,7 +82,7 @@ body {
 }
 .tags a:hover, .tags a:focus {
   text-decoration: none;
-/* outline: 1px dotted black; /**/
+/*  border-color: #bbb; /**/
 }
 
 .tags a.category {}

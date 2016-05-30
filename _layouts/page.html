@@ -18,16 +18,22 @@ layout: default
     {% endif %}
   </h1>
 
-  <p class="tags">
+  <ul class="tags">
     {% if page.categories or page.category %}
-        {% if page.category %}<a class="category">{{ page.category }}</a>{% endif %}
-        {% for x in page.categories %}<a class="category">{{ x }}</a> {% endfor %}
+        {% if page.category %}
+          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ page.category }}">{{ page.category }}</a></li>
+        {% endif %}
+        {% for tag in page.categories %}
+          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
+        {% endfor %}
     {% endif %}
-    {% for x in page.tags %} <a>{{ x }}</a>
+    {% for tag in page.tags %}
+      <li><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
     {% endfor %}
-  </p>
+  </ul>
 </header>
 
+{% if page.image %}
 <figure class="page-pic">
   <picture>{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
     <img
@@ -39,6 +45,7 @@ layout: default
   </picture>
   <figcaption>{{ page.image.caption }}</figcaption>
 </figure>
+{% endif %}
 
 {{ content }}
 
