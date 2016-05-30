@@ -28,12 +28,6 @@ image:
 * package upkeep [Greenkeeper](https://greenkeeper.io/)
 * [continuous integration]({{site.baseurl}}tech/ci.html)
 
-Commercial
-----------
-* [Wallaby.js](https://wallabyjs.com/) - continuous testing, code coverage etc
-* [Codecov](https://codecov.io/) - "Code coverage done right"
-* [Track.js](https://trackjs.com/) - "Track Error Context, Actually Fix Bugs"
-
 Combinations
 ------------
 * [MEAN](http://meanjs.org/) - MongoDB + Express.js + Angular.js + Node.js

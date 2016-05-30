@@ -36,6 +36,12 @@ Front-end
 * [Jasmine](https://github.com/jasmine/jasmine) testing framework for JavaScript
 * [Phantom](http://phantomjs.org/) headless browser with a JS & DOM API, CSS selectors, JSON, Canvas, SVG, and more.
 
+Commercial tools
+----------
+* [Wallaby.js](https://wallabyjs.com/) - continuous testing, code coverage etc
+* [Codecov](https://codecov.io/) - "Code coverage done right"
+* [Track.js](https://trackjs.com/) - "Track Error Context, Actually Fix Bugs"
+
 Blogs
 -----
 * [tuts+: Testing Your JavaScript with Jasmine](http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229) (2011)
