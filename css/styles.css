@@ -100,6 +100,7 @@ span.eighth-7 { display: none; }
   margin-top: -1.01rem;
 }
 
+.page-pic figcaption { display: none;}
 .page-pic {
   display: block;
   float: right;
@@ -107,15 +108,17 @@ span.eighth-7 { display: none; }
   opacity: 1;
   transition: 1s all;
 }
+
 .page-pic img, .page-pic .fig {
-  width: 10vw;
-  max-height: 10vw;
+  width: 200px;
+  max-width: 15vw;
   margin: -1rem 0 0 0;
   border-radius: 10%;
 }
-.page-pic figcaption {
-  display: none;
+@media (min-width: 48em) {
+  .page-pic img, .page-pic .fig { max-width: 11vw; }
 }
+
 
 .clock.fig {
   height: 10vw;
