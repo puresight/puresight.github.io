@@ -64,6 +64,9 @@ Interesting
     * __Pro:__ reactive, advanced
     * __Con:__ hard, complex
     * Example: [RxJS 5 operators](https://gist.github.com/btroncone/d6cf141d6f2c00dc6b35#withlatestfrom)
+* [Knockout.js](http://knockoutjs.com/)
+    * __Pro:__ mature
+    * __Con:__ free part of a commercial product
 
 Historic
 --------
@@ -77,6 +80,10 @@ Historic
 Catalogs
 --------
 * [JSter](http://jster.net/) is a catalog of JS libraries curated by [Juho Vepsäläinen](https://twitter.com/bebraw)
+
+Comparison and contrast
+--------
+* [by Vue](https://vuejs.org/guide/comparison.html)
 
 Non-JS inspirations
 ---------------

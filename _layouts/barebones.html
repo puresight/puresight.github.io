@@ -10,8 +10,9 @@
 {% include liquid.html %}
 {% include metadata.html %}
 <meta http-equiv="Cache-Control" content="max-age=86400" />
+{% comment %} Meta Refresh old IE {% endcomment %}
 <!--[if IE]><meta http-equiv="refresh"
-  content="6; url=http://windows.microsoft.com/en-us/windows/is-computer-up-to-date">
+  content="30; url=http://windows.microsoft.com/en-us/windows/is-computer-up-to-date">
 <![endif]-->
 
 {% comment %} THEME CSS {% endcomment %}
@@ -26,8 +27,10 @@
 
 </head>
 <body class="layout-reverse loading">
+{% comment %} seo {% endcomment %}<!-- {{ page.description }} -->
 
 {{ content }}
+
 <div id="overlay"></div>
 <script async defer src="{{ site.baseurl }}js/deferred.js"></script>
 <script src="{{ site.baseurl }}js/script.js"></script>
