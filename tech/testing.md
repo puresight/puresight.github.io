@@ -41,6 +41,12 @@ Commercial tools
 * [Wallaby.js](https://wallabyjs.com/) - continuous testing, code coverage etc
 * [Codecov](https://codecov.io/) - "Code coverage done right"
 * [Track.js](https://trackjs.com/) - "Track Error Context, Actually Fix Bugs"
+* [CodeClimate](https://codeclimate.com/pricing)
+* [CircleCI](https://circleci.com/pricing/)
+
+Container tools
+---------------
+* [SysDig](http://www.sysdig.org/)
 
 Blogs
 -----

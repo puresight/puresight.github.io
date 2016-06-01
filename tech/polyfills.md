@@ -20,8 +20,7 @@ image:
 Polyfills
 --------
 
-You could say that polyfill sets are Vanilla JS
-un-[frameworks]({{site.baseurl}}tech/js-frameworks.html).
+Polyfills make vanilla JS awesome.
 
 * URL [Polymer/URL](https://github.com/Polymer/URL)
 * element.classList [eligrey/classList.js](https://github.com/eligrey/classList.js)
