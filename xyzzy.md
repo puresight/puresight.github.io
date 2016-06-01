@@ -101,6 +101,7 @@ Books
 
 Blogs: Functional Languages
 -----------------------------
+* js lib Ramda: http://fr.umio.us/why-ramda/
 * http://blog.circleci.com/why-we-use-om-and-why-were-excited-for-om-next/
 * Elm course https://pragmaticstudio.com/elm
 * Elm: Concurrent FRP for Functional GUIs http://elm-lang.org/papers/concurrent-frp.pdf
