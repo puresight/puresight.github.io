@@ -1,10 +1,10 @@
 ---
 layout: index
-title: Biz notes
+title: Notes
 noindex: true
 category: business
 subject: business
-description: "Business notes"
+description: "My few notes about business and finance."
 ---
 
 {{ page.description }}
