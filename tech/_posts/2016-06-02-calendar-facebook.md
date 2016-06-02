@@ -8,11 +8,11 @@ tags:
 - syndication
 - calendar
 image:
-  alt: "duck"
+  alt: "Facebook"
   caption: ""
-  url: "images/nonicons/duck.png"
-  width: 256
-  height: 256
+  url: "images/icons/fb.png"
+  width: 316
+  height: 316
 ---
 
 {{ page.description }}
