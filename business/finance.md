@@ -7,7 +7,7 @@ tags:
 - SPDR
 description: "SPDR Sector ETF’s"
 ---
-
+w
 ## The Spyder Sectors
 
 {{ page.description }}
