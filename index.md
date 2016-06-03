@@ -1,10 +1,7 @@
 ---
-layout: index
+layout: lifeindex
 title: Home
-tagline: Notes
+tagline: Monty for hire
 subject: website
 noindex: true
-category: tech
 ---
-
-Technology notes for software professionals

@@ -1,8 +1,9 @@
 ---
 layout: myroom
 title: Today
-noindex: true
 subject: clock
+category: life
+noindex: true
 ---
 
 I'm working in the NW Austin area today.
