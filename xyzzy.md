@@ -4,7 +4,9 @@ title: xyzzy
 published: false
 noindex: true
 todo:
-- Add tags to website
+- Add tags plugin to Jekyll?
+- start page: tech comics e.g. xlcd
+- start page: project management tools & estimation
 ---
 
 Jekyll
