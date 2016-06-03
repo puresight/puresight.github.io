@@ -41,5 +41,7 @@ In 2016, all major browsers support the sixth (ES6)
 edition—[ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/).
 
 New [ECMAScript](https://github.com/tc39/ecma262/)
-standards are landing every year now. The language is growing so fast that
-_transpiling_ is a practical necessity.
+standards are landing every year now.
+Our language is changing fast! So we have accepted
+[compiling]({{site.baseurl}}tech/compilers.html)
+as a normal part of our development process.
