@@ -7,11 +7,11 @@ tags:
 subject: infosec
 description: "Stay aware of evolving best practices in information security and how innovations in the web technology platform can help keep your open web applications secure."
 image:
-  alt: "JavaScript"
+  alt: "Security"
   caption: ""
-  url: "images/icons/js200.png"
-  width: 200
-  height: 200
+  url: "images/nonicons/lock.png"
+  width: 235
+  height: 235
 todo:
 -  page image
 ---
