@@ -130,11 +130,6 @@ span.eighth-7 { display: none; }
   margin: -1rem 0 0 0;
   border-radius: 10%;
 }
-@media (min-width: 48em) {
-  .page-pic img, .page-pic .fig {
-    max-width: 11vw;
-  }
-}
 
 .clock.fig {
   width: 15vw;
@@ -145,8 +140,8 @@ span.eighth-7 { display: none; }
 }
 @media (min-width: 48em) {
   .clock.fig {
-    width: 11vw;
-    height: 11vw;
+    width: 15vw;
+    height: 15vw;
   }
 }
 
