@@ -7,7 +7,7 @@ tags:
 - responsive
 - SDT
 subject: manifesto
-description: "Agile is a set of values and principles that create an environment optimal for software development teams."
+description: "Agile teams adhere to values and principles that create an environment optimal for software development."
 image:
   alt: "Responsive Org"
   caption: ""
@@ -15,8 +15,8 @@ image:
   width: 1000
   height: 1000
 todo:
-- Add talk about teams in SDT, responsive, agile
-- Add talk about mentoring, apprenticeship, learning
+- Add talk about mentoring and apprenticeship
+- Add talk about learning
 ---
 
 {{ page.description }}

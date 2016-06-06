@@ -41,9 +41,9 @@ Git clients for Mac only
 
 Non-distributed systems
 -----------------------
-* [Apache Subversion](https://subversion.apache.org/)
+* [Apache Subversion](https://subversion.apache.org/) (svn)
 
 Proprietary & Historical
 --------------------------------
-* [IBM Rational Team Concert](https://jazz.net/products/rational-team-concert/)
-* [Concurrent Versions System](http://www.nongnu.org/cvs/)
+* [IBM Rational Team Concert](https://jazz.net/products/rational-team-concert/) (RTC)
+* [Concurrent Versions System](http://www.nongnu.org/cvs/) (cvs)

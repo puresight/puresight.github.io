@@ -44,3 +44,13 @@ Cloud solutions (editor as a service)
 * [Cloud9](https://c9.io/)
 * [Nitrous](https://www.nitrous.io/pricing/)
 * [https://alternativeto.net/software/cloud9/](https://alternativeto.net/software/cloud9/)
+
+Heavyweights IDE’s
+------------------
+
+These were created primarily to assist programmers using
+back-end language toolchains, have a steeper learning curve, and help for
+front-end developers is an afterthought.
+
+* [NetBeans](https://netbeans.org/) - created for Java
+* [Eclipse](https://www.eclipse.org/) - created for Java
