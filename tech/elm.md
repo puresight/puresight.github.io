@@ -53,6 +53,7 @@ Blogs
 * [Getting Started With Elm by Mike Clark](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) Pragmatic, 2015
 * [Elm by Example by Grzegorz Balcerek](http://elm-by-example.org/) 0.15
 * [Ossi Hanhinen](https://www.twitter.com/ohanhi)'s [0.16 experience](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+* 2016/05 [Understanding the Elm type system](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html) by [Adam Waselnuk](https://twitter.com/AWaselnuk)
 
 Community
 ---------
