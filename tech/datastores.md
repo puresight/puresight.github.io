@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Database management systems
+title: Databases
 category: tech
 tags:
 - database
 subject: DBMS
-description: "Database management system software handles storage, retrieval, and updating of data."
+description: "Database management software handles the storage, retrieval, and updating of data."
 image:
   credit: "http://www.iconsdb.com/gray-icons/database-5-icon.html"
   alt: "database"
