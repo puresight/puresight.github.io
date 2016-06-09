@@ -53,5 +53,5 @@ These were created primarily to assist programmers using
 back-end language toolchains, have a steeper learning curve, and help for
 front-end developers is an afterthought.
 
-* [NetBeans](https://netbeans.org/) - created for Java
-* [Eclipse](https://www.eclipse.org/) - created for Java
+* [NetBeans](https://netbeans.org/) - created for Java by Sun/Oracle
+* [Eclipse](https://www.eclipse.org/) - created for Java by IBM

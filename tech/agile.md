@@ -7,7 +7,7 @@ tags:
 - responsive
 - SDT
 subject: manifesto
-description: "Agile teams adhere to values and principles that create an environment optimal for software development."
+description: "Agile teams adhere to values and principles that create an environment good for software development."
 image:
   alt: "Responsive Org"
   caption: ""
