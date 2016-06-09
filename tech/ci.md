@@ -19,7 +19,7 @@ Continuous Integration is an integral part of every
 team's
 [toolchain]({{site.baseurl}}tech/toolchain.html).
 
-Tools
+Software
 -----
 * [Gitlab CI](http://docs.gitlab.com/ce/ci/) - Gitlab-based
 * [Jenkins](https://jenkins.io/) - Java-based old school
@@ -29,7 +29,7 @@ Tools
 * [Travis CI](https://travis-ci.org/) - easiest!
 * [Strider-cd](http://stridercd.com/) - Node-based
 
-Reviews
--------
+### Reviews
+
 * [Taiga's](https://blog.taiga.io/6-excellent-continuous-integration-tools.html)
 * [Sergey Bronnikov's](https://github.com/ligurio/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
