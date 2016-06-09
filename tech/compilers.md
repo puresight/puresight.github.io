@@ -5,7 +5,7 @@ category: tech
 tags:
 - compiler
 subject: compiler
-description: "A compiler is a computer program (or a set of programs) that transforms source code written in a programming language into another computer language."
+description: "A compiler is a set of computer programs that transforms computer programming written in a source language into a target language."
 image:
   alt: "JavaScript"
   caption: ""
@@ -14,7 +14,7 @@ image:
   height: 200
 ---
 
-[Wikipedia](https://en.wikipedia.org/wiki/Compiler) says “a compiler is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language).”
+{{ page.description }}
 
 Compilers
 ---------
