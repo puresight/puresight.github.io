@@ -16,16 +16,16 @@ image:
 
 {{ page.description }}
 
-* node version manager [nvm](https://davidwalsh.name/nvm)
-* node JS framework [Express](http://expressjs.com/)
-* package manager [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
+* node version manager: [nvm](https://davidwalsh.name/nvm)
+* [nodeJS](https://nodejs.org/) framework: [Express](http://expressjs.com/)
+* package manager: [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 * [source code editor]({{site.baseurl}}tech/editors.html)
 * [version control]({{site.baseurl}}tech/scm.html)
 * [testing-driven development]({{site.baseurl}}tech/testing.html)
-* certificate authority [Let's Encrypt](https://letsencrypt.org/)
+* certificate authority: [Let's Encrypt](https://letsencrypt.org/)
 * [compiler]({{site.baseurl}}tech/compilers.html)
 * [module bundler]({{site.baseurl}}tech/webpack.html)
-* package upkeep [Greenkeeper](https://greenkeeper.io/)
+* package upkeep: [Greenkeeper](https://greenkeeper.io/)
 * [continuous integration]({{site.baseurl}}tech/ci.html)
 
 Combinations
