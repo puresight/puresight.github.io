@@ -6,10 +6,9 @@ correlation: agile
 tags:
 - design
 subject: Software Engineering
-description: "Software Engineering"
+description: "Software engineering is the application of engineering in the processes of designing, developing, delivering, and maintaining software."
 noindex: true
 todo:
-- page description
 - page image
 ---
 
@@ -17,4 +16,4 @@ todo:
 
 Video
 -----
-* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by [Rich Hickey]
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by [Rich Hickey](https://twitter.com/richhickey)
