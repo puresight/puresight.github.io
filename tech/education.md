@@ -65,3 +65,5 @@ A few, off the top of my mind...
     * [Maintainable JavaScript: Writing Readable Code](http://shop.oreilly.com/product/0636920025245.do)
 * [Eric Elliott](https://twitter.com/_ericelliott)
     * [JavaScript course](https://ericelliottjs.com/product/lifetime-access-pass/) $995
+* [Marijn Haverbeke](https://twitter.com/marijnjh)
+    * [Eloquent Javascript](http://eloquentjavascript.net/)
