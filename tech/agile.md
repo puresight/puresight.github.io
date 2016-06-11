@@ -6,9 +6,9 @@ correlation: engineering
 tags:
 - agile
 - responsive
-- SDT
+- engineering
 subject: manifesto
-description: "Agile teams adhere to values and principles that create an environment good for software development."
+description: "Agile teams adhere to values and principles that create a work environment good for software development."
 image:
   alt: "Responsive Org"
   caption: ""
