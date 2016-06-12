@@ -18,6 +18,18 @@ image:
 
 {{ page.description }}
 
+From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/):_
+
+> We are uncovering better ways of developing software by doing it and
+> helping others do it. Through this work we have come to value:
+>
+> 1. Individuals and interactions over processes and tools
+> 2. Working software over comprehensive documentation
+> 3. Customer collaboration over contract negotiation
+> 4. Responding to change over following a plan
+>
+> That is, while there is value in the items on the right, we value the items on the left more.
+
 [Robert C. Martin](https://twitter.com/unclebobmartin), _Clean Code: A Handbook of Agile Software Craftsmanship:_
 
 > “The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. Therefore, making it easy to read makes it easier to write.”
@@ -30,6 +42,27 @@ image:
 
 > “To focus on the visible at the expense of the essential is irresponsible.”
 
-Relevant videos
+[Self-Determination Theory](http://selfdeterminationtheory.org/theory/)
+(Edward L. Deci, Richard M. Ryan) is a macro theory of human motivation and personality
+that concerns people's inherent growth tendencies and innate psychological needs:
+
+> SDT propositions focus on how social and cultural factors facilitate or undermine people’s sense of volition and initiative, in addition to their well-being and the quality of their performance.  Conditions supporting the individual’s experience of autonomy, competence, and relatedness are argued to foster the most volitional and high quality forms of motivation and engagement for activities, including enhanced performance, persistence, and creativity. In addition, SDT proposes that the degree to which any of these three psychological needs is unsupported or thwarted within a social context will have a robust detrimental impact on wellness in that setting.
+
+From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
+
+> Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:
+>
+> * Profit ↔ Purpose
+> * Hierarchies ↔ Networks
+> * Controlling ↔ Empowering
+> * Planning ↔ Experimentation
+> * Privacy ↔ Transparency
+
+Content
 -----
-* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by [Rich Hickey](https://twitter.com/richhickey)
+* _[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)_ [video] - [Rich Hickey](https://twitter.com/richhickey) on software design
+* _[Ten Principles of Organizational Democracy](https://www.worldblu.com/democratic-design/principles.php)_ by [Traci Fenton](https://twitter.com/tracifenton)
+* [IDEO Design Thinking](http://designthinking.ideo.com/) [blog] - Tim Brown's thoughts
+* Spotify engineering culture: [one](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) |
+[two](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+* [IBM Design Thinking](https://www.ibm.com/design/thinking/)
