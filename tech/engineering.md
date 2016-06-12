@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Engineering
+title: Software engineering
 category: tech
 correlation: agile
 tags:
@@ -42,6 +42,10 @@ From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
 > “To focus on the visible at the expense of the essential is irresponsible.”
 
+[Donald A. Norman](http://www.jnd.org/about.html), _The Design of Everyday Things:_
+
+> Norman’s law: The day the product team is announced, it is behind schedule and over its budget.
+
 [Self-Determination Theory](http://selfdeterminationtheory.org/theory/)
 (Edward L. Deci, Richard M. Ryan) is a macro theory of human motivation and personality
 that concerns people's inherent growth tendencies and innate psychological needs:
@@ -58,7 +62,7 @@ From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
 > * Planning ↔ Experimentation
 > * Privacy ↔ Transparency
 
-Content
+Some Content
 -----
 * _[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)_ [video] - [Rich Hickey](https://twitter.com/richhickey) on software design
 * _[Ten Principles of Organizational Democracy](https://www.worldblu.com/democratic-design/principles.php)_ by [Traci Fenton](https://twitter.com/tracifenton)
