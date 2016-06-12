@@ -15,4 +15,4 @@ noindex: true
 ---
 
 See:
-[software engineering]({{site.baseurl}}tech/engineering.html)
+[software engineering]({{site.baseurl}}tech/software-engineering.html)
