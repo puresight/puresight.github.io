@@ -6,14 +6,12 @@ noindex: true
 
 Change
 ------
-* [Agile]({{site.baseurl}}tech/agile.html) page
 * [Testing]({{site.baseurl}}tech/testing.html) page
 * [JavaScript]({{site.baseurl}}tech/js.html) page
 * [JS Frameworks]({{site.baseurl}}tech/js-frameworks.html) page
 
 Add
 ---
-
 * [API]({{site.baseurl}}tech/api.html)
 * [RWD]({{site.baseurl}}tech/rwd.html)
 * [css]({{site.baseurl}}tech/css.html)

@@ -14,6 +14,9 @@ image:
   url: "images/nonicons/gear.png"
   width: 400
   height: 400
+todo:
+- Add talk about mentoring and apprenticeship
+- Add talk about learning
 ---
 
 {{ page.description }}
