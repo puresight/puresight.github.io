@@ -6,7 +6,7 @@ tags:
 - tools
 - website
 subject: websites
-description: "SSG’s rebuild web pages on change. This process forms websites as scalable as they are secure."
+description: "SSG’s rebuild the web pages the moment anything changes. This makes for websites as scalable as they are secure."
 image:
   alt: "OctoJekyll"
   caption: "Octojekyll"

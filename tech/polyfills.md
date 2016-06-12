@@ -47,6 +47,7 @@ Others begin as polyfills that flock and evolve.
 * Functional Programming: [Ramda](http://Ramdajs.com/)
 * Reactive: [Most.js](https://github.com/cujojs/most)
 * Dataviz: [D3](https://d3js.org/)
+* Generative Art: [P5.js](http://p5js.org/)
 * Realtime I/O: [Socket.io](http://socket.io/)
 * Web Components: [webcomponents.js](http://webcomponents.org/polyfills/)
 

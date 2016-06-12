@@ -67,3 +67,5 @@ A few, off the top of my mind...
     * [JavaScript course](https://ericelliottjs.com/product/lifetime-access-pass/) $995
 * [Marijn Haverbeke](https://twitter.com/marijnjh)
     * [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Daniel Shiffman](https://twitter.com/shiffman)
+    * [The Nature of Code](http://natureofcode.com/book/)
