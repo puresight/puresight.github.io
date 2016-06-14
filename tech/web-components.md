@@ -27,12 +27,12 @@ Web components land in 2017!
 Get started today via some [polyfills]({{site.baseurl}}tech/polyfills.html) or a
 [framework]({{site.baseurl}}tech/js-frameworks.html).
 
-Libraries
+Widget Libraries
 ---------
 * [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/)
 * [Vaadin Elements](https://vaadin.com/elements)
 
-Catalogs
+Component Catalogs
 --------
 * [customelements.io](https://customelements.io/)
 * [Polymer Project](https://elements.polymer-project.org/)

@@ -41,6 +41,7 @@ Podcasts
 * [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) videos
 * [JavaScript Jabber](https://devchat.tv/js-jabber) audio
 * [JavaScript Air](https://javascriptair.com/) audio
+    * This is good: [Episode 3: Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)
 * [FiveJS](https://fivejs.codeschool.com/) audio
 
 Newsletters
