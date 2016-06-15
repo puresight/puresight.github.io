@@ -1,0 +1,6 @@
+image:
+  credit: "http://game-icons.net/lorc/originals/sundial.html"
+  license: "https://creativecommons.org/licenses/by/3.0/"
+  width: 512
+  height: 512
+
