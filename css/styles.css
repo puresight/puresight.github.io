@@ -137,6 +137,7 @@ span.eighth-7 { display: none; }
   max-width: 15vw;
   margin: -1rem 0 0 0;
   border-radius: 10%;
+  transition: 1s all;
 }
 @media (min-width: 48em) {
   .page-pic img, .page-pic .fig {
@@ -145,10 +146,20 @@ span.eighth-7 { display: none; }
   }
 }
 
+.page-pic img:hover,
+.page-pic img:focus
+.page-pic .fig:hover,
+.page-pic .fig:focus {
+  box-shadow: 0 0 1rem 0.25rem #eee;
+  background-color: #eee;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
 .clock.fig {
   width: 15vw;
   height: 15vw;
   max-width: none;
+  border-radius: 50%;
 }
 @media (min-width: 48em) {
   .clock.fig {

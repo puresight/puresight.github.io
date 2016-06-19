@@ -10,7 +10,7 @@ image:
   url: "images/nonicons/clockface-no-numerals.png"
   license: "https://creativecommons.org/licenses/by/3.0/"
   source: "http://agf81.deviantart.com/art/Clock-Face-253863738"
-  style: "border-radius: 50%; opacity: 0.75;"
+  style: "opacity: 0.75; border-radius: 50%;"
   width: 640
   height: 640
 ---
