@@ -4,6 +4,13 @@ title: Today
 subject: clock
 category: life
 noindex: true
+image:
+  alt: "JavaScript"
+  caption: "clock"
+  url: "images/nonicons/clockface-arabic-numerals.png"
+  style: "border-radius: 50%;"
+  width: 400
+  height: 400
 ---
 
 I'm working in the NW Austin area today.

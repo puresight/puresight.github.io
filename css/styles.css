@@ -124,6 +124,7 @@ span.eighth-7 { display: none; }
 
 .page-pic figcaption { display: none;}
 .page-pic {
+  position: relative;
   display: block;
   float: right;
   margin: 0 1em 1ex;
@@ -148,8 +149,6 @@ span.eighth-7 { display: none; }
   width: 15vw;
   height: 15vw;
   max-width: none;
-  background-color: #eee;
-  background-color: rgba(0, 0, 0, 0.1);
 }
 @media (min-width: 48em) {
   .clock.fig {

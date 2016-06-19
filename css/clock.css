@@ -4,11 +4,10 @@
 
 .clock {
   display: inline-block;
-  position: relative;
+  position: absolute;
   min-width:  24px;
   min-height: 24px;
-  background-color: #ccc;
-  border: 0.25ex solid #999;
+/* border: 0.25ex solid #999; /**/
 }
 .clock:after {
   content: "";

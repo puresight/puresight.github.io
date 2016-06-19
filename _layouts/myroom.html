@@ -21,13 +21,21 @@ layout: default
   </ul>
 </header>
 
-<figure class="page-pic">
+<figure class="page-pic" title="{{ page.image.title }}">
   <div class="clock fig">
     <div class="seconds"><div></div></div>
     <div class="hours"  ><div></div></div>
     <div class="minutes"><div></div></div>
   </div>
-  <figcaption>clock</figcaption>
+  <picture style="max-width:{{ page.image.width }}px;">
+    <img
+      src="{{ site.baseurl }}{{ page.image.url }}"
+      alt="{{ page.image.alt }}"
+      class="{{ page.image.class }}"
+      style="{{ page.image.style }};"
+    />
+  </picture>
+  <figcaption>{{ page.image.caption }}</figcaption>
 </figure>
 
 <p>
