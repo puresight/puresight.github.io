@@ -24,6 +24,10 @@ _{{ page.description }}_
 
 “Test-driven development is a software development process that relies on the repetition of a very short development cycle: first an (initially failing) automated test case is written that defines a desired improvement or new function. Then, the minimum amount of code is written to pass that test, and finally one refactors the new code to acceptable standards” (Wikipedia).
 
+Caveats
+------
+* _Program testing can be an effective way to show the presence of bugs but it is inadequate for showing their absence._ [Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD303.html)
+
 Back-end
 -------------
 * [Mocha](https://mochajs.org/) tests run serially for flexible & accurate reporting; mapping uncaught exceptions to the correct test cases

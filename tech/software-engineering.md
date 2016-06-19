@@ -37,6 +37,13 @@ From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
 > “The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. Therefore, making it easy to read makes it easier to write.”
 
+[Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/), _The Humble Programmer
+(ACM 1972):_
+
+> [Programming] should deepen our understanding of the [human]
+processes of design and creation. It should give us better control over
+the task of organizing our thoughts.
+
 [Tom DeMarco](http://www.systemsguild.com/tdm.htm), _Peopleware: Productive Projects and Teams:_
 
 > “The business we’re in is more sociological than technological, more dependent on workers' abilities to communicate with each other than their abilities to communicate with machines.”

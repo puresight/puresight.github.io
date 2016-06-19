@@ -3,11 +3,11 @@ layout: page
 title: Blog
 noindex: true
 subject: weblog
-description: "Periodically published blogs by Monty Dickerson on zen."
+description: "Periodically published blogs by Monty Dickerson on spiritual topics"
 ---
 
 <section class="posts">
-  {% for post in site.categories.zen limit:5 %}
+  {% for post in site.categories.kairos limit:5 %}
   <article class="post">
     <header>
       <h1 class="post-title">
@@ -17,7 +17,7 @@ description: "Periodically published blogs by Monty Dickerson on zen."
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
     </header>
-    <figure class="page-pic">
+    <figure class="hidden page-pic">
       <picture>{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
         <img
           src="{{ site.baseurl }}{{ post.image.url }}"
@@ -36,7 +36,7 @@ description: "Periodically published blogs by Monty Dickerson on zen."
 
 <section id="archive">
   <ul class="past">
-  {% for post in site.categories.zen offset:5 limit:9 %}
+  {% for post in site.categories.kairos offset:5 limit:9 %}
     <li>
       <time>{{ post.date | date:"%F" }}</time>
 
