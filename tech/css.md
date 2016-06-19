@@ -5,21 +5,51 @@ category: tech
 tags:
 - css
 subject: front-end design
-description: "Cascading Style Sheets"
-noindex: true
+description: "Cascading Style Sheets is a declarative language for describing the presentation of a document written in a markup language."
+image:
+  alt: "CSS"
+  caption: ""
+  url: "images/icons/css3.svg"
+  width: 600
+  height: 600
+todo:
+- like HTML({{site.baseurl}}tech/html.html)
 ---
 
 {{ page.description }}
 
-TODO
+Reference
+-----
+* [W3C](https://www.w3.org/TR/CSS/)
+* [Mozilla’s Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Safari Web Content Guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoCSS/IntroductiontoCSS.html)
+
+Taxonomies
+----------
+* [BEM](https://en.bem.info/methodology/) - Block, Element, Modifier naming convention for classes
+    * [CSS-Tricks BEM 101](https://css-tricks.com/bem-101/)
+    * 2015: [Keeping the Front-End Modular with BEM](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem) by [Connie Chan](https://twitter.com/conchan)
+
+Themes
 ----
-* image
-* description
+* [Google Material Design](http://materializecss.com/about.html)
 
 Tools
 -----
+* [Chrome devTools](https://developer.chrome.com/devtools/docs/elements-styles)
+* [Sass](http://sass-lang.com/) - stylesheet language which compiles to CSS
+* [LESS](http://lesscss.org/) - a CSS pre-processor that extends the CSS language, adding features that allow variables, mixins, functions, et. al. with the goal to enable stylesheets that are more maintainable, themable and extendable
+* [Stylus](http://stylus-lang.com/) - stylesheet language that uses indentation, instead of braces, to encompass style declarations
 * [PostCSS](http://postcss.org/) is for transforming CSS with JavaScript
     * Increase code readability. Add vendor prefixes to CSS rules using values from Can I Use: [Autoprefixer](https://github.com/postcss/autoprefixer) will use the data based on current browser popularity and property support to apply prefixes for you.
     * [cssnext](http://cssnext.io/) transforms new CSS specs into more compatible CSS so you don't need to wait for browser support. You can literally write future-proof CSS and forget old preprocessor specific syntax.
     * The end of global CSS: [CSS Modules](https://github.com/css-modules/css-modules) means you never need to worry about your names being too generic, just use whatever makes the most sense.
     * Enforce consistent conventions and avoid errors in your stylesheets with [stylelint](http://stylelint.io/), a modern CSS linter. It supports the latest CSS syntax, as well as CSS-like syntaxes, such as SCSS.
+
+Community
+----
+* [CSS Dev Conf](cssdevconf.com)
+
+Historic practices
+-----
+* [Browser Specific Hacks](https://css-tricks.com/snippets/css/browser-specific-hacks/)

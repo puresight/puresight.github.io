@@ -26,7 +26,7 @@ _{{ page.description }}_
 
 Caveats
 ------
-* _Program testing can be an effective way to show the presence of bugs but it is inadequate for showing their absence._ [Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD303.html)
+* “Program testing can be an effective way to show the presence of bugs, but it is inadequate for showing their absence.” -[Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD303.html)
 
 Back-end
 -------------

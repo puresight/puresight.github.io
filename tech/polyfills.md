@@ -50,6 +50,7 @@ Others begin as polyfills that flock and evolve.
 * Generative Art: [P5.js](http://p5js.org/)
 * Realtime I/O: [Socket.io](http://socket.io/)
 * Web Components: [webcomponents.js](http://webcomponents.org/polyfills/)
+* Background video: [Vidage.js](https://github.com/dvLden/Vidage)
 
 Blogs
 -----
