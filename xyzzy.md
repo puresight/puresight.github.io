@@ -1,6 +1,8 @@
 ---
-layout: test
+layout: page
 title: xyzzy
+js: test
+stylesheet: test
 published: false
 noindex: true
 todo:
@@ -8,6 +10,8 @@ todo:
 - start page: tech comics e.g. xlcd
 - start page: project management tools & estimation
 ---
+
+{{ page.js }}
 
 Jekyll
 ----

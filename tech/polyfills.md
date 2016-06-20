@@ -38,7 +38,7 @@ Some start addressing a software pattern or abstraction.
 Others begin as polyfills that flock and evolve.
 
 * Utility: [Underscore](http://underscorejs.org/)/[Lodash](https://lodash.com/)
-* Promises: [Bluebird](https://github.com/petkaantonov/bluebird/), [Creed](https://github.com/briancavalier/creed), [ES6-promise](https://github.com/jakearchibald/es6-promise)
+* Promises: [Bluebird](https://github.com/petkaantonov/bluebird/), [Creed](https://github.com/briancavalier/creed), [RSVP](https://github.com/tildeio/rsvp.js)
 * Ajax: [Axios](https://github.com/mzabriskie/axios), [fetch](https://github.github.io/fetch/)
 * Loader: [SystemJS](https://github.com/systemjs/systemjs)
 * NLS: [Polyglot](http://airbnb.io/polyglot.js/), [Jed](https://slexaxton.github.io/Jed/), [i18n-js](https://github.com/fnando/i18n-js)

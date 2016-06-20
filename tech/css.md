@@ -38,7 +38,7 @@ Tools
 -----
 * [Chrome devTools](https://developer.chrome.com/devtools/docs/elements-styles)
 * [Sass](http://sass-lang.com/) - stylesheet language which compiles to CSS
-* [LESS](http://lesscss.org/) - a CSS pre-processor that extends the CSS language, adding features that allow variables, mixins, functions, et. al. with the goal to enable stylesheets that are more maintainable, themable and extendable
+* [Less](http://lesscss.org/) - a CSS pre-processor that extends the CSS language, adding features that allow variables, mixins, functions, et. al. with the goal to enable stylesheets that are more maintainable, themable and extendable
 * [Stylus](http://stylus-lang.com/) - stylesheet language that uses indentation, instead of braces, to encompass style declarations
 * [PostCSS](http://postcss.org/) is for transforming CSS with JavaScript
     * Increase code readability. Add vendor prefixes to CSS rules using values from Can I Use: [Autoprefixer](https://github.com/postcss/autoprefixer) will use the data based on current browser popularity and property support to apply prefixes for you.

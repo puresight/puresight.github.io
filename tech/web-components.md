@@ -40,3 +40,4 @@ Component Catalogs
 Some Blogs
 -----
 * 2013 [Introducing Web Components](https://css-tricks.com/modular-future-web-components/)  by [Rob Dodson](http://twitter.com/rob_dodson)
+* 2016 [Pros and Cons of Facebook's React vs. Web Components](https://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)

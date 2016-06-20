@@ -30,8 +30,8 @@ to one that fits your software engineering organization’s objectives.
 Mainstream
 ----------
 * [Ember.js](http://emberjs.com/)
-    * __Pro:__ enterprise, evolving, continuity, community, open source, devops, cli
-    * __Con:__ slower to adopt latest coolness, some bloat, steep learning curve
+    * __Pro:__ enterprise, evolving, continuity, community, open source, devops, cli, interoperable
+    * __Con:__ slower to adopt latest coolness, some bloat, steep learning curve, less performant
 * [Facebook's React]({{site.baseurl}}tech/reactjs.html)
     * __Pro:__ simple, fast, community, open source, mature, evolving
     * __Con:__ IP
@@ -45,10 +45,10 @@ Interesting
     * __Pro:__ popular
     * __Con:__ deprecated
 * [Google's Polymer](https://www.polymer-project.org/1.0/)
-    * __Pro:__ standards, [web components]({{site.baseurl}}tech/web-components.html), cli
+    * __Pro:__ standards, [web components]({{site.baseurl}}tech/web-components.html), cli, interoperable
     * __Con:__ new
 * [Durandal's Aurelia](http://aurelia.io/)
-    * __Pro:__ pro-standards, advanced, sleek, simple, components
+    * __Pro:__ pro-standards, advanced, sleek, simple, [web components]({{site.baseurl}}tech/web-components.html), interoperable
     * __Con:__ IP, new
 * [Vue.js](https://vuejs.org/)
     * __Pro:__ simple, docs, reactive
