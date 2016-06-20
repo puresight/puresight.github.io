@@ -18,16 +18,26 @@ image:
 
 {{ page.description }}
 
-This content is way pre alpha
+This content is way pre-alpha,
 under serious construction.
+
 It is a chaotic mess of details that I want to organize and clarify and shape
-into something that creates value and tells a story.
-Soon hopefully!
+into something that creates value and tells a story. (Soon, hopefully!)
 
-If you're seeing this, it is because I trust you to keep it confidential,
-and share with me in our conversations about the stuff.
+If I shared this with you, it is because I trust you
+to keep it confidential,
+and share with me,
+in our conversations about this kind of stuff.
 
-
+Authors
+-----
+* [Seth Godin](http://sethgodin.typepad.com/)
+* [Simon Sinek](https://www.startwithwhy.com/About)
+* [Brené Brown](http://brenebrown.com/)
+* [Malcolm Gladwell](https://twitter.com/Gladwell)
+* [Dan Pink](https://twitter.com/danielpink)
+* [Steven Kotler](https://twitter.com/steven_kotler)
+* Mihaly Csikszentmihalyi
 
 Books
 -----
