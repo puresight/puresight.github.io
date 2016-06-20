@@ -28,10 +28,10 @@ if (typeof Object.assign != 'function') {
 }
 
 /** Namespace M init */
-function M(win){
+function M(){
   "use strict";
 
-  let bodyElement = win.document.body,
+  let bodyElement = window.document.body,
     time = new Date(),
     hour = time.getHours(),
     minute = time.getMinutes(),
@@ -47,16 +47,33 @@ function M(win){
   M.weekday = M.weekdays[time.getDay()];
 
   M.map(timeElements, M.replaceText, M.map(timeElements, M.classTime));
+  bodyElement.classList.add("_" + M.year);
+  bodyElement.classList.add("_" + M.monthday);
   bodyElement.classList.add(M.month.toLowerCase());
   bodyElement.classList.add(M.weekday.toLowerCase());
   bodyElement.classList.add(M.theme[eighth]);
   bodyElement.classList.add("eighth-" + eighth);
-  //TODO TLD+1 only: bodyElement.classList.add(win.location.hostname);
-  if ("" === win.location.port || 443 === win.location.port || 80 === win.location.port) {
+  //TODO TLD+1 only: bodyElement.classList.add(location.hostname);
+  if ("" === location.port || 443 === location.port || 80 === location.port) {
     /* served on a production port number */
   } else bodyElement.classList.add("debug");
 
   M.setClocks(hour, minute, second);
+
+  // holiday display
+  var holidayEl = document.querySelector(
+    "." + M.month.toLowerCase() +
+    "._" + M.monthday +
+    ".perennial"
+  );
+  if (holidayEl) holidayEl.style.display = "block";
+  holidayEl = document.querySelector(
+    "." + M.month.toLowerCase() +
+    "._" + M.monthday +
+    "._" + M.year
+  );
+  if (holidayEl) holidayEl.style.display = "block";
+
   M.ready = true;
 }
 
@@ -169,7 +186,7 @@ Object.assign(M, {
   }
 });
 
-M(window);
+M();
 
 window.addEventListener("load", function(e) {
   if (!M.ready) throw new Error("M not ready at window load");

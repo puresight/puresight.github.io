@@ -15,13 +15,28 @@ image:
   height: 640
 ---
 
+{% capture holiday %}
+  <span class="holiday perennial march _20">Today is the first day of spring.</span>
+  <span class="holiday perennial june _20" >Today is the first day of summer.</span>
+  <span class="holiday perennial september _22">Today is the first day of fall.</span>
+  <span class="holiday perennial december _21" >Today is the first day of winter.</span>
+  <span class="holiday september _5 _2016">Happy Labor Day.</span>
+  <span class="holiday november _24 _2016" >Happy Thanksgiving!</span>
+  <span class="holiday perennial october _31">Boo.</span>
+  <span class="holiday perennial december _24">
+    'Twas the night before Christmas, when all through the house,
+    Not a creature was stirring, not even a mouse.
+  </span>
+  <span class="holiday perennial december _25">Merry Christmas!</span>
+{% endcapture %}
+
 {% capture greeting %}
   <span class="eighth-0 eighth-1 eighth-2 eighth-3">Good morning.</span>
   <span class="eighth-4 eighth-5">Good afternoon.</span>
   <span class="eighth-6 eighth-7">Good evening.</span>
 {% endcapture %}
 
-{{ greeting }}
+{{ holiday }} {{ greeting }}
 
 I'm working in the NW Austin area today.
 
