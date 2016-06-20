@@ -5,7 +5,6 @@ category: kairos
 subject: spirituality
 description: "Metanoia is a Greek word that means ‘a change of mind.’"
 tags:
-- private
 todo:
 - μετάνοια
 image:
@@ -20,7 +19,6 @@ image:
 
 This content is way pre-alpha,
 under serious construction.
-
 It is a chaotic mess of details that I want to organize and clarify and shape
 into something that creates value and tells a story. (Soon, hopefully!)
 
@@ -28,6 +26,24 @@ If I shared this with you, it is because I trust you
 to keep it confidential,
 and share with me,
 in our conversations about this kind of stuff.
+
+Apps
+----
+* [Insight Timer](https://insighttimer.com/) - freemium, has a million active users
+* [Headspace](https://www.headspace.com/) - paid, Guided meditations suitable for all levels that can help improve focus, exercise mindful awareness, relieve anxiety or reduce stress
+* [Calm](https://www.calm.com/)
+* [Buddify](http://buddhify.com/)
+* [Smiling Mind](http://smilingmind.com.au/) youth-focused, from an Aussie non-profit
+* [The Mindfulness App](http://www.mindapps.se/themindfulnessapp/)
+* [Omvana](http://www.omvana.com/)
+* [Meditation Oasis apps](http://www.meditationoasis.com/apps/)
+* [Brain.fm](https://www.brain.fm/) - "Our mission is to solve ADD, Anxiety & Insomnia via audio brainwave training. Brain.fm is the first big step; we hold a patent on a unique method for embedding brainwave stimulation into audio."
+
+App reviews
+----
+* 2016 [Guardian: Five of the best meditation apps](https://www.theguardian.com/technology/2016/may/26/five-of-the-best-meditation-apps) by [Stuart Dredge](http://twitter.com/stuartdredge)
+* 2016 [Healthline: The Best Meditation Apps](http://www.healthline.com/health/mental-health/top-meditation-iphone-android-apps#1)
+* 2015 [Coach.me forum](https://www.coach.me/questions/36402-what-you-guys-think-is-the-best-free-and-paid-app-for-meditation-i-just-love-headspace-but-it-is-spensive-t-t)
 
 Authors
 -----
