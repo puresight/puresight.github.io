@@ -15,6 +15,14 @@ image:
   height: 640
 ---
 
+{% capture greeting %}
+  <span class="eighth-0 eighth-1 eighth-2 eighth-3">Good morning.</span>
+  <span class="eighth-4 eighth-5">Good afternoon.</span>
+  <span class="eighth-6 eighth-7">Good evening.</span>
+{% endcapture %}
+
+{{ greeting }}
+
 I'm working in the NW Austin area today.
 
 {% comment %}

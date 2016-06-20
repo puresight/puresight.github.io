@@ -7,8 +7,10 @@
   .sidebar { padding: 2rem 1rem; }
 }
 
- header h1 { margin: 0; }
- h2 { font-size: 1.25rem; }
- h3 { font-size: 1.05rem; }
+header { margin-bottom: 1rem; }
+header h1 { margin: 0 0 1rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.05rem; }
 
-.tags, .post-date { margin: 0.4rem 0 0.5rem; }
+.tags { margin: 0; }
+.post-date { margin-top: 0.5rem; }
