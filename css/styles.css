@@ -137,7 +137,7 @@ span.eighth-7 { display: none; }
   max-width: 15vw;
   margin: -1rem 0 0 0;
   border-radius: 10%;
-  transition: 1s all;
+  transition: 2s all;
 }
 @media (min-width: 48em) {
   .page-pic img, .page-pic .fig {
@@ -150,9 +150,9 @@ span.eighth-7 { display: none; }
 .page-pic img:focus
 .page-pic .fig:hover,
 .page-pic .fig:focus {
-  box-shadow: 0 0 1rem 0.25rem #eee;
-  background-color: #eee;
-  background-color: rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 1rem 0.5rem rgba(130, 100, 100, 0.08);
+  background-color: #f3f0f0;
+  background-color: rgba(130, 100, 100, 0.08);
 }
 
 .clock.fig {
