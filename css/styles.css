@@ -90,10 +90,11 @@ body {
   letter-spacing: 0.2ex;
   text-transform: uppercase;
   text-decoration: none;
+  transition: 0.5s all;
 }
-.tags a:hover, .tags a:focus {
+.tags a[href]:hover, .tags a[href]:focus {
   text-decoration: none;
-/*  border-color: #bbb; /**/
+  background-color: #ddd;
 }
 
 .tags a.category {}

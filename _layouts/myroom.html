@@ -6,19 +6,6 @@ layout: default
   <h1 class="page-title">
     <time class="day-month-date">Howdy</time>
   </h1>
-  <ul class="tags">
-    {% if page.categories or page.category %}
-        {% if page.category %}
-          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ page.category }}">{{ page.category }}</a></li>
-        {% endif %}
-        {% for tag in page.categories %}
-          <li class="category"><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
-        {% endfor %}
-    {% endif %}
-    {% for tag in page.tags %}
-      <li><a xhref="{{ site.baseurl }}tags.html#{{ tag }}">{{ tag }}</a></li>
-    {% endfor %}
-  </ul>
 </header>
 
 <figure class="page-pic" title="{{ page.image.title }}">
