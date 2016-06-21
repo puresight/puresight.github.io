@@ -161,6 +161,7 @@ span.eighth-7 { display: none; }
   height: 15vw;
   max-width: none;
   border-radius: 50%;
+  transition: 1s all;
 }
 @media (min-width: 48em) {
   .clock.fig {

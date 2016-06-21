@@ -5,7 +5,7 @@ subject: clock
 category: life
 noindex: true
 image:
-  alt: "JavaScript"
+  alt: "clock"
   caption: "clock"
   url: "images/nonicons/clockface-no-numerals.png"
   license: "https://creativecommons.org/licenses/by/3.0/"

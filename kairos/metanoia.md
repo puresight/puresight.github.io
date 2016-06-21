@@ -43,6 +43,7 @@ App reviews
 ----
 * 2016 [Guardian: Five of the best meditation apps](https://www.theguardian.com/technology/2016/may/26/five-of-the-best-meditation-apps) by [Stuart Dredge](http://twitter.com/stuartdredge)
 * 2016 [Healthline: The Best Meditation Apps](http://www.healthline.com/health/mental-health/top-meditation-iphone-android-apps#1)
+* [Thich Nhat Hanh Foundation](http://www.thichnhathanhfoundation.org/#!mindful-bell-sounds/c14kg)
 * 2015 [Coach.me forum](https://www.coach.me/questions/36402-what-you-guys-think-is-the-best-free-and-paid-app-for-meditation-i-just-love-headspace-but-it-is-spensive-t-t)
 
 Authors
