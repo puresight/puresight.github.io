@@ -39,6 +39,7 @@ Front-end
 * [Mocha](https://mochajs.org/) testing framework makes asynchronous testing fun
 * [Jasmine](https://github.com/jasmine/jasmine) testing framework for JavaScript
 * [Phantom](http://phantomjs.org/) headless browser with a JS & DOM API, CSS selectors, JSON, Canvas, SVG, and more.
+* [Chai](http://chaijs.com/) assertion library can be paired with any testing framework
 
 Commercial tools
 ----------
