@@ -48,7 +48,7 @@ Tools
 
 Community
 ----
-* [CSS Dev Conf](cssdevconf.com)
+* [CSS Dev Conf](http://cssdevconf.com)
 
 Historic practices
 -----
