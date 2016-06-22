@@ -4,28 +4,26 @@ title: HQ
 noindex: true
 ---
 
-Change
+Proof
+------
+* [css]({{site.baseurl}}tech/css.html)
+* [databases]({{site.baseurl}}tech/databases.html) - Dynamo (AWS)
+
+Improve
 ------
 * [Testing]({{site.baseurl}}tech/testing.html) page
-* [JavaScript]({{site.baseurl}}tech/js.html) page
-* [JS Frameworks]({{site.baseurl}}tech/js-frameworks.html) page
+* [Images]({{site.baseurl}}tech/images.html) page
 
-Add
+Create
 ---
 * [API]({{site.baseurl}}tech/api.html)
-* [RWD]({{site.baseurl}}tech/rwd.html)
-* [css]({{site.baseurl}}tech/css.html)
+* [HTML]({{site.baseurl}}tech/html.html)
 * [package.json]({{site.baseurl}}tech/package-json.html)
-* [images]({{site.baseurl}}tech/images.html)
 * [metadata]({{site.baseurl}}tech/metadata.html)
 * [ux]({{site.baseurl}}tech/ux.html) DataViz include D3.js (IBM Rave3?) and tools
 * [Design Thinking]({{site.baseurl}}tech/design-thinking.html) HCD DOET
 * [LEAN]({{site.baseurl}}tech/lean.html)
 * [build systems]({{site.baseurl}}tech/build.html) deploy ant gulp grunt rsync
-* [databases]({{site.baseurl}}tech/databases.html)
-    * NoSQL popular: Cassandra (name), Dynamo, MongoDB, CouchDB, etc
-    * SQL popular: PostgreSQL
-    * Databases as a service (DAAS?)
 * [backend]({{site.baseurl}}tech/backend.html)
     * Apache, Nginx, lightty, AOLserver, IIS, etc
     * Cache and proxy

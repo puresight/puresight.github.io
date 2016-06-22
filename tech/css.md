@@ -46,8 +46,21 @@ Tools
     * The end of global CSS: [CSS Modules](https://github.com/css-modules/css-modules) means you never need to worry about your names being too generic, just use whatever makes the most sense.
     * Enforce consistent conventions and avoid errors in your stylesheets with [stylelint](http://stylelint.io/), a modern CSS linter. It supports the latest CSS syntax, as well as CSS-like syntaxes, such as SCSS.
 
+Tutorials
+----
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+
+Blogs
+----
+* [CSS-Tricks Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+2017
+----
+* [CSS Grids](https://drafts.csswg.org/css-grid/)
+
 Community
 ----
+* [W3C CSS Working Group](http://csswg.org/)
 * [CSS Dev Conf](http://cssdevconf.com)
 
 Historic practices
