@@ -45,3 +45,11 @@ standards are landing every year now.
 Our language is changing fast! So we have accepted
 [compiling]({{site.baseurl}}tech/compilers.html)
 as a normal part of our development process.
+
+What's New?
+-----
+* [Babel’s Learn ES2015](https://babeljs.io/docs/learn-es2015/) new features overview based on [Luke Hoban](https://twitter.com/lukehoban)’s work
+* [ECMAScript 6 New Features Overview & Comparison](http://es6-features.org/) - a website
+* [ES6 Katas](http://es6katas.org/) "Learn ES6 by doing it. Fix failing tests. Keep all learnings."
+* Promises: [the whys and hows and problems of,](https://blog.getify.com/promises-part-1/) by [Kyle Simpson](https://twitter.com/getify)
+* [Let's Learn ES6  videos](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) by [Ryan Christiani](http://ryanchristiani.com/)
