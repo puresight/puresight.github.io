@@ -51,6 +51,13 @@ Newsletters
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JSter](http://jster.net/)
 
+Playgrounds
+----
+* [jsFiddle](https://jsfiddle.net/)
+* [Codepen](http://codepen.io/)
+* [JSbin](http://jsbin.com/)
+* [Plunker](https://plnkr.co/)
+
 Authors
 -------
 
