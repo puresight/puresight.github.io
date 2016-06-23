@@ -4,11 +4,6 @@ title: HQ
 noindex: true
 ---
 
-Proof
-------
-* [css]({{site.baseurl}}tech/css.html)
-* [databases]({{site.baseurl}}tech/databases.html) - Dynamo (AWS)
-
 Improve
 ------
 * [Testing]({{site.baseurl}}tech/testing.html) page

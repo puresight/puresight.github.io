@@ -3,7 +3,7 @@ layout: page
 title: Meditation
 category: kairos
 subject: spirituality
-description: "Meditation is a practice where an individual centers or focuses the mind. In Christian traditions, this has taken many forms over the millenia, e.g. centering prayer, silent prayer, and mystic contemplation."
+description: "Meditation is a practice where a person focuses the mind. In Christian traditions, this has taken many forms over the millenia, e.g. centering prayer, silent prayer, and mystic contemplation."
 tags:
 todo:
 image:

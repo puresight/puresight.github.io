@@ -30,9 +30,12 @@ Taxonomies
     * [CSS-Tricks BEM 101](https://css-tricks.com/bem-101/)
     * 2015: [Keeping the Front-End Modular with BEM](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem) by [Connie Chan](https://twitter.com/conchan)
 
-Themes
+Responsive Frameworks
 ----
-* [Google Material Design](http://materializecss.com/about.html)
+* [Bootstrap](https://getbootstrap.com/) - standard
+* [Skeleton](http://getskeleton.com/) - featherweight
+* [Google’s Material Design](http://materializecss.com/about.html) - android’s theme
+* [Zurb’s Foundation](http://foundation.zurb.com/) - agnostic
 
 Tools
 -----
@@ -53,6 +56,9 @@ Tutorials
 Blogs
 ----
 * [CSS-Tricks Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
+* 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
+* 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://twitter.com/sixrevisions)
 
 2017
 ----
@@ -60,8 +66,8 @@ Blogs
 
 Community
 ----
-* [W3C CSS Working Group](http://csswg.org/)
-* [CSS Dev Conf](http://cssdevconf.com)
+* [W3C](http://csswg.org/)
+* [CSS Dev Conference](http://cssdevconf.com)
 
 Historic practices
 -----

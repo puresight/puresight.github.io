@@ -26,6 +26,9 @@ Guides
 
 Blogs
 ----
+* 2014 [Differences between a GIF, JPG, and PNG explained](http://www.digitaltrends.com/computing/whats-the-difference-between-a-gif-a-jpg-and-a-png-file/) by Brad Bourque
+* 2010 [What’s the Difference Between JPG, PNG, and GIF?](http://www.howtogeek.com/howto/30941/whats-the-difference-between-jpg-png-and-gif/) by Eric Z Goodnight
+* 2009 [GIF, PNG, JPG. Which One To Use?](https://www.sitepoint.com/gif-png-jpg-which-one-to-use/) by Jennifer Farley
 * 2015 ALA: [Using Responsive Images Now](http://alistapart.com/article/using-responsive-images-now) by Chen Hui Jing
 * 2014 ALA: [Why Responsive Images Matter](http://alistapart.com/blog/post/why-responsive-images-matter) by Mat Marquis
 * 2014 ALA: [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice) by Eric Portis
@@ -42,7 +45,7 @@ Tools
 
 Icons
 -----
-* [social SVG's](https://github.com/neilorangepeel/Free-Social-Icons) by [@_neilorangepeel](https://twitter.com/_neilorangepeel)
+* [social SVG's](https://github.com/neilorangepeel/Free-Social-Icons) by [Neil Hainsworth](https://twitter.com/_neilorangepeel)
 * [FindIcons.com](http://findicons.com)
 
 Font Icons
@@ -51,4 +54,4 @@ Font Icons
 
 Community
 -----
-* [Responsive Images Commmunity Group](https://responsiveimages.org/) (RICG)
+* [W3C Responsive Images Commmunity Group](https://responsiveimages.org/) (RICG)

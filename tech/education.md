@@ -30,11 +30,12 @@ Publishers
 
 Schools
 -------
-* [Front End Masters](https://FrontEndMasters.com/)
 * [Safari Books Online](https://www.SafariBooksOnline.com)
-* [Egghead.io](https://egghead.io/)
+* [Front End Masters](https://FrontEndMasters.com/)
+* [Egghead.io](https://egghead.io/) Angular/React/etc
 * [Pluralsight](https://www.pluralsight.com/)
-* [CodeSchool](https://www.codeschool.com/)
+* [CodeSchool](https://www.codeschool.com/) hands-on
+* Microsoft [Lynda.com](https://www.lynda.com/) general/basic
 
 Podcasts
 --------
