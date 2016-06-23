@@ -72,3 +72,4 @@ Community
 Historic practices
 -----
 * [Browser Specific Hacks](https://css-tricks.com/snippets/css/browser-specific-hacks/)
+* [960 grid system](http://960.gs/) by [Nathan Smith](https://twitter.com/nathansmith)

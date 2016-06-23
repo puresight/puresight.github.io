@@ -31,6 +31,7 @@ Publishers
 Schools
 -------
 * [Safari Books Online](https://www.SafariBooksOnline.com)
+* [NodeSchool](http://nodeschool.io/)
 * [Front End Masters](https://FrontEndMasters.com/)
 * [Egghead.io](https://egghead.io/) Angular/React/etc
 * [Pluralsight](https://www.pluralsight.com/)
