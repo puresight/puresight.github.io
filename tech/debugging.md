@@ -24,7 +24,7 @@ Client Tools
 
 Server Tools
 ----
-* Node.js will someday ship with chrome devtools, built in. ```--inspect```
+* Node.js will someday ship with ```--inspect```
 * [node-inspector](https://github.com/node-inspector/node-inspector) by [StrongLoop](https://strongloop.com/)
 * [devtool](https://github.com/Jam3/devtool)
 * [iron-node](https://github.com/s-a/iron-node)
