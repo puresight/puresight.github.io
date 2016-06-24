@@ -17,7 +17,7 @@ image:
 
 {{ page.description }}
 
-[ES2015]({{site.baseurl}}tech/js.html), aka ES6 JavaScript,
+ES2015, aka ES6 [JavaScript]({{site.baseurl}}tech/js.html),
 is a amazing language that no longer needs a library
 just to smooth out the differences & deficiencies of web browsers.
 [Polyfills]({{site.baseurl}}tech/polyfills.html) do that!

@@ -18,7 +18,13 @@ noindex: true
 
 {{ page.description }}
 
-Tools
+Client Tools
 -----
 * [Chrome devTools](https://developer.chrome.com/devtools/index) by [Google](https://developers.google.com/)
-* [Node Inspector](https://github.com/node-inspector/node-inspector) by [StrongLoop](https://strongloop.com/)
+
+Server Tools
+----
+* Node.js will someday ship with chrome devtools, built in. ```--inspect```
+* [node-inspector](https://github.com/node-inspector/node-inspector) by [StrongLoop](https://strongloop.com/)
+* [devtool](https://github.com/Jam3/devtool)
+* [iron-node](https://github.com/s-a/iron-node)
