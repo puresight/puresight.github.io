@@ -51,7 +51,7 @@ into web pages that can be hosted anywhere.
 
 ### Jekyll education
 
-* [video series](https://www.youtube.com/watch?v=oiNVQ9Zjy4o&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=1) by [Thomas Bradley](https://twitter.com/thomasjbradley)
+* [video series](https://www.youtube.com/watch?v=oiNVQ9Zjy4o&list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-&index=1) by [Thomas Bradley](https://mobile.twitter.com/thomasjbradley)
 
 ### Jekyll on-the-go
 

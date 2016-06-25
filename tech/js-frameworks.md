@@ -25,7 +25,7 @@ just to smooth out the differences & deficiencies of web browsers.
 Because today you do not need a JS framework, you are free to opt-in
 to one that fits your software engineering organization’s objectives.
 
-> _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/web-components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://twitter.com/andrewray), 2015_
+> _“But because there is no canonical way to do events / component communication, you'll have to build large [components]({{site.baseurl}}tech/web-components.html) libraries from scratch. Does your application have dropdowns, resizable windows, or lightboxes? You'll probably have to write those all from scratch.” — [Andrew Ray](https://mobile.twitter.com/andrewray), 2015_
 
 Mainstream
 ----------
@@ -79,7 +79,7 @@ Historic
 
 Catalogs
 --------
-* [JSter](http://jster.net/) is a catalog of JS libraries curated by [Juho Vepsäläinen](https://twitter.com/bebraw)
+* [JSter](http://jster.net/) is a catalog of JS libraries curated by [Juho Vepsäläinen](https://mobile.twitter.com/bebraw)
 
 Comparison and contrast
 --------

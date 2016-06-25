@@ -39,7 +39,7 @@ Guides
 ------
 * [elm-lang.org/docs](http://elm-lang.org/docs)
 * [Official Guide](http://guide.elm-lang.org/): [The Elm Architecture](http://guide.elm-lang.org/architecture/)
-* [Elm-Tutorial.org](http://www.elm-tutorial.org/) by [Sebastian Porto](https://twitter.com/intent/user?screen_name=sebasporto) on Elm architecture, modules, css, json, routing, API's
+* [Elm-Tutorial.org](http://www.elm-tutorial.org/) by [Sebastian Porto](https://mobile.twitter.com/intent/user?screen_name=sebasporto) on Elm architecture, modules, css, json, routing, API's
 * [The Elm Weekly](http://www.elmweekly.nl/)
 
 Videos
@@ -53,7 +53,7 @@ Blogs
 * [Getting Started With Elm by Mike Clark](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm) Pragmatic, 2015
 * [Elm by Example by Grzegorz Balcerek](http://elm-by-example.org/) 0.15
 * [Ossi Hanhinen](https://www.twitter.com/ohanhi)'s [0.16 experience](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
-* 2016/05 [Understanding the Elm type system](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html) by [Adam Waselnuk](https://twitter.com/AWaselnuk)
+* 2016/05 [Understanding the Elm type system](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html) by [Adam Waselnuk](https://mobile.twitter.com/AWaselnuk)
 
 Community
 ---------

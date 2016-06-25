@@ -45,7 +45,7 @@ Tools
 
 Icons
 -----
-* [social SVG's](https://github.com/neilorangepeel/Free-Social-Icons) by [Neil Hainsworth](https://twitter.com/_neilorangepeel)
+* [social SVG's](https://github.com/neilorangepeel/Free-Social-Icons) by [Neil Hainsworth](https://mobile.twitter.com/_neilorangepeel)
 * [FindIcons.com](http://findicons.com)
 
 Font Icons

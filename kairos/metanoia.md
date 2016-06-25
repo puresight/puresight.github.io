@@ -27,24 +27,24 @@ in our conversations about this kind of stuff.
 
 Authors
 -----
-* [Andre Rabe](https://twitter.com/AndreRabe1)
-* [Francois Du Toit](https://twitter.com/francoislydia)
+* [Andre Rabe](https://mobile.twitter.com/AndreRabe1)
+* [Francois Du Toit](https://mobile.twitter.com/francoislydia)
 * [Seth Godin](http://sethgodin.typepad.com/)
 * [Umair Haque](https://umairhaque.com/)
 * [Simon Sinek](https://www.startwithwhy.com/About)
 * [Brené Brown](http://brenebrown.com/)
-* [Malcolm Gladwell](https://twitter.com/Gladwell)
-* [Dan Pink](https://twitter.com/danielpink)
-* [Steven Kotler](https://twitter.com/steven_kotler)
+* [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
+* [Dan Pink](https://mobile.twitter.com/danielpink)
+* [Steven Kotler](https://mobile.twitter.com/steven_kotler)
 * Mihaly Csikszentmihalyi
 
 Books
 -----
-* [Mirror Bible](http://www.mirrorbible.com/) by [Francois Du Toit](https://twitter.com/francoislydia)
-* [Blink](http://gladwell.com/blink/) by [Malcolm Gladwell](https://twitter.com/Gladwell)
-* [DRiVE](http://www.danpink.com/books/drive/) by [Dan Pink](https://twitter.com/danielpink)
+* [Mirror Bible](http://www.mirrorbible.com/) by [Francois Du Toit](https://mobile.twitter.com/francoislydia)
+* [Blink](http://gladwell.com/blink/) by [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
+* [DRiVE](http://www.danpink.com/books/drive/) by [Dan Pink](https://mobile.twitter.com/danielpink)
 * [Flow: The Psychology of Optimal Experience]() by [Mihaly Csikszentmihalyi]()
-* [The Rise of Superman](http://riseofsuperman.com/) by [Steven Kotler](https://twitter.com/steven_kotler)
+* [The Rise of Superman](http://riseofsuperman.com/) by [Steven Kotler](https://mobile.twitter.com/steven_kotler)
 
 Audio
 -----

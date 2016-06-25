@@ -20,13 +20,13 @@ Authors
 ----
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Brad Frost](http://bradfrost.com/)
-* [Jeff Gothelf](https://twitter.com/jboogie)
-* [Alberto Cairo](https://twitter.com/albertocairo)
+* [Jeff Gothelf](https://mobile.twitter.com/jboogie)
+* [Alberto Cairo](https://mobile.twitter.com/albertocairo)
 
 DataViz Books
 ----------------------
-* [The Truthful Art](http://www.thefunctionalart.com/) by [Alberto Cairo](https://twitter.com/albertocairo)
+* [The Truthful Art](http://www.thefunctionalart.com/) by [Alberto Cairo](https://mobile.twitter.com/albertocairo)
 
 UX Books
 ----
-* [Lean UX](http://www.jeffgothelf.com/lean-ux-book/) by [Jeff Gothelf](https://twitter.com/jboogie)
+* [Lean UX](http://www.jeffgothelf.com/lean-ux-book/) by [Jeff Gothelf](https://mobile.twitter.com/jboogie)

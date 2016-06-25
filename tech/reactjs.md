@@ -46,7 +46,7 @@ Community
 * [/r/reactjs/](https://www.reddit.com/r/reactjs/)
 * [React JS News](https://reactjsnews.com/) ← [contribute](https://github.com/Legitcode/ReactJSNews/)
 * [Periscope](https://www.periscope.tv/ReactJSNews) @ReactJSNews curated by @zachcodes, @jedwatson, and @browniefed check out @reactpodcast
-* [Twitter](https://twitter.com/reactjs)
+* [Twitter](https://mobile.twitter.com/reactjs)
 
 Education
 ------
@@ -75,7 +75,7 @@ Quotes
 
 Some quotes from the React blogosphere
 
-[Andrew Ray](https://twitter.com/andrewray),
+[Andrew Ray](https://mobile.twitter.com/andrewray),
 [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/):
 
 > The concept "Flux" is simply that your view triggers an event (say, after user types a name in a text field), that event updates a model, then the model triggers an event, and the view responds to that model's event by re-rendering with the latest data. That's it.

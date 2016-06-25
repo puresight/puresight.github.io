@@ -63,19 +63,19 @@ Authors
 
 A few, off the top of my mind...
 
-* [Kyle Simpson](https://twitter.com/getify)
+* [Kyle Simpson](https://mobile.twitter.com/getify)
     * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     * demo: [async events processing](https://github.com/getify/a-tale-of-three-lists#a-tale-of-three-lists)
-* [Addy Osmani](https://twitter.com/addyosmani)
+* [Addy Osmani](https://mobile.twitter.com/addyosmani)
     * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
+* [Stoyan Stefanov](https://mobile.twitter.com/stoyanstefanov)
     * [Amazon](http://www.amazon.com/Stoyan-Stefanov/e/B002BLXYIG)
     * [BookOfSpeed.com](http://www.bookofspeed.com/)
-* [Nicholas C. Zakas](https://twitter.com/slicknet)
+* [Nicholas C. Zakas](https://mobile.twitter.com/slicknet)
     * [Maintainable JavaScript: Writing Readable Code](http://shop.oreilly.com/product/0636920025245.do)
-* [Eric Elliott](https://twitter.com/_ericelliott)
+* [Eric Elliott](https://mobile.twitter.com/_ericelliott)
     * [JavaScript course](https://ericelliottjs.com/product/lifetime-access-pass/) $995
-* [Marijn Haverbeke](https://twitter.com/marijnjh)
+* [Marijn Haverbeke](https://mobile.twitter.com/marijnjh)
     * [Eloquent Javascript](http://eloquentjavascript.net/)
-* [Daniel Shiffman](https://twitter.com/shiffman)
+* [Daniel Shiffman](https://mobile.twitter.com/shiffman)
     * [The Nature of Code](http://natureofcode.com/book/)

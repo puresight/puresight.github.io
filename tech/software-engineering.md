@@ -33,7 +33,7 @@ From _[The Manifesto for Agile Software Development](http://agilemanifesto.org/)
 >
 > That is, while there is value in the items on the right, we value the items on the left more.
 
-[Robert C. Martin](https://twitter.com/unclebobmartin), _Clean Code: A Handbook of Agile Software Craftsmanship:_
+[Robert C. Martin](https://mobile.twitter.com/unclebobmartin), _Clean Code: A Handbook of Agile Software Craftsmanship:_
 
 > “The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. Therefore, making it easy to read makes it easier to write.”
 
@@ -74,8 +74,8 @@ From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
 
 Some Content
 -----
-* _[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)_ [video] - [Rich Hickey](https://twitter.com/richhickey) on software design
-* _[Ten Principles of Organizational Democracy](https://www.worldblu.com/democratic-design/principles.php)_ by [Traci Fenton](https://twitter.com/tracifenton)
+* _[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)_ [video] - [Rich Hickey](https://mobile.twitter.com/richhickey) on software design
+* _[Ten Principles of Organizational Democracy](https://www.worldblu.com/democratic-design/principles.php)_ by [Traci Fenton](https://mobile.twitter.com/tracifenton)
 * [IDEO Design Thinking](http://designthinking.ideo.com/) [blog] - Tim Brown's thoughts
 * Spotify engineering culture: [one](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/) |
 [two](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)

@@ -28,7 +28,7 @@ Taxonomies
 ----------
 * [BEM](https://en.bem.info/methodology/) - Block, Element, Modifier naming convention for classes
     * [CSS-Tricks BEM 101](https://css-tricks.com/bem-101/)
-    * 2015: [Keeping the Front-End Modular with BEM](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem) by [Connie Chan](https://twitter.com/conchan)
+    * 2015: [Keeping the Front-End Modular with BEM](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem) by [Connie Chan](https://mobile.twitter.com/conchan)
 
 Responsive Frameworks
 ----
@@ -58,7 +58,7 @@ Blogs
 * [CSS-Tricks Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
 * 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
-* 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://twitter.com/sixrevisions)
+* 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
 
 2017
 ----
@@ -72,4 +72,4 @@ Community
 Historic practices
 -----
 * [Browser Specific Hacks](https://css-tricks.com/snippets/css/browser-specific-hacks/)
-* [960 grid system](http://960.gs/) by [Nathan Smith](https://twitter.com/nathansmith)
+* [960 grid system](http://960.gs/) by [Nathan Smith](https://mobile.twitter.com/nathansmith)
