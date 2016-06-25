@@ -16,7 +16,6 @@ image:
   width: 128
   height: 128
 todo:
-noindex: true
 ---
 
 {{ page.description }}
