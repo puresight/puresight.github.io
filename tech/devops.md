@@ -3,7 +3,7 @@ layout: page
 title: DevOps
 category: tech
 tags:
-- sysadmin
+- devops
 - cloud
 subject: "computer operation"
 description: "DevOps is a fusion of software development and system operations, teaming dev and ops personnel, to the automate applications delivery and infrastructure changes."
