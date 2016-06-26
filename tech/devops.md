@@ -20,6 +20,11 @@ todo:
 
 {{ page.description }}
 
+Two of the everyday ways that developers interface with network & system
+operations are when apps open and use API’s, and in the
+[continuous integration]({{site.baseurl}}tech/ci.html)
+process of building, testing and deploying their apps.
+
 What is DevOps?
 -----
 * [The Agile Admin](https://theagileadmin.com/what-is-devops/)
@@ -32,8 +37,7 @@ What is DevOps?
 * [CoreOS’s Rocket](https://github.com/coreos/rkt#rkt---app-container-runtime) is under development
 * [Ubuntu’s LXD](http://www.ubuntu.com/cloud/lxd) is under development
 
-
-Configuration Management
+Server Configuration Management
 -----
 * [Chef](https://www.chef.io/)
 * [Puppet](https://puppet.com/)

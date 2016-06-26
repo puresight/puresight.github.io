@@ -4,11 +4,6 @@ title: HQ
 noindex: true
 ---
 
-Improve
-------
-* [Testing]({{site.baseurl}}tech/testing.html) page
-* [Images]({{site.baseurl}}tech/images.html) page
-
 Create
 ---
 * [API]({{site.baseurl}}tech/api.html)

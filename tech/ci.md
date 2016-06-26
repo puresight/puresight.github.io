@@ -14,8 +14,9 @@ image:
   height: 200
 ---
 
-Continuous Integration is an integral part of every agile
-team's [toolchain]({{site.baseurl}}tech/toolchain.html).
+Continuous integration is an integral part of every agile
+team's [toolchain]({{site.baseurl}}tech/toolchain.html) -
+helping us automate process of build, test, and deployment.
 
 Software
 -----
