@@ -21,9 +21,8 @@ todo:
 {{ page.description }}
 
 Two of the everyday ways that developers interface with network & system
-operations are when apps open and use API’s, and in the
-[continuous integration]({{site.baseurl}}tech/ci.html)
-process of building, testing and deploying their apps.
+operations are when apps open and use **API**’s and in the orchestration of
+[continuous integration]({{site.baseurl}}tech/ci.html).
 
 What is DevOps?
 -----
