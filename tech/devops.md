@@ -19,13 +19,13 @@ todo:
 
 {{ page.description }}
 
-Two of the everyday ways that developers interface with network & system
-operations are when apps open and use **API**’s and in the orchestration of
-[continuous integration]({{site.baseurl}}tech/ci.html).
-
 What is DevOps?
 -----
 * [The Agile Admin](https://theagileadmin.com/what-is-devops/)
+
+Two of the everyday ways that developers interface with network & system
+operations are when apps open and use **API**’s and in the orchestration of
+[continuous integration]({{site.baseurl}}tech/ci.html).
 
 [Cloud](https://en.wikipedia.org/wiki/Cloud_computing) [Containers](https://www.opencontainers.org/about)
 -----
