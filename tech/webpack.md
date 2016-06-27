@@ -3,7 +3,7 @@ layout: page
 title: Webpack
 category: tech
 tags:
-- build
+- tools
 - devops
 subject: build tool
 description: "Webpack is a module bundler that takes modules with dependencies and generates static assets representing those modules."

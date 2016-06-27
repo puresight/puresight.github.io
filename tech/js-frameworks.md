@@ -4,7 +4,6 @@ title: JS frameworks
 category: tech
 tags:
 - js
-- frameworks
 subject: software libraries
 description: "Java has SE & EE Classes, dotNET has Framework Class Library, Ruby has its Rails, and JavaScript has a multiverse of programming frameworks."
 image:

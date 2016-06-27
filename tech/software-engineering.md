@@ -5,7 +5,6 @@ category: tech
 correlation: agile
 tags:
 - agile
-- engineering
 subject: Software Engineering
 description: "Software engineering is the application of engineering in the processes of designing, developing, delivering, and maintaining software."
 image:

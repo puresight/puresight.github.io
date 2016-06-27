@@ -31,4 +31,4 @@ Client TLS checkup
 -----
 * [Leibniz University Hannover DCSEC research group](https://cc.dcsec.uni-hannover.de/)
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
-* [How's My SSL?](https://www.howsmyssl.com/)
+* [How's My SSL](https://www.howsmyssl.com/)

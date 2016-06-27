@@ -4,7 +4,7 @@ title: Education
 category: tech
 subject: schools
 tags:
-- edu
+- learning
 description: "Publishers, online schools, and resources for learning front-end development."
 image:
   alt: "JavaScript"

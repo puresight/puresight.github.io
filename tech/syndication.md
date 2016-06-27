@@ -3,7 +3,6 @@ layout: page
 title: Syndication
 category: tech
 tags:
-- feed
 - rss
 - atom
 - ics

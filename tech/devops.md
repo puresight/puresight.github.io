@@ -4,7 +4,6 @@ title: DevOps
 category: tech
 tags:
 - devops
-- cloud
 subject: "computer operation"
 description: "DevOps is a fusion of software development and system operations, teaming dev and ops personnel, to automate applications delivery and infrastructure changes."
 image:

@@ -3,6 +3,7 @@ layout: page
 title: CSS
 category: tech
 tags:
+- languages
 - css
 subject: front-end design
 description: "Cascading Style Sheets is a declarative language for describing the presentation of a document written in a markup language."

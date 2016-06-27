@@ -3,7 +3,7 @@ layout: page
 title: JavaScript
 category: tech
 tags:
-- language
+- languages
 - js
 subject: "programming language"
 description: "JavaScript is a prototype-based scripting language that supports object-oriented, imperative, and functional programming styles."

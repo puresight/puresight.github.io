@@ -4,6 +4,7 @@ title: Continuous Integration
 category: tech
 tags:
 - devops
+- tools
 subject: schools
 description: "Continuous Integration is an integral part of every agile team's toolchain."
 image:

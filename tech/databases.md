@@ -3,7 +3,7 @@ layout: page
 title: Databases
 category: tech
 tags:
-- database
+- tools
 subject: DBMS
 description: "Database management software is for handling the storage, retrieval, and updating of data."
 image:

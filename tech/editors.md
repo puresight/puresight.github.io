@@ -3,7 +3,7 @@ layout: page
 title: Editors
 category: tech
 tags:
-- IDE
+- tools
 subject: "programming"
 description: "Text editors are useful for composing source code and writing markup. These editors are optimized for developers."
 image:

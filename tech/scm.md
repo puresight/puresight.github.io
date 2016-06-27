@@ -4,7 +4,6 @@ title: "Version control"
 category: tech
 tags:
 - tools
-- git
 subject: "software configuration management"
 description: "Software configuration management is the process of tracking and controlling changes in software."
 image:

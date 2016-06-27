@@ -3,7 +3,7 @@ layout: page
 title: Compilers
 category: tech
 tags:
-- compiler
+- tools
 subject: compiler
 description: "A compiler is a set of computer programs that transforms code written in a source language to a target."
 image:
