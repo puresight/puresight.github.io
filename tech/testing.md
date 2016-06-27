@@ -27,14 +27,14 @@ Back-end
 -------------
 * [Mocha](https://mochajs.org/) tests run serially for flexible & accurate reporting; mapping uncaught exceptions to the correct test cases
 * [Istanbul](https://www.npmjs.com/package/istanbul) code coverage tool
-* [Should](https://www.npmjs.com/package/should) test-framework agnostic assertions with a fluent interface
+* [Should](https://www.npmjs.com/package/should) assertions with a fluent interface
+* [Chai](http://chaijs.com/) assertions
 
 Front-end
 -----------------
 * [Mocha](https://mochajs.org/) testing framework makes asynchronous testing fun
 * [Jasmine](https://github.com/jasmine/jasmine) testing framework for JavaScript
 * [Phantom](http://phantomjs.org/) headless browser with a JS & DOM API, CSS selectors, JSON, Canvas, SVG, and more.
-* [Chai](http://chaijs.com/) assertion library can be paired with any testing framework
 
 Commercial tools
 ----------

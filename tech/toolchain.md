@@ -27,6 +27,7 @@ image:
 * [compiler]({{site.baseurl}}tech/compilers.html)
 * [module bundler]({{site.baseurl}}tech/webpack.html)
 * package upkeep: [Greenkeeper](https://greenkeeper.io/)
+* package security check: [NSP](https://nodesecurity.io/)
 * [continuous integration]({{site.baseurl}}tech/ci.html)
 
 Combinations

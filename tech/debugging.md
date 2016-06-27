@@ -55,5 +55,5 @@ Test sites
 [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 -----
 * [Google’s Lighthouse diagnostic tool](https://github.com/GoogleChrome/lighthouse)
-    * browser: [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk "Requires Chrome version 52 or higher")
+    * in the browser: [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk "Requires Chrome version 52 or higher")
     * ```npm install -g GoogleChrome/lighthouse```
