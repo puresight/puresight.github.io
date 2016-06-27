@@ -8,6 +8,14 @@ disclaimer: "This content is way pre-alpha, under serious construction. It is a 
 tags:
 todo:
 - μετάνοια
+- Rob Bell
+- Tim Ferriss
+- Justine Musk
+- Scott Adams
+- David Heinemeier Hansson
+- Elle Luna
+- Jordan Harbinger Brett Mckay
+- Baxter Young
 image:
   alt: "brain"
   caption: ""
