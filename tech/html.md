@@ -4,8 +4,8 @@ title: HTML
 category: tech
 tags:
 - rwd
-subject: front-end design
-description: "HyperText markup language elements are the building blocks of a webpage."
+subject: SGML
+description: "HyperText markup language elements, the building blocks of the web, enhance page content with structure and semantics."
 image:
   alt: "HTML5 Badge"
   caption: ""
@@ -16,26 +16,17 @@ image:
   height: 512
 noindex: true
 todo:
-- page icon
-- page description
+- primers
+- Responsive Web Design
 ---
 
 {{ page.description }}
-is the basic building block of a webpage and used for creating and visually representing a webpage. It determines the content of a webpage, but not its functionality.
 
 Standards & Reference
 -----
 * [W3C](https://www.w3.org/html/)
 * [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-Getting Started
------
-* TODO
-
-Responsive Web Design
-------
-* TODO
 
 Accessibility
 ------
