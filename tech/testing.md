@@ -23,20 +23,20 @@ Caveats
 ------
 * “Program testing can be an effective way to show the presence of bugs, but it is inadequate for showing their absence.” -[Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD303.html)
 
-Back-end
+Node Back-end
 -------------
 * [Mocha](https://mochajs.org/) tests run serially for flexible & accurate reporting; mapping uncaught exceptions to the correct test cases
 * [Istanbul](https://www.npmjs.com/package/istanbul) code coverage tool
 * [Should](https://www.npmjs.com/package/should) assertions with a fluent interface
 * [Chai](http://chaijs.com/) assertions
 
-Front-end
+Browser Front-end
 -----------------
 * [Mocha](https://mochajs.org/) testing framework makes asynchronous testing fun
 * [Jasmine](https://github.com/jasmine/jasmine) testing framework for JavaScript
 * [Phantom](http://phantomjs.org/) headless browser with a JS & DOM API, CSS selectors, JSON, Canvas, SVG, and more.
 
-Native
+App
 -----
 * [Spectron](http://electron.atom.io/spectron) integration testing framework for Electron
 

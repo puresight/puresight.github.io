@@ -37,7 +37,7 @@ Node devTools
 * [devtool](https://github.com/Jam3/devtool)
 * [iron-node](https://github.com/s-a/iron-node)
 
-Native Developer Tools
+App Developer Tools
 ----
 * [Devtron](http://electron.atom.io/devtron) extends Chrome’s devTools for Electron
 
