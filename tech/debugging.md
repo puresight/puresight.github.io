@@ -23,7 +23,7 @@ The optimal context for debugging is a
 environment and the best time to debug is immediately
 after making any small change.
 
-Client devTools
+Browser devTools
 -----
 * [Chrome devTools](https://developer.chrome.com/devtools/index)
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
@@ -31,11 +31,15 @@ Client devTools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 * [Opera Dragonfly](https://www.opera.com/dragonfly/)
 
-Server devTools
+Node devTools
 ----
 * [node-inspector](https://github.com/node-inspector/node-inspector) by [StrongLoop](https://strongloop.com/)
 * [devtool](https://github.com/Jam3/devtool)
 * [iron-node](https://github.com/s-a/iron-node)
+
+Desktop App Developer Tools
+----
+* [Devtron](http://electron.atom.io/devtron) extends Chrome devTools for Electron
 
 Developer Sites
 -----
@@ -51,6 +55,10 @@ Test sites
 * [Browserstack.com](https://www.browserstack.com/)
 * [Browsershots.org](http://browsershots.org/)
 * [Browserling.com](https://www.browserling.com/)
+
+Accessibility
+-----
+* [The Paciello Group’s Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) assesses against [WCAG 2.0](https://www.w3.org/TR/WCAG20/ "Web Content Accessibility Guidelines"), simulates color-blindness, cataracts, et. al.
 
 [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 -----

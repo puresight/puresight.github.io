@@ -36,6 +36,10 @@ Front-end
 * [Jasmine](https://github.com/jasmine/jasmine) testing framework for JavaScript
 * [Phantom](http://phantomjs.org/) headless browser with a JS & DOM API, CSS selectors, JSON, Canvas, SVG, and more.
 
+Native
+-----
+* [Spectron](http://electron.atom.io/spectron) integration testing framework for Electron
+
 Commercial tools
 ----------
 * [Wallaby.js](https://wallabyjs.com/) - continuous testing, code coverage etc
