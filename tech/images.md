@@ -3,7 +3,7 @@ layout: page
 title: Images
 category: tech
 tags:
-- images
+- www
 subject: website
 description: "Nearly two-thirds of the weight of the web is images."
 todo:

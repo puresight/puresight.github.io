@@ -4,7 +4,7 @@ title: Test/QA
 category: tech
 tags:
 - tools
-- devops
+- js
 subject: schools
 description: "Test-driven development on JavaScript in the client and server"
 image:

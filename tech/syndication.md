@@ -3,9 +3,7 @@ layout: page
 title: Syndication
 category: tech
 tags:
-- rss
-- atom
-- ics
+- www
 subject: syndication
 description: "Syndication feeds enable content creators to publish digital content events to observing subscribers."
 image:

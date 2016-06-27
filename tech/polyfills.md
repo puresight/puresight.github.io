@@ -4,6 +4,7 @@ title: Polyfills and Libraries
 category: tech
 tags:
 - js
+- www
 subject: shims
 description: "Some browsers have more complete JavaScript implementations than others, and you can manually “polyfill” the deficiencies you care about."
 image:
