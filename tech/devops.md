@@ -5,7 +5,7 @@ category: tech
 tags:
 - devops
 subject: "computer operation"
-description: "DevOps is a fusion of software development and system operations, teaming dev and ops personnel, to automate applications delivery and infrastructure changes."
+description: "DevOps is a fusion of software development and system operations, teaming dev and ops personnel to automate applications delivery and infrastructure changes."
 image:
   alt: "gears"
   caption: ""
@@ -24,7 +24,7 @@ What is DevOps?
 * [The Agile Admin](https://theagileadmin.com/what-is-devops/)
 
 Two of the everyday ways that developers interface with network & system
-operations are when apps open and use **API**’s and in the orchestration of
+operations are when apps define & deliver **API**’s and in app
 [continuous integration]({{site.baseurl}}tech/ci.html).
 
 [Cloud](https://en.wikipedia.org/wiki/Cloud_computing) [Containers](https://www.opencontainers.org/about)

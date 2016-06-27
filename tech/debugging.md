@@ -6,7 +6,7 @@ tags:
 - js
 - tools
 subject: "debugging"
-description: "Debugging is finding and fixing of defects in software."
+description: "Debugging is finding and fixing defects in software."
 image:
   alt: "JavaScript"
   caption: ""

@@ -6,7 +6,7 @@ tags:
 - tools
 - devops
 subject: build tool
-description: "Webpack is a module bundler that takes modules with dependencies and generates static assets representing those modules."
+description: "Webpack is a build tool that turns modules with dependencies into static bundles representing those modules."
 image:
   alt: "Webpack"
   caption: ""

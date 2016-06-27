@@ -15,7 +15,7 @@ image:
 ---
 
 {{ page.description }}
-React enables building reusable [components]({{site.baseurl}}tech/web-components.html).
+React enables building reusable components.
 
 * [React](https://facebook.github.io/react/) features functional components, view-model bindings, Virtual DOM, et cetera
 * [React Router](https://github.com/reactjs/react-router) does lazy code loading, dynamic route matching, location transition handling
@@ -45,6 +45,9 @@ Community
 * [React JS News](https://reactjsnews.com/) ← [contribute](https://github.com/Legitcode/ReactJSNews/)
 * [Periscope](https://www.periscope.tv/ReactJSNews) @ReactJSNews curated by @zachcodes, @jedwatson, and @browniefed check out @reactpodcast
 * [Twitter](https://mobile.twitter.com/reactjs)
+* [Facebook developer videos](https://developers.facebook.com/videos)
+* [React Europe](https://www.react-europe.org/)
+* [React US](http://conf.reactjs.com/)
 
 Education
 ------
@@ -52,6 +55,7 @@ Education
 * [Learn Redux](https://learnredux.com/) course
 * [Full Stack React](https://www.fullstackreact.com/) $99 course (videos book source) [blog](https://www.fullstackreact.com/articles/)
 * [React JS newsletter](http://reactjsnewsletter.com/issues) curated by Tyler McGinnis + Ean Platter
+* [Building the F8 App](http://makeitopen.com/)
 
 ## Open Source
 

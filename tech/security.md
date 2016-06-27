@@ -5,7 +5,7 @@ category: tech
 tags:
 - infosec
 subject: infosec
-description: "Stay aware of evolving best practices in information security and how innovations in the web technology platform can help keep your open web applications secure."
+description: "Stay aware of evolving best practices in information security, and how innovations in the platform can help keep your open web applications secure."
 image:
   alt: "Security"
   caption: ""
@@ -27,7 +27,7 @@ Server Tools
 * [HTTP Security Report](https://httpsecurityreport.com/)
 * [Mozilla’s HTTPS config generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
-Client TLS checkup
+Client TLS check
 -----
 * [Leibniz University Hannover DCSEC research group](https://cc.dcsec.uni-hannover.de/)
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
