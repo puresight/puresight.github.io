@@ -5,7 +5,7 @@ category: tech
 tags:
 - rwd
 subject: SGML
-description: "HyperText markup language elements, the building blocks of the web, enhance page content with structure and semantics."
+description: "HyperText markup language elements are the building blocks of the web. They endue web page content with structure and semantics."
 image:
   alt: "HTML5 Badge"
   caption: ""
@@ -24,9 +24,9 @@ todo:
 
 Standards & Reference
 -----
-* [W3C](https://www.w3.org/html/)
-* [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [W3C HTML](https://www.w3.org/html/)
+* [WHATWG’s HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+* [HTML at the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 Accessibility
 ------
