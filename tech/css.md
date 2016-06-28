@@ -61,6 +61,7 @@ Blogs
 * 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
 * 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
 * 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
+* [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://twitter.com/zackbloom)
 
 2017
 ----

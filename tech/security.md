@@ -32,3 +32,8 @@ Client TLS check
 * [Leibniz University Hannover DCSEC research group](https://cc.dcsec.uni-hannover.de/)
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
 * [How's My SSL](https://www.howsmyssl.com/)
+
+News & Blogs
+-----
+* [/r/netsec](https://www.reddit.com/r/netsec)
+* [Should you encrypt or compress first?](http://blog.appcanary.com/2016/encrypt-or-compress.html) by Max Veytsman
