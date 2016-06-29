@@ -43,6 +43,7 @@ Authors
 * [Brené Brown](http://brenebrown.com/)
 * [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
 * [Dan Pink](https://mobile.twitter.com/danielpink)
+* [Dan Siegel](http://www.drdansiegel.com/)
 * [Steven Kotler](https://mobile.twitter.com/steven_kotler)
 * Mihaly Csikszentmihalyi
 
