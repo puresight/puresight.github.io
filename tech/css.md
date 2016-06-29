@@ -62,6 +62,7 @@ Blogs
 * 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
 * 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
 * [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://twitter.com/zackbloom)
+* [CSS Animation Rocks: Clocks](https://cssanimation.rocks/clocks/) taught me to make a clock
 
 2017
 ----
