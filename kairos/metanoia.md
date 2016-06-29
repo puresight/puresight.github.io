@@ -8,10 +8,8 @@ disclaimer: "This content is way pre-alpha, under serious construction. It is a 
 tags:
 todo:
 - μετάνοια
-- Rob Bell
 - Tim Ferriss
 - Justine Musk
-- Scott Adams
 - David Heinemeier Hansson
 - Elle Luna
 - Jordan Harbinger Brett Mckay
@@ -35,6 +33,7 @@ in our conversations about this kind of stuff.
 
 Authors
 -----
+* [Rob Bell](https://robbell.com/)
 * [Andre Rabe](https://mobile.twitter.com/AndreRabe1)
 * [Francois Du Toit](https://mobile.twitter.com/francoislydia)
 * [Seth Godin](http://sethgodin.typepad.com/)
@@ -43,6 +42,7 @@ Authors
 * [Brené Brown](http://brenebrown.com/)
 * [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
 * [Dan Pink](https://mobile.twitter.com/danielpink)
+* [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author)
 * [Dan Siegel](http://www.drdansiegel.com/)
 * [Steven Kotler](https://mobile.twitter.com/steven_kotler)
 * Mihaly Csikszentmihalyi
@@ -54,6 +54,7 @@ Books
 * [DRiVE](http://www.danpink.com/books/drive/) by [Dan Pink](https://mobile.twitter.com/danielpink)
 * [Flow: The Psychology of Optimal Experience]() by [Mihaly Csikszentmihalyi]()
 * [The Rise of Superman](http://riseofsuperman.com/) by [Steven Kotler](https://mobile.twitter.com/steven_kotler)
+* [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](http://amazon.com/d/dp/B00COOFBA4) by [Scott Adams](https://twitter.com/scottadamssays)
 
 Audio
 -----
@@ -66,3 +67,7 @@ Video
 Centers
 ----
 * [Flow Genome Project](http://www.flowgenomeproject.com/)
+
+Blogs
+-----
+* [Shamatha Meditation: Training the Mind](http://www.lionsroar.com/training-the-mind/)
