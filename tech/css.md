@@ -7,7 +7,7 @@ tags:
 - languages
 - css
 subject: front-end design
-description: "Cascading Style Sheets is a declarative language for describing the presentation of a document written in a markup language."
+description: "Cascading Style Sheets is a declarative language for prescribing the presentation of a document written in HTML."
 image:
   alt: "CSS"
   caption: ""
@@ -18,7 +18,8 @@ todo:
 - like HTML({{site.baseurl}}tech/html.html)
 ---
 
-{{ page.description }}
+Cascading Style Sheets is a declarative language for prescribing the presentation of a document written in
+[HTML]({{site.baseurl}}tech/html.html).
 
 Reference
 -----

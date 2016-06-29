@@ -18,7 +18,7 @@ image:
 {{ page.description }}
 They consist of custom elements, templates, shadow DOM, and HTML imports.
 
-* Custom elements are new HTML elements, created imperatively.
+* Custom elements are new [HTML]({{site.baseurl}}tech/html.html) elements, created imperatively.
 * Templates are sections of HTML to be used by scripts.
 * Shadow DOM is encapsulated DOM and styling - with composition.
 * HTML import is a way of including one HTML document in another, declaratively.

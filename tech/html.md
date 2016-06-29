@@ -3,9 +3,9 @@ layout: page
 title: HTML
 category: tech
 tags:
-- rwd
+- www
 subject: SGML
-description: "HyperText markup language elements are the building blocks of the web. They endue web page content with structure and semantics."
+description: "HyperText markup language elements are the building blocks of the web, enduing web pages with structure and semantics."
 image:
   alt: "HTML5 Badge"
   caption: ""
@@ -14,7 +14,6 @@ image:
   license: "Creative Commons Attribution 3.0"
   width: 512
   height: 512
-noindex: true
 todo:
 - primers
 - Responsive Web Design
