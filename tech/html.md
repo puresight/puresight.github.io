@@ -21,11 +21,18 @@ todo:
 
 {{ page.description }}
 
+HTML is applied in contexts from ebooks to progressive web applications, from automotive interfaces, to interactive education. HTML has literally become the building blocks of our digital dimension.
+
 Standards & Reference
 -----
 * [W3C HTML](https://www.w3.org/html/)
 * [WHATWG’s HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 * [HTML at the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+Standard Structures
+-----
+* [Microformats.org](http://microformats.org/)
+* [Schema.org](https://schema.org/docs/gs.html)
 
 Accessibility
 ------
