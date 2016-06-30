@@ -8,12 +8,6 @@ disclaimer: "This content is way pre-alpha, under serious construction. It is a 
 tags:
 todo:
 - μετάνοια
-- Tim Ferriss
-- Justine Musk
-- David Heinemeier Hansson
-- Elle Luna
-- Jordan Harbinger Brett Mckay
-- Baxter Young
 image:
   alt: "brain"
   caption: ""
@@ -33,6 +27,14 @@ in our conversations about this kind of stuff.
 
 Authors
 -----
+- [Elle Luna](https://twitter.com/elleluna)
+* [Jordan Harbinger](http://theartofcharm.com/jordan-harbinger/)
+- [Brett Mckay](https://twitter.com/brettmckay)
+- [David Heinemeier Hansson](https://twitter.com/dhh)
+* [Justine Musk](https://twitter.com/justinemusk)
+* [Tim Ferriss](https://twitter.com/tferriss)
+* [Baxter Kruger](http://perichoresis.org/)
+* [William Paul Young](https://www.facebook.com/TheShackOfficial "on Facebook")
 * [Rob Bell](https://robbell.com/)
 * [Andre Rabe](https://mobile.twitter.com/AndreRabe1)
 * [Francois Du Toit](https://mobile.twitter.com/francoislydia)
@@ -45,7 +47,7 @@ Authors
 * [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author)
 * [Dan Siegel](http://www.drdansiegel.com/)
 * [Steven Kotler](https://mobile.twitter.com/steven_kotler)
-* Mihaly Csikszentmihalyi
+* [Mihaly Csikszentmihalyi](https://amazon.com/e/e/B000AQ1KVM/)
 
 Books
 -----
