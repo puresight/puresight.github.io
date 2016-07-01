@@ -34,22 +34,27 @@ from automotive interfaces, to interactive education.
 
 What’s New?
 -----
-- [Semantic elements](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([list](https://www.w3.org/TR/html-markup/elements.html))
-- [Multimedia](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
-- [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/)
-- [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/)
-- [History](https://css-tricks.com/using-the-html5-history-api/)
-- [Offline](http://www.html5rocks.com/en/features/offline)
-- [Editable content](http://html5doctor.com/the-contenteditable-attribute/)
-- [Drag and drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-- [Canvas](http://www.html5canvastutorials.com/)
-- [Web-based protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
-- [Local File Access](http://www.html5rocks.com/en/features/file_access)
-- [Web Messaging](http://www.html5rocks.com/en/features/connectivity)
-- [Web Storage](http://www.html5rocks.com/en/features/storage)
+- [Web Components]({{site.baseurl}}tech/web-components.html)
+- [Semantic layout](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([elements](https://www.w3.org/TR/html-markup/elements.html))
+- [Multimedia](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - audio, video
+- [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/) - for media
+- [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/) - validation, mobile inputs, etc.
+- [Element ```contenteditable``` attribute](http://html5doctor.com/the-contenteditable-attribute/) - for user-mutable text
+- [Drag & Drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
+- [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
+- [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
+- [History](https://css-tricks.com/using-the-html5-history-api/) - the back button
+- [Server-sent events](https://www.igvita.com/2011/08/26/server-sent-event-notifications-with-html5/) ([SSE](http://html5doctor.com/server-sent-events/)) - push notifications
+- [Web Sockets](http://www.html5rocks.com/en/tutorials/websockets/basics/) - I/O without the overhead
+- [WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/) - realtime communication
+- [Session & Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage) - better than cookies
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) - database in the browser
+
 
 Blogs
 -----
+* 2012 [Ten new HTML5 tags you need to know about](http://www.techrepublic.com/blog/10-things/10-new-html5-tags-you-need-to-know-about/)
 * 2012 [Developer’s Guide to HTML5 APIs](http://www.creativebloq.com/html5/developer-s-guide-html5-apis-1122923)
 * [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
 * [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
@@ -67,7 +72,6 @@ Reference
 -----
 * [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [DOM - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Web Components]({{site.baseurl}}tech/web-components.html)
 
 Standards
 -----
