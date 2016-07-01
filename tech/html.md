@@ -34,10 +34,22 @@ from automotive interfaces, to interactive education.
 
 What’s New?
 -----
-* [W3C’s Elements List](https://www.w3.org/TR/html-markup/elements.html)
+- [Semantic elements](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([list](https://www.w3.org/TR/html-markup/elements.html))
+- [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/)
+- [Canvas](http://www.html5canvastutorials.com/)
+- [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/)
+- [Offline](http://www.html5rocks.com/en/features/offline)
+- [Editable content](http://html5doctor.com/the-contenteditable-attribute/)
+- [Drag and drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [History](https://css-tricks.com/using-the-html5-history-api/)
+- [Web-based protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
+- [Local File Access](http://www.html5rocks.com/en/features/file_access)
+- [Web Messaging](http://www.html5rocks.com/en/features/connectivity)
+- [Web Storage](http://www.html5rocks.com/en/features/storage)
 
 Blogs
 -----
+* 2012 [Developer’s Guide to HTML5 APIs](http://www.creativebloq.com/html5/developer-s-guide-html5-apis-1122923)
 * [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
 * [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 
@@ -48,13 +60,13 @@ Nomenclatures
 
 Accessibility
 ------
-* [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) accessibility attributes (e.g. ```role```)
 
 Reference
 -----
 * [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [DOM - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [web components]({{site.baseurl}}tech/web-components.html)
+* [Web Components]({{site.baseurl}}tech/web-components.html)
 
 Standards
 -----
