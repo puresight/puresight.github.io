@@ -35,13 +35,14 @@ from automotive interfaces, to interactive education.
 What’s New?
 -----
 - [Semantic elements](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([list](https://www.w3.org/TR/html-markup/elements.html))
-- [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/)
-- [Canvas](http://www.html5canvastutorials.com/)
+- [Multimedia](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 - [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/)
+- [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/)
+- [History](https://css-tricks.com/using-the-html5-history-api/)
 - [Offline](http://www.html5rocks.com/en/features/offline)
 - [Editable content](http://html5doctor.com/the-contenteditable-attribute/)
 - [Drag and drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-- [History](https://css-tricks.com/using-the-html5-history-api/)
+- [Canvas](http://www.html5canvastutorials.com/)
 - [Web-based protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
 - [Local File Access](http://www.html5rocks.com/en/features/file_access)
 - [Web Messaging](http://www.html5rocks.com/en/features/connectivity)

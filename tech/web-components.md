@@ -20,8 +20,8 @@ They consist of custom elements, templates, shadow DOM, and HTML imports.
 
 * [Custom elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) are new [HTML]({{site.baseurl}}tech/html.html) elements, created imperatively.
 * [Templates](http://webcomponents.org/articles/introduction-to-template-element/) are sections of [HTML]({{site.baseurl}}tech/html.html) to be used by scripts.
-* [Shadow DOM](https://w3c.github.io/webcomponents/spec/shadow/) is encapsulated [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) and styling - with composition.
-* [HTML imports](https://w3c.github.io/webcomponents/spec/imports/) is a way of including one [HTML]({{site.baseurl}}tech/html.html) document in another, declaratively.
+* [Shadow DOM](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/) is encapsulated [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) and styling - with composition.
+* [HTML imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/) is a way of including one [HTML]({{site.baseurl}}tech/html.html) document in another, declaratively.
 
 [Are We Componentized Yet?](https://jonrimmer.github.io/are-we-componentized-yet/)
 Web components land in 2017!
