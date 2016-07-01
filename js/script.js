@@ -31,7 +31,7 @@ if (typeof Object.assign != 'function') {
 function M(){
   "use strict";
 
-  let bodyElement = window.document.body,
+  let bodyElement = document.body,
     time = new Date(),
     hour = time.getHours(),
     minute = time.getMinutes(),
@@ -46,6 +46,7 @@ function M(){
   M.month = M.months[time.getMonth()];
   M.weekday = M.weekdays[time.getDay()];
 
+  document.documentElement.classList.remove("no-js");
   M.map(timeElements, M.replaceText, M.map(timeElements, M.classTime));
   bodyElement.classList.add("_" + M.year);
   bodyElement.classList.add("_" + M.monthday);

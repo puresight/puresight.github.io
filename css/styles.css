@@ -27,15 +27,13 @@ body.debug .debug {
   background-color: #ddf;
 }
 
-.unsupportedBrowser {
-  display: none; /**/
+p.unsupportedBrowser, p.noscript {
+  display: none;
 }
 
-html.unsupportedBrowser div.unsupportedBrowser,
-.noscript {
+html.unsupportedBrowser p.unsupportedBrowser,
+html.no-js p.noscript {
   display: block;
-  float: left;
-  max-width: 70%;
   margin: 1ex;
   border: 1px solid black;
   padding: 1ex 1em;
