@@ -7,7 +7,7 @@ tags:
 subject: HTML
 description: "HyperText markup language elements are the building blocks of the web, enduing web pages with structure and semantics."
 image:
-  alt: "HTML5 Badge"
+  alt: "HTML5"
   caption: ""
   url: "images/icons/HTML5_Badge.svg"
   source: "https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"
@@ -32,14 +32,16 @@ from automotive interfaces, to interactive education.
 *HTML* has become the
 [legos](http://www.lego.com/) of our digital dimension.
 
-Standards & Reference
+What’s New?
 -----
-* [W3C HTML](https://www.w3.org/html/)
-* [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3C’s Elements List](https://www.w3.org/TR/html-markup/elements.html)
 
-Standard Structures
+Blogs
+-----
+* [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+* [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+
+Nomenclatures
 -----
 * [Microformats.org](http://microformats.org/)
 * [Schema.org](https://schema.org/docs/gs.html)
@@ -48,6 +50,13 @@ Accessibility
 ------
 * [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
-Blogs
+Reference
 -----
-* [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+* [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [DOM - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [web components]({{site.baseurl}}tech/web-components.html)
+
+Standards
+-----
+* [W3C HTML](https://www.w3.org/html/)
+* [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
