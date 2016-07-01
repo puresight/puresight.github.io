@@ -4,7 +4,7 @@ title: HTML
 category: tech
 tags:
 - www
-subject: SGML
+subject: HTML
 description: "HyperText markup language elements are the building blocks of the web, enduing web pages with structure and semantics."
 image:
   alt: "HTML5 Badge"

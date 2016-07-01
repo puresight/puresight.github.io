@@ -6,10 +6,9 @@ noindex: true
 
 Create
 ---
-* [API]({{site.baseurl}}tech/api.html)
-* [HTML]({{site.baseurl}}tech/html.html)
-* [package.json]({{site.baseurl}}tech/package-json.html)
 * [metadata]({{site.baseurl}}tech/metadata.html)
+* [API]({{site.baseurl}}tech/api.html)
+* [package.json]({{site.baseurl}}tech/package-json.html)
 * [ux]({{site.baseurl}}tech/ux.html) DataViz include D3.js (IBM Rave3?) and tools
 * [Design Thinking]({{site.baseurl}}tech/design-thinking.html) HCD DOET
 * [LEAN]({{site.baseurl}}tech/lean.html)

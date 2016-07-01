@@ -19,3 +19,7 @@ todo:
 ---
 
 {{ page.description }}
+
+Blogs
+-----
+* [Anatomy of an Elasticsearch Cluster](http://insightdataengineering.com/blog/elasticsearch-crud/)
