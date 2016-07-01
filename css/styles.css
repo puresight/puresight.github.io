@@ -135,7 +135,7 @@ span.eighth-7 { display: none; }
 
 .page-pic img, .page-pic .fig {
   width: 200px;
-  max-width: 22vw;
+  max-width: 20vw;
   margin: -1rem 0 0 0;
   border-radius: 10%;
   transition: 2s all;
@@ -157,8 +157,8 @@ span.eighth-7 { display: none; }
 }
 
 .clock.fig {
-  width: 22vw;
-  height: 22vw;
+  width: 20vw;
+  height: 20vw;
   max-width: none;
   border-radius: 50%;
   transition: 1s all;
