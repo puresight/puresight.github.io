@@ -8,8 +8,8 @@ tags:
 subject: schools
 description: "Continuous Integration is an integral part of every agile team's toolchain."
 image:
-  alt: "JavaScript"
-  caption: ""
+  alt: "Travis CI Logo"
+  caption: "Travis CI"
   url: "images/icons/travisci.png"
   width: 200
   height: 200

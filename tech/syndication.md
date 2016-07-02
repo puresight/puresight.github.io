@@ -7,7 +7,7 @@ tags:
 subject: syndication
 description: "Syndication feeds enable content creators to publish digital content events to observing subscribers."
 image:
-  alt: "feed"
+  alt: "Feed Logo"
   caption: ""
   url: "images/icons/feed200.png"
   width: 200

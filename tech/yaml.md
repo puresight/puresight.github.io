@@ -7,7 +7,7 @@ tags:
 subject: static site generator
 description: "YAML is a human-friendly data serialization format for encoding data in plain text."
 image:
-  alt: "YAML"
+  alt: "YAML Logo"
   caption: ""
   url: "images/icons/yaml.png"
   width: 100

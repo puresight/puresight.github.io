@@ -8,14 +8,14 @@ tags:
 subject: web
 description: "Web Components are the visual interface elements of front-end applications."
 image:
-  alt: "Web Components"
-  caption: ""
+  alt: "Web Components Logo"
+  caption: "Web Components"
   url: "images/icons/web-components.svg"
   width: 512
   height: 512
 ---
 
-{{ page.description }}
+Web Components are the visual interface elements of front-end [applications]({{site.baseurl}}tech/pwa.html).
 They consist of custom elements, templates, shadow DOM, and HTML imports.
 
 * [Custom elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) are new [HTML]({{site.baseurl}}tech/html.html) elements, created imperatively.

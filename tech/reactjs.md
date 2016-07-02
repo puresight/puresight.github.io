@@ -7,8 +7,8 @@ tags:
 subject: javascript
 description: "Declare how your app should look at any given point in time, and React manages UI updates when data changes."
 image:
-  alt: "ReactJS"
-  caption: ""
+  alt: "ReactJS Logo"
+  caption: "React JS"
   url: "images/icons/react200.png"
   width: 200
   height: 200
@@ -38,6 +38,7 @@ Tools
 -----
 * [Nuclide](https://nuclide.io/) extends the Atom [editor]({{site.baseurl}}tech/editors.html) to support React Native, Hack, & Flow
 * [react-devtools](https://github.com/facebook/react-devtools) is the devtools extension for debugging
+* [progressive web App Shell with iFixit](https://github.com/GoogleChrome/sw-precache/tree/master/app-shell-demo) by Jeff Posnick ([slides](https://speakerdeck.com/jeffposnick/instant-loading-with-service-workers-chrome-dev-summit-15))
 
 Community
 ---------

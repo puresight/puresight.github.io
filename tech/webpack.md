@@ -8,8 +8,8 @@ tags:
 subject: build tool
 description: "Webpack is a build tool that turns modules with dependencies into static bundles representing those modules."
 image:
-  alt: "Webpack"
-  caption: ""
+  alt: "Webpack Logo"
+  caption: "Webpack"
   url: "images/icons/webpack.svg"
   width: 512
   height: 512

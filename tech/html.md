@@ -15,8 +15,6 @@ image:
   width: 512
   height: 512
 todo:
-- primers
-- Responsive Web Design
 ---
 
 HyperText markup language
@@ -27,30 +25,18 @@ enduing web pages with structure and
 [semantics](https://en.wikipedia.org/wiki/Semantic_Web).
 
 HTML is applied in contexts from [ebooks](http://www.jedisaber.com/eBooks/formatsource.shtml)
-to [progressive web applications](http://blog.ionic.io/what-is-a-progressive-web-app/),
+to [progressive web applications]({{site.baseurl}}tech/pwa.html),
 from automotive interfaces, to interactive education.
 *HTML* has become the
 [legos](http://www.lego.com/) of our digital dimension.
 
 What’s New?
 -----
-- [Web Components]({{site.baseurl}}tech/web-components.html)
 - [Semantic layout](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([elements](https://www.w3.org/TR/html-markup/elements.html))
 - [Multimedia](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - audio, video
 - [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/) - for media
 - [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/) - validation, mobile inputs, etc.
 - [Element ```contenteditable``` attribute](http://html5doctor.com/the-contenteditable-attribute/) - for user-mutable text
-- [Drag & Drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-- [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
-- [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
-- [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
-- [History](https://css-tricks.com/using-the-html5-history-api/) - the back button
-- [Server-sent events](https://www.igvita.com/2011/08/26/server-sent-event-notifications-with-html5/) ([SSE](http://html5doctor.com/server-sent-events/)) - push notifications
-- [Web Sockets](http://www.html5rocks.com/en/tutorials/websockets/basics/) - I/O without the overhead
-- [WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/) - realtime communication
-- [Session & Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage) - better than cookies
-- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) - database in the browser
-
 
 Blogs
 -----
@@ -70,8 +56,9 @@ Accessibility
 
 Reference
 -----
-* [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [DOM - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [HTML - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [DOM - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [Web Components]({{site.baseurl}}tech/web-components.html)
 
 Standards
 -----

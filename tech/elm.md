@@ -8,8 +8,8 @@ tags:
 subject: "programming language"
 description: "Elm is a functional programming language with Virtual DOM, strong types, and immutable data structures."
 image:
-  alt: "Elm"
-  caption: ""
+  alt: "Elm Logo"
+  caption: "Elm"
   url: "images/icons/elm.svg"
   width: 512
   height: 512

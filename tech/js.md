@@ -9,8 +9,8 @@ tags:
 subject: "programming language"
 description: "JavaScript is a prototype-based scripting language that supports object-oriented, imperative, and functional programming styles."
 image:
-  alt: "JavaScript"
-  caption: ""
+  alt: "JavaScript Logo"
+  caption: "JavaScript"
   url: "images/icons/js200.png"
   width: 200
   height: 200

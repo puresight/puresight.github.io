@@ -7,8 +7,8 @@ tags:
 subject: websites
 description: "SSG’s rebuild the web pages the moment anything changes. This makes for websites as scalable as they are secure."
 image:
-  alt: "OctoJekyll"
-  caption: "Octojekyll"
+  alt: "Octo-Jekyll Logo"
+  caption: "Octo-Jekyll"
   url: "images/icons/octojekyll.png"
   width: 100
   height: 100

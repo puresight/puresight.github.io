@@ -7,7 +7,7 @@ tags:
 subject: "software configuration management"
 description: "Software configuration management is the process of tracking and controlling changes in software."
 image:
-  alt: "git"
+  alt: "git logo"
   caption: "git"
   url: "images/icons/git.svg"
   width: 512

@@ -46,11 +46,12 @@ Others begin as polyfills that flock and evolve.
 * Collections: [Immutable](https://facebook.github.io/immutable-js/)
 * Functional Programming: [Ramda](http://Ramdajs.com/)
 * Reactive: [Most.js](https://github.com/cujojs/most)
-* Dataviz: [D3](https://d3js.org/)
-* Generative Art: [P5.js](http://p5js.org/)
 * Realtime I/O: [Socket.io](http://socket.io/)
 * Web Components: [webcomponents.js](http://webcomponents.org/polyfills/)
 * Background video: [Vidage.js](https://github.com/dvLden/Vidage)
+* Dataviz: [D3](https://d3js.org/)
+* Generative Art: [P5.js](http://p5js.org/)
+* Animation: [Flip.js](https://github.com/googlechrome/flipjs) by [Paul Lewis](https://twitter.com/aerotwist)
 
 Blogs
 -----

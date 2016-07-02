@@ -37,7 +37,10 @@ layout: default
 
 {% if page.image %}
 <figure class="page-pic">
-  <picture style="max-width:{{ page.image.width }}px;">{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
+  <picture
+    style="max-width:{{ page.image.width }}px;"
+    title="{{ page.image.caption }}"
+    >{% comment %} http://www.html5rocks.com/en/tutorials/responsive/picture-element/ {% endcomment %}
     <img
       src="{{ site.baseurl }}{{ page.image.url }}"
       alt="{{ page.image.url }}"
