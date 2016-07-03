@@ -7,6 +7,7 @@ description: "See blog post."
 tags:
 todo:
 - page description
+noindex: true
 ---
 
 {{ page.description }}

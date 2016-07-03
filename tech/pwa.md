@@ -31,7 +31,7 @@ Progressive Web Apps [are](https://developers.google.com/web/progressive-web-app
 
 Progressive Web Apps [have](https://developer.mozilla.org/en-US/Apps/Progressive "Mozilla’s PWA Portal")
 -----
-- [App shell](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - the minimal [HTML]({{site.baseurl}}tech/html.html), [CSS]({{site.baseurl}}tech/css.html), and [JavaScript]({{site.baseurl}}tech/js.html) powering a user interface
+- [App shell](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - minimum viable [HTML]({{site.baseurl}}tech/html.html), [CSS]({{site.baseurl}}tech/css.html), and [JavaScript]({{site.baseurl}}tech/js.html) for a user interface
 - [manifest.json](https://developer.mozilla.org/en-US/docs/Web/Manifest) - web application manifest
 - [Signed Certificate](https://letsencrypt.org/getting-started/) - TLS x509 SSL certificate signed by a reputable CA
 - [Service Worker](https://serviceworke.rs/) handles caching, fetching, notifications, offline state ([examples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker))

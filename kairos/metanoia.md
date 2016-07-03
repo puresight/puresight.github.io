@@ -20,35 +20,6 @@ image:
 
 {{ page.disclaimer }}
 
-If I shared this with you, it is because I trust you
-to keep it confidential,
-and share with me,
-in our conversations about this kind of stuff.
-
-Authors
------
-- [Elle Luna](https://twitter.com/elleluna)
-* [Jordan Harbinger](http://theartofcharm.com/jordan-harbinger/)
-- [Brett Mckay](https://twitter.com/brettmckay)
-- [David Heinemeier Hansson](https://twitter.com/dhh)
-* [Justine Musk](https://twitter.com/justinemusk)
-* [Tim Ferriss](https://twitter.com/tferriss)
-* [Baxter Kruger](http://perichoresis.org/)
-* [William Paul Young](https://www.facebook.com/TheShackOfficial "on Facebook")
-* [Rob Bell](https://robbell.com/)
-* [Andre Rabe](https://mobile.twitter.com/AndreRabe1)
-* [Francois Du Toit](https://mobile.twitter.com/francoislydia)
-* [Seth Godin](http://sethgodin.typepad.com/)
-* [Umair Haque](https://umairhaque.com/)
-* [Simon Sinek](https://www.startwithwhy.com/About)
-* [Brené Brown](http://brenebrown.com/)
-* [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
-* [Dan Pink](https://mobile.twitter.com/danielpink)
-* [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author)
-* [Dan Siegel](http://www.drdansiegel.com/)
-* [Steven Kotler](https://mobile.twitter.com/steven_kotler)
-* [Mihaly Csikszentmihalyi](https://amazon.com/e/e/B000AQ1KVM/)
-
 Books
 -----
 * [Mirror Bible](http://www.mirrorbible.com/) by [Francois Du Toit](https://mobile.twitter.com/francoislydia)
