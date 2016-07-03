@@ -31,7 +31,7 @@ if (typeof Object.assign != 'function') {
 function M(){
   "use strict";
 
-  let bodyElement = document.body,
+  var bodyElement = document.body,
     time = new Date(),
     hour = time.getHours(),
     minute = time.getMinutes(),
@@ -117,9 +117,9 @@ Object.assign(M, {
    */
   map: function map(arr, fxn, paramList){
     "use strict";
-    let result = [];
-    for (let i = 0; i < arr.length; i++) {
-      let param = (!paramList || !paramList.length || i >= paramList.length) ? null : paramList[i];
+    var result = [];
+    for (var i = 0; i < arr.length; i++) {
+      var param = (!paramList || !paramList.length || i >= paramList.length) ? null : paramList[i];
       result.push(fxn.call(arr[i], param));
     }
     return result;
@@ -146,7 +146,7 @@ Object.assign(M, {
    */
   appendSpan: function appendSpan(text){
     if (text && this) {
-      let span = document.createElement("span");
+      var span = document.createElement("span");
       span.innerHTML = text;
       return this.appendChild(span);
     } else throw new RangeError();
@@ -159,7 +159,7 @@ Object.assign(M, {
    */
   replaceText: function replaceText(text){
     if (text && this) {
-      let html = "<span>";
+      var html = "<span>";
       html += text;
       html += "</span>";
       this.innerHTML = html;
@@ -173,11 +173,11 @@ Object.assign(M, {
    * @returns "th" or "nd" or "rd" suffix appropriate to num
    */
   th: function th(num){
-    let html = "<sup>";
+    var html = "<sup>";
     if ("number" !== typeof num) throw new TypeError();
     if (num > 3 && num < 21) html+= "th"; // teens are special in English
     else {
-      let i = num % 10;
+      var i = num % 10;
       if (i === 3) html += "rd";
       else if (i === 2) html += "nd";
       else if (i === 1) html += "st";
