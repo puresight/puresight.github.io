@@ -36,9 +36,10 @@ Progressive Web Apps [have](https://developer.mozilla.org/en-US/Apps/Progressive
 - [Signed Certificate](https://letsencrypt.org/getting-started/) - TLS x509 SSL certificate signed by a reputable CA
 - [Service Worker](https://serviceworke.rs/) handles caching, fetching, notifications, offline state ([examples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker))
 
-Books & Blogs
+Books, Video, & Blogs
 -----
 - [DIVE INTO HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](https://github.com/diveintomark)
+* 2016 [Progressive Web App Dev Summit](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) (The Netherlands)
 * 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://twitter.com/addyosmani)
 
 [HTML5]({{site.baseurl}}tech/html.html) Features
