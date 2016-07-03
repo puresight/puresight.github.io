@@ -50,18 +50,25 @@ Books, Video, & Blogs
 - [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
 - [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
 - [History](https://css-tricks.com/using-the-html5-history-api/) - the back button
-- [Device location sensor](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation) - GPS geolocation
-- [Device motion sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes) - accelerometer
-- [Device orientation sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes) - gyroscope
-- [Device direction sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes) - compass
+- [Device sensors](https://developers.google.com/web/fundamentals/native-hardware/ "Google") ([MobiForge](https://mobiforge.com/design-development/sense-and-sensor-bility-access-mobile-device-sensors-with-javascript))
+- [Device location](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation) - GPS geolocation
+- [Device motion](https://developers.google.com/web/fundamentals/native-hardware/device-orientation/dev-motion) - accelerometer
+- [Device orientation](https://developers.google.com/web/fundamentals/native-hardware/device-orientation/dev-orientation) - gyroscope
+- [Device direction](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes) - compass
+- Touch events: [Apple](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html), [Google](http://www.html5rocks.com/en/mobile/touch/)
 - [Server-sent events](https://www.igvita.com/2011/08/26/server-sent-event-notifications-with-html5/) ([SSE](http://html5doctor.com/server-sent-events/)) - push notifications
 - [Web Sockets](http://www.html5rocks.com/en/tutorials/websockets/basics/) - I/O without the overhead
 - [WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/) - realtime communication
 - [Session & Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage) - better than cookies
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) - database in the browser
 
+Dead
+-----
+- 2015 [Pointer events](https://mobiforge.com/design-development/html5-pointer-events-api-combining-touch-mouse-and-pen) was an attempt to abstract mouse/touch/pen input <!-- by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events), [Microsoft](https://msdn.microsoft.com/en-us/ie/dn433244(v=vs.85).aspx) -->
+
 2017 Features
 -----
 - [Web Components]({{site.baseurl}}tech/web-components.html)
 - [Background synchronization](https://github.com/WICG/repo-manager/blob/master/explainer.md)
 - [Physical Web](https://google.github.io/physical-web/) & [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
+- Stylus (pen/pencil) - stay tuned
