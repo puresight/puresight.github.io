@@ -46,6 +46,7 @@ Others begin as polyfills that flock and evolve.
 * Collections: [Immutable](https://facebook.github.io/immutable-js/)
 * Functional Programming: [Ramda](http://Ramdajs.com/)
 * Reactive: [Most.js](https://github.com/cujojs/most)
+* Device Motion: [Shake.js](https://github.com/alexgibson/shake.js/)
 * Realtime I/O: [Socket.io](http://socket.io/)
 * Web Components: [webcomponents.js](http://webcomponents.org/polyfills/)
 * Background video: [Vidage.js](https://github.com/dvLden/Vidage)

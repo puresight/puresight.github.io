@@ -45,6 +45,8 @@ Books, Video, & Blogs
 [HTML5]({{site.baseurl}}tech/html.html) Features
 -----
 - [Form widgets](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
+- [GPS/location sensor](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+- [Accelerometer/motion, Gyroscope/orientation, & Compass/direction sensors](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes)
 - [Drag & Drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 - [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
 - [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
