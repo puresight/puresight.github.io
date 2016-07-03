@@ -45,13 +45,15 @@ Books, Video, & Blogs
 [HTML5]({{site.baseurl}}tech/html.html) Features
 -----
 - [Form widgets](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
-- [GPS/location sensor](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
-- [Accelerometer/motion, Gyroscope/orientation, & Compass/direction sensors](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes)
 - [Drag & Drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 - [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
 - [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
 - [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
 - [History](https://css-tricks.com/using-the-html5-history-api/) - the back button
+- [Device location sensor](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+- [Device motion sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes)
+- [Device orientation sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes)
+- [Device direction sensor](https://developer.mozilla.org/en-US/Apps/Fundamentals/gather_and_modify_data/responding_to_device_orientation_changes)
 - [Server-sent events](https://www.igvita.com/2011/08/26/server-sent-event-notifications-with-html5/) ([SSE](http://html5doctor.com/server-sent-events/)) - push notifications
 - [Web Sockets](http://www.html5rocks.com/en/tutorials/websockets/basics/) - I/O without the overhead
 - [WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/) - realtime communication
