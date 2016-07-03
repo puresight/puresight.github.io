@@ -30,6 +30,7 @@ Authors
 Gospel
 -----
 - [René Noël Théophile Girard (1923—2015)](http://www.iep.utm.edu/girard/)
+- Jean-Luc Marion - [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc_Marion), [UChicago](http://philosophy.uchicago.edu/faculty/marion.html), [Amazon](https://amazon.com/e/e/B001IXMWUY/)
 - [Baxter Kruger](http://perichoresis.org/)
 - [William Paul Young](https://www.facebook.com/TheShackOfficial "on Facebook")
 - [Rob Bell](https://robbell.com/)
