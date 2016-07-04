@@ -62,13 +62,13 @@ Books, Video, & Blogs
 - [Session & Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage/LocalStorage) - better than cookies
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) - database in the browser
 
-Dead
------
-- 2015 [Pointer events](https://mobiforge.com/design-development/html5-pointer-events-api-combining-touch-mouse-and-pen) was an attempt to abstract mouse/touch/pen input <!-- by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events), [Microsoft](https://msdn.microsoft.com/en-us/ie/dn433244(v=vs.85).aspx) -->
-
 2017 Features
 -----
 - [Web Components]({{site.baseurl}}tech/web-components.html)
 - [Background synchronization](https://github.com/WICG/repo-manager/blob/master/explainer.md)
 - [Physical Web](https://google.github.io/physical-web/) & [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/)
 - Stylus (pen/pencil) - stay tuned
+
+Obituary
+-----
+- RIP 2015: [Pointer events](https://mobiforge.com/design-development/html5-pointer-events-api-combining-touch-mouse-and-pen) was an attempt to abstract mouse/touch/pen input <!-- by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events), [Microsoft](https://msdn.microsoft.com/en-us/ie/dn433244(v=vs.85).aspx) -->

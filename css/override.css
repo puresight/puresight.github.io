@@ -2,16 +2,19 @@
  * override hyde
  */
 
-.sidebar { padding: 0.8rem 0.1rem 1px; }
-@media (min-width: 48em) {
-  .sidebar { padding: 2rem 1rem; }
-}
-
 header { margin-bottom: 1rem; }
 header h1 { margin: 0 0 1rem; }
 h2 { font-size: 1.25rem; }
 h3 { font-size: 1.05rem; }
 li code { padding: 0; }
+
+.sidebar { padding: 0.8rem 0.1rem 1px; }
+.content { padding-top: 2rem; }
+
+@media (min-width: 48em) {
+  .sidebar { padding: 2rem 1rem; }
+  .content { padding-top: 4rem; }
+}
 
 .page, .post { margin: 0 0 2em; }
 .tags { margin: 0; }
