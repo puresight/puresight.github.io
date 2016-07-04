@@ -10,7 +10,7 @@ todo:
 image:
   alt: "eye"
   caption: ""
-  url: "images/nonicons/eye.png"
+  url: "images/icons/eye.png"
   source: "http://www.clker.com/clipart-23244.html"
   license: "free"
   width: 400

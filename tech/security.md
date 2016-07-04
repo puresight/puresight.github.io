@@ -9,7 +9,7 @@ description: "Stay aware of evolving best practices in information security, and
 image:
   alt: "Padlock Icon"
   caption: ""
-  url: "images/nonicons/lock.png"
+  url: "images/icons/lock.png"
   width: 235
   height: 235
 todo:

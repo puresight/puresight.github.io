@@ -11,7 +11,7 @@ image:
   caption: ""
   source: "https://image.freepik.com/free-icon/settings-gears_318-76225.png"
   license: "Free icons for personal and commercial use."
-  url: "images/nonicons/gears3.png"
+  url: "images/icons/gears3.png"
   width: 128
   height: 128
 todo:

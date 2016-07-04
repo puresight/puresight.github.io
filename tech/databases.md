@@ -10,7 +10,7 @@ image:
   credit: "http://www.iconsdb.com/gray-icons/database-5-icon.html"
   alt: "database"
   caption: ""
-  url: "images/nonicons/database-5-512.png"
+  url: "images/icons/database-5-512.png"
   width: 512
   height: 512
 ---

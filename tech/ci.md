@@ -10,7 +10,7 @@ description: "Continuous Integration is an integral part of every agile team's t
 image:
   alt: "Travis CI Logo"
   caption: "Travis CI"
-  url: "images/icons/travisci.png"
+  url: "images/logos/travisci.png"
   width: 200
   height: 200
 ---

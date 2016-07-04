@@ -12,7 +12,7 @@ description: "Is systems thinking relevant to digital product design and develop
 image:
   alt: "Dr. Russell Ackoff"
   caption: ""
-  url: "images/icons/ackoff.jpg"
+  url: "images/logos/ackoff.jpg"
   width: 200
   height: 200
 ---

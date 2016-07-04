@@ -7,7 +7,7 @@ description: "Texas A&amp;M University's college of liberal arts employed me as 
 image:
   alt: "Texas A&M University"
   caption: "Texas A&M"
-  url: "images/icons/tamu.png"
+  url: "images/logos/tamu.png"
   width: 360
   height: 360
 ---

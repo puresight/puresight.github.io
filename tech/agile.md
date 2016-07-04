@@ -8,7 +8,7 @@ description: "Agile teams adhere to values and principles that create a work env
 image:
   alt: "Responsive Org"
   caption: ""
-  url: "images/icons/responsiveorg.png"
+  url: "images/logos/responsiveorg.png"
   width: 1000
   height: 1000
 noindex: true

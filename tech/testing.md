@@ -10,7 +10,7 @@ description: "Test-driven development on JavaScript in the client and server"
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 ---

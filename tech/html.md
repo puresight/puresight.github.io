@@ -9,7 +9,7 @@ description: "HyperText markup language elements are the building blocks of the 
 image:
   alt: "HTML5"
   caption: ""
-  url: "images/icons/HTML5_Badge.svg"
+  url: "images/logos/HTML5_Badge.svg"
   source: "https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"
   license: "Creative Commons Attribution 3.0"
   width: 512

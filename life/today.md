@@ -7,7 +7,7 @@ noindex: true
 image:
   alt: "clock"
   caption: "clock"
-  url: "images/nonicons/clockface-no-numerals.png"
+  url: "images/icons/clockface-no-numerals.png"
   license: "https://creativecommons.org/licenses/by/3.0/"
   source: "http://agf81.deviantart.com/art/Clock-Face-253863738"
   style: "opacity: 0.75; border-radius: 50%;"

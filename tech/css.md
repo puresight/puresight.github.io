@@ -11,7 +11,7 @@ description: "Cascading Style Sheets is a declarative language for prescribing t
 image:
   alt: "CSS"
   caption: ""
-  url: "images/icons/css3.svg"
+  url: "images/logos/css3.svg"
   width: 600
   height: 600
 todo:

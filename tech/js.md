@@ -11,7 +11,7 @@ description: "JavaScript is a prototype-based scripting language that supports o
 image:
   alt: "JavaScript Logo"
   caption: "JavaScript"
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 ---

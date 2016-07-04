@@ -10,7 +10,7 @@ description: "Web Components are the visual interface elements of front-end appl
 image:
   alt: "Web Components Logo"
   caption: "Web Components"
-  url: "images/icons/web-components.svg"
+  url: "images/logos/web-components.svg"
   width: 512
   height: 512
 ---

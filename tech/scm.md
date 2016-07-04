@@ -9,7 +9,7 @@ description: "Software configuration management is the process of tracking and c
 image:
   alt: "git logo"
   caption: "git"
-  url: "images/icons/git.svg"
+  url: "images/logos/git.svg"
   width: 512
   height: 512
 ---

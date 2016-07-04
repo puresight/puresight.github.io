@@ -9,7 +9,7 @@ description: "Syndication feeds enable content creators to publish digital conte
 image:
   alt: "Feed Logo"
   caption: ""
-  url: "images/icons/feed200.png"
+  url: "images/logos/feed200.png"
   width: 200
   height: 200
 ---

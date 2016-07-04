@@ -9,7 +9,7 @@ description: "A compiler is a set of computer programs that transforms code writ
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 ---

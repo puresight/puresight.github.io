@@ -10,7 +10,7 @@ description: "Webpack is a build tool that turns modules with dependencies into 
 image:
   alt: "Webpack Logo"
   caption: "Webpack"
-  url: "images/icons/webpack.svg"
+  url: "images/logos/webpack.svg"
   width: 512
   height: 512
 ---

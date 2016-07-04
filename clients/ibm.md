@@ -7,7 +7,7 @@ description: "IBM Systems Division (formerly Tivoli) employed me as a front-end 
 image:
   alt: "IBM"
   caption: ""
-  url: "images/nonicons/IBM_logo.svg"
+  url: "images/icons/IBM_logo.svg"
   source: "https://commons.wikimedia.org/wiki/File:IBM_logo.svg"
   style: "border-radius:1px"
   width: 512

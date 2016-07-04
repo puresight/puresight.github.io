@@ -9,7 +9,7 @@ description: "SSG’s rebuild the web pages the moment anything changes. This ma
 image:
   alt: "Octo-Jekyll Logo"
   caption: "Octo-Jekyll"
-  url: "images/icons/octojekyll.png"
+  url: "images/logos/octojekyll.png"
   width: 100
   height: 100
 ---

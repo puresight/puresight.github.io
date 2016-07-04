@@ -9,7 +9,7 @@ description: "Declare how your app should look at any given point in time, and R
 image:
   alt: "ReactJS Logo"
   caption: "React JS"
-  url: "images/icons/react200.png"
+  url: "images/logos/react200.png"
   width: 200
   height: 200
 ---

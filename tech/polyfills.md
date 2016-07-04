@@ -10,7 +10,7 @@ description: "Some browsers have more complete JavaScript implementations than o
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 ---

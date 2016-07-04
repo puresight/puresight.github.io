@@ -10,7 +10,7 @@ published: false
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/zzz.png"
+  url: "images/logos/zzz.png"
   width: 200
   height: 200
 ---

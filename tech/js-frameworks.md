@@ -9,7 +9,7 @@ description: "Java has SE & EE Classes, dotNET has Framework Class Library, Ruby
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 ---

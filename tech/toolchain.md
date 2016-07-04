@@ -10,7 +10,7 @@ description: "Your toolchain is the suite of software essential in building fron
 image:
   alt: "chain"
   caption: ""
-  url: "images/nonicons/chain.png"
+  url: "images/icons/chain.png"
   width: 200
   height: 200
 ---

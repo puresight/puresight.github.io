@@ -10,7 +10,7 @@ description: "Debugging is finding and fixing defects in software."
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/icons/js200.png"
+  url: "images/logos/js200.png"
   width: 200
   height: 200
 todo:

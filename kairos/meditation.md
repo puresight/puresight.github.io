@@ -9,7 +9,7 @@ todo:
 image:
   alt: "meditator"
   caption: ""
-  url: "images/nonicons/meditator.png"
+  url: "images/icons/meditator.png"
   width: 400
   height: 400
 ---

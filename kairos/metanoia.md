@@ -11,7 +11,7 @@ todo:
 image:
   alt: "brain"
   caption: ""
-  url: "images/nonicons/brain.jpg"
+  url: "images/icons/brain.jpg"
   width: 400
   height: 308
 ---

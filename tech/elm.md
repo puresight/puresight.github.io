@@ -10,7 +10,7 @@ description: "Elm is a functional programming language with Virtual DOM, strong 
 image:
   alt: "Elm Logo"
   caption: "Elm"
-  url: "images/icons/elm.svg"
+  url: "images/logos/elm.svg"
   width: 512
   height: 512
 ---

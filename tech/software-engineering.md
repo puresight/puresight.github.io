@@ -10,7 +10,7 @@ description: "Software engineering is the application of engineering in the proc
 image:
   alt: "gear"
   caption: ""
-  url: "images/nonicons/gear.png"
+  url: "images/icons/gear.png"
   width: 400
   height: 400
 todo:

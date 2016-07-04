@@ -9,7 +9,7 @@ description: "Text editors are useful for composing source code and writing mark
 image:
   alt: "text editor"
   caption: ""
-  url: "images/icons/editor.jpg"
+  url: "images/logos/editor.jpg"
   width: 200
   height: 125
 ---

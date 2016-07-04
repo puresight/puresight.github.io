@@ -13,7 +13,7 @@ for stuff on your Google calendar?"
 image:
   alt: "Meetup.com"
   caption: ""
-  url: "images/icons/meetupcom.jpg"
+  url: "images/logos/meetupcom.jpg"
   width: 360
   height: 239
 ---

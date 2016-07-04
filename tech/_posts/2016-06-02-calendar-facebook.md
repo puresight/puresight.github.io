@@ -10,7 +10,7 @@ tags:
 image:
   alt: "Facebook"
   caption: ""
-  url: "images/icons/fb.png"
+  url: "images/logos/fb.png"
   width: 316
   height: 316
 ---

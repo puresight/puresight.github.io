@@ -9,7 +9,7 @@ description: "Publishers, online schools, and resources for learning front-end d
 image:
   alt: "JavaScript"
   caption: ""
-  url: "images/nonicons/school.png"
+  url: "images/icons/school.png"
   width: 160
   height: 160
 ---
