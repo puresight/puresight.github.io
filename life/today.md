@@ -18,6 +18,9 @@ image:
 {% capture holiday %}
   <span class="holiday perennial march _20">Today is the first day of spring.</span>
   <span class="holiday perennial june _20" >Today is the first day of summer.</span>
+  <span class="holiday perennial july _4">
+    [Happy Independence Day](http://www.constitutionfacts.com/us-declaration-of-independence/fourth-of-july/),
+    United States!</span>
   <span class="holiday perennial september _22">Today is the first day of fall.</span>
   <span class="holiday perennial december _21" >Today is the first day of winter.</span>
   <span class="holiday september _5 _2016">Happy Labor Day.</span>
