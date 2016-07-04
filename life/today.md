@@ -19,7 +19,11 @@ image:
   <span class="holiday perennial march _20">Today is the first day of spring.</span>
   <span class="holiday perennial june _20" >Today is the first day of summer.</span>
   <span class="holiday perennial july _4">
-    [Happy Independence Day](http://www.constitutionfacts.com/us-declaration-of-independence/fourth-of-july/),
+    <img src="{{site.baseurl}}images/flags/us.svg"
+      alt="US flag"
+      style="width: 4rem; border-radius: 2px;"
+    />
+    Happy [Independence Day](http://www.constitutionfacts.com/us-declaration-of-independence/fourth-of-july/),
     United States!</span>
   <span class="holiday perennial september _22">Today is the first day of fall.</span>
   <span class="holiday perennial december _21" >Today is the first day of winter.</span>
