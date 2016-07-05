@@ -14,6 +14,8 @@ image:
   url: "images/logos/js200.png"
   width: 200
   height: 200
+todo:
+- progressive enhancement, turn off all but HTML then enable CSS, JS, GPS, etc
 ---
 
 _{{ page.description }}_

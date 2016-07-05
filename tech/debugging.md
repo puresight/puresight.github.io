@@ -15,7 +15,6 @@ image:
   width: 200
   height: 200
 todo:
-- feature detection
 ---
 
 {{ page.description }}
