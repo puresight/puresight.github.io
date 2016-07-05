@@ -5,6 +5,7 @@ category: tech
 tags:
 - js
 - tools
+- test
 subject: "debugging"
 description: "Debugging is finding and fixing defects in software."
 image:

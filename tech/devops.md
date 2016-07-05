@@ -35,6 +35,10 @@ operations are when apps define & deliver **API**’s and in app
 * [CoreOS’s Rocket](https://github.com/coreos/rkt#rkt---app-container-runtime) is under development
 * [Ubuntu’s LXD](http://www.ubuntu.com/cloud/lxd) is under development
 
+Container debugging
+---------------
+* [SysDig](http://www.sysdig.org/)
+
 Server Configuration Management
 -----
 * [Chef](https://www.chef.io/)

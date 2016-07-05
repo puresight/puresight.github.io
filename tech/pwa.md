@@ -39,8 +39,9 @@ Progressive Web Apps [have](https://developer.mozilla.org/en-US/Apps/Progressive
 Books, Video, & Blogs
 -----
 - [DIVE INTO HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](https://github.com/diveintomark)
-* 2016 [Progressive Web App Dev Summit](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) (The Netherlands)
-* 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://twitter.com/addyosmani)
+- 2016 [Progressive Web App Dev Summit](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) (The Netherlands)
+- 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://twitter.com/addyosmani)
+- 2015 [HTML5’s Media Recorder API in Action on Chrome and Firefox](https://addpipe.com/blog/mediarecorder-api/)
 
 [HTML5]({{site.baseurl}}tech/html.html) Features
 -----
@@ -49,6 +50,7 @@ Books, Video, & Blogs
 - [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
 - [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
 - [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
+- MediaRecorder - camera & microphone [Google](https://developers.google.com/web/updates/2016/01/mediarecorder), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder_API)
 - [History](https://css-tricks.com/using-the-html5-history-api/) - the back button
 - [Device sensors](https://developers.google.com/web/fundamentals/native-hardware/ "Google") ([MobiForge](https://mobiforge.com/design-development/sense-and-sensor-bility-access-mobile-device-sensors-with-javascript))
 - [Device location](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation) - GPS geolocation

@@ -3,8 +3,9 @@ layout: page
 title: Test/QA
 category: tech
 tags:
-- tools
 - js
+- tools
+- test
 subject: schools
 description: "Test-driven development on JavaScript in the client and server"
 image:
@@ -48,9 +49,13 @@ Commercial tools
 * [CodeClimate](https://codeclimate.com/pricing)
 * [CircleCI](https://circleci.com/pricing/)
 
-Container tools
----------------
-* [SysDig](http://www.sysdig.org/)
+## Functional testing
+
+[Selenium](http://docs.seleniumhq.org/) automates browsers for testing web applications. Selenium has support from browser vendors who have integrated support.
+
+## Load testing
+
+[Apache’s JMeter](https://jmeter.apache.org/) is open source.
 
 Blogs
 -----
