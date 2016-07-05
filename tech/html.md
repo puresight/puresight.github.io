@@ -33,6 +33,7 @@ from automotive interfaces, to interactive education.
 What’s New?
 -----
 - [Semantic layout](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([elements](https://www.w3.org/TR/html-markup/elements.html))
+- [Responsive images]({{site.baseurl}}tech/images.html)
 - [Multimedia](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video) - audio, video
 - [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/) - for media
 - [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/) - validation, mobile inputs, etc.
