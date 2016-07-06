@@ -15,10 +15,6 @@ image:
   width: 600
   height: 600
 todo:
-- blogs CSS transitions
-- blogs CSS animation
-- css transform 2d/3d
-- like HTML({{site.baseurl}}tech/html.html)
 ---
 
 Cascading Style Sheets is a declarative language for prescribing the presentation of a document written in
@@ -29,6 +25,31 @@ Reference
 - [W3C](https://www.w3.org/TR/CSS/)
 - [Mozilla’s Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Safari Web Content Guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoCSS/IntroductiontoCSS.html)
+
+Features
+-----
+- Media Queries: [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries), [Google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries)
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- [Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- [Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
+- [Grids](https://drafts.csswg.org/css-grid/) - 2017
+
+Tutorials
+----
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+
+Blogs
+----
+- 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
+- 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
+- 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
+- 2013 [Masking](http://www.html5rocks.com/en/tutorials/masking/adobe/)
+- 2012 [Set Text On A Circle](http://blog.grayghostvisuals.com/css/text-me-up-circle/)
+- 2010 [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
+- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://twitter.com/zackbloom)
+- [CSS Animation Rocks: Clocks](https://cssanimation.rocks/clocks/) taught me to make a clock
 
 Taxonomies
 ----------
@@ -54,26 +75,6 @@ Tools
     - [cssnext](http://cssnext.io/) transforms new CSS specs into more compatible CSS so you don't need to wait for browser support. You can literally write future-proof CSS and forget old preprocessor specific syntax.
     * The end of global CSS: [CSS Modules](https://github.com/css-modules/css-modules) means you never need to worry about your names being too generic, just use whatever makes the most sense.
     * Enforce consistent conventions and avoid errors in your stylesheets with [stylelint](http://stylelint.io/), a modern CSS linter. It supports the latest CSS syntax, as well as CSS-like syntaxes, such as SCSS.
-
-Tutorials
-----
-- [Flexbox Froggy](http://flexboxfroggy.com/)
-
-Blogs
-----
-- [CSS-Tricks Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
-- 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
-- 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
-- 2013 [Masking](http://www.html5rocks.com/en/tutorials/masking/adobe/)
-- 2012 [Set Text On A Circle](http://blog.grayghostvisuals.com/css/text-me-up-circle/)
-- 2010 [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
-- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://twitter.com/zackbloom)
-- [CSS Animation Rocks: Clocks](https://cssanimation.rocks/clocks/) taught me to make a clock
-
-2017
-----
-- [CSS Grids](https://drafts.csswg.org/css-grid/)
 
 Community
 ----
