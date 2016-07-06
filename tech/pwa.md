@@ -16,6 +16,11 @@ image:
   width: 512
   height: 512
 todo:
+- css-tricks Set Text on a Circle
+- blogs CSS transitions
+- blogs CSS animation
+- css transform 2d/3d
+- JS frame animation
 ---
 
 {{ page.description }}

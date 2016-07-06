@@ -46,3 +46,7 @@ Server Configuration Management
 * [Salt](https://saltstack.com/)
 * [Ansible](https://www.ansible.com/)
 * [CFEngine](https://cfengine.com/)
+
+Blogs, Info, & Help
+-----
+* [Ubuntu Docs: Environment Variables](https://help.ubuntu.com/community/EnvironmentVariables)

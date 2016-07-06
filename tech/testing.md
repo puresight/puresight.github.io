@@ -53,7 +53,7 @@ Commercial tools
 
 ## Functional testing
 
-[Selenium](http://docs.seleniumhq.org/) automates browsers for testing web applications. Selenium has support from browser vendors who have integrated support.
+[Selenium](http://docs.seleniumhq.org/) automates browsers for testing web applications. Selenium has support from browser vendors who have integrated hooks.
 
 ## Load testing
 
