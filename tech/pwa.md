@@ -16,11 +16,6 @@ image:
   width: 512
   height: 512
 todo:
-- css-tricks Set Text on a Circle
-- blogs CSS transitions
-- blogs CSS animation
-- css transform 2d/3d
-- JS frame animation
 ---
 
 {{ page.description }}
@@ -53,6 +48,7 @@ Books, Video, & Blogs
 -----
 - [Form widgets](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML)
 - [Drag & Drop (DND)](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [requestAnimationFrame (rAF)](http://blog.teamtreehouse.com/efficient-animations-with-requestanimationframe) for smooth animations
 - [Canvas](http://www.html5canvastutorials.com/) - bitmap/painting
 - [Hyperlink protocol handlers](https://developer.mozilla.org/en-US/docs/Web-based_protocol_handlers)
 - [Files](http://www.html5rocks.com/en/tutorials/file/filesystem/) - on the client computer
