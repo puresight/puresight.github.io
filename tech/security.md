@@ -19,7 +19,6 @@ todo:
 
 Portals
 -----
-* [Why HTTPS?](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 * [MDN security](https://developer.mozilla.org/en-US/docs/Web/Security) - Mozilla Developer Network website on security
 * [OWASP](https://www.owasp.org/index.php/Main_Page) (Open Web Application Security Project) - club for software professionals who care about security
 
@@ -34,7 +33,13 @@ Client TLS check
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/viewMyClient.html)
 * [How's My SSL](https://www.howsmyssl.com/)
 
-News & Blogs
+## Certificate Authorities
+
+- [Let’s Encrypt](https://letsencrypt.org/getting-started/) - free, automated, & open
+
+Books & Blogs
 -----
+* [Why HTTPS?](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - frequently used features & commands
 * [/r/netsec](https://www.reddit.com/r/netsec)
 * [Should you encrypt or compress first?](http://blog.appcanary.com/2016/encrypt-or-compress.html) by Max Veytsman

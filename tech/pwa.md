@@ -38,7 +38,7 @@ Progressive Web Apps [have](https://developer.mozilla.org/en-US/Apps/Progressive
 -----
 - [App shell](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - minimum viable [HTML]({{site.baseurl}}tech/html.html), [CSS]({{site.baseurl}}tech/css.html), and [JavaScript]({{site.baseurl}}tech/js.html) for a user interface
 - [manifest.json](https://developer.mozilla.org/en-US/docs/Web/Manifest) - web application manifest
-- [Signed Certificate](https://letsencrypt.org/getting-started/) - TLS x509 SSL certificate signed by a reputable CA
+- [Signed Certificate]({{site.baseurl}}tech/security.html) - TLS x509 SSL certificate signed by a reputable CA
 - [Service Worker](https://serviceworke.rs/) handles caching, fetching, notifications, offline state ([examples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker))
 
 Books, Video, & Blogs
@@ -47,6 +47,7 @@ Books, Video, & Blogs
 - 2016 [Progressive Web App Dev Summit](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) (The Netherlands)
 - 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://twitter.com/addyosmani)
 - 2015 [HTML5’s Media Recorder API in Action on Chrome and Firefox](https://addpipe.com/blog/mediarecorder-api/)
+- 2011 [How to create an https server](https://github.com/nodejitsu/docs/blob/master/pages/articles/HTTP/servers/how-to-create-a-HTTPS-server/content.md) w/ self-signed certificate in Node
 
 [HTML5]({{site.baseurl}}tech/html.html) Features
 -----
