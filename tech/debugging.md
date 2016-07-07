@@ -45,23 +45,3 @@ Developer Sites
 -----
 * [Google](https://developers.google.com/)
 * [Mozilla](https://developer.mozilla.org/)
-
-VM images
------
-* [Windows IE](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-
-Test sites
------
-* [Browserstack.com](https://www.browserstack.com/)
-* [Browsershots.org](http://browsershots.org/)
-* [Browserling.com](https://www.browserling.com/)
-
-Accessibility
------
-* [The Paciello Group’s Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) assesses against [WCAG 2.0](https://www.w3.org/TR/WCAG20/ "Web Content Accessibility Guidelines"), simulates color-blindness, cataracts, et. al.
-
-[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
------
-* [Google’s Lighthouse diagnostic tool](https://github.com/GoogleChrome/lighthouse)
-    * in the browser: [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk "Requires Chrome version 52 or higher")
-    * ```npm install -g GoogleChrome/lighthouse```

@@ -22,14 +22,10 @@ image:
 * package manager: [npm](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 * [source code editor]({{site.baseurl}}tech/editors.html)
 * [version control]({{site.baseurl}}tech/scm.html)
-* [testing-driven development]({{site.baseurl}}tech/testing.html)
+* [debuggers tools]({{site.baseurl}}tech/debugging.html)
+* [automated testing]({{site.baseurl}}tech/testing.html)
 * certificate authority: [Let's Encrypt](https://letsencrypt.org/)
 * [compiler]({{site.baseurl}}tech/compilers.html)
 * [module bundler]({{site.baseurl}}tech/webpack.html)
 * package upkeep: [Greenkeeper](https://greenkeeper.io/)
-* package security check: [NSP](https://nodesecurity.io/)
 * [continuous integration]({{site.baseurl}}tech/ci.html)
-
-Combinations
-------------
-* [MEAN](http://meanjs.org/) - MongoDB + Express.js + Angular.js + Node.js

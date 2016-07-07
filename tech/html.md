@@ -30,7 +30,7 @@ from automotive interfaces, to interactive education.
 *HTML* has become the
 [legos](http://www.lego.com/) of our digital dimension.
 
-What’s New?
+Features
 -----
 - [Semantic layout](https://www.smashingmagazine.com/2011/11/html5-semantics/) ([elements](https://www.w3.org/TR/html-markup/elements.html))
 - [Responsive images]({{site.baseurl}}tech/images.html)
@@ -38,22 +38,23 @@ What’s New?
 - [Tracks](http://www.html5rocks.com/en/tutorials/track/basics/) - for media
 - [Form improvements](http://www.html5rocks.com/en/tutorials/forms/html5forms/) - validation, mobile inputs, etc.
 - [Element ```contenteditable``` attribute](http://html5doctor.com/the-contenteditable-attribute/) - for user-mutable text
+- [Templates](http://www.html5rocks.com/en/tutorials/webcomponents/template/) - for scripts
 
 Blogs
 -----
+- 2015 [JS-Dependency Backlash: Myth-Busting Progressive Enhancement](https://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
 * 2012 [Ten new HTML5 tags you need to know about](http://www.techrepublic.com/blog/10-things/10-new-html5-tags-you-need-to-know-about/)
 * 2012 [Developer’s Guide to HTML5 APIs](http://www.creativebloq.com/html5/developer-s-guide-html5-apis-1122923)
-* [HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
-* [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+- [Writing Your Best Markup](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 
 Nomenclatures
 -----
-* [Microformats.org](http://microformats.org/)
-* [Schema.org](https://schema.org/docs/gs.html)
+- [Microformats.org](http://microformats.org/)
+- [Schema.org](https://schema.org/docs/gs.html)
 
 Accessibility
 ------
-* [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) accessibility attributes (e.g. ```role```)
+- [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) accessibility attributes (e.g. ```role```)
 
 Reference
 -----
@@ -63,9 +64,9 @@ Reference
 
 Standards
 -----
-* [W3C HTML](https://www.w3.org/html/)
-* [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
+- [W3C HTML](https://www.w3.org/html/)
+- [WHATWG’s Living Standard](https://html.spec.whatwg.org/multipage/)
 
 Community
 -----
-* [The Mozilla Learning Network](https://learning.mozilla.org/)
+- [The Mozilla Learning Network](https://learning.mozilla.org/)

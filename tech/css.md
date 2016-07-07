@@ -32,7 +32,7 @@ Features
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - [Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-- [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- [Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
 - [Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
 - [Grids](https://drafts.csswg.org/css-grid/) - 2017
 
