@@ -71,7 +71,7 @@ Historic
 --------
 * [Dojo](https://dojotoolkit.org/) [+ Dijit](https://dojotoolkit.org/reference-guide/dijit/info.html) ([demo](http://archive.dojotoolkit.org/nightly/dojotoolkit/dijit/themes/themeTester-orig.html))
 * [jQuery](https://jquery.com/)
-* [Backbone.js](http://backbonejs.org/) and [Underscore](http://underscorejs.org/)
+* [Backbone.js](http://backbonejs.org/docs/backbone.html) and [Underscore](http://underscorejs.org/docs/underscore.html)
     * __Pro:__ mature, MVC
     * __Con:__ old, slow, overly simple, almost but not quite MVC, not opinionated enough, non-isometric
     * __Extensions:__ [Chaplin](http://chaplinjs.org/), [Marionette](http://marionettejs.com/)
