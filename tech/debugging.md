@@ -3,11 +3,11 @@ layout: page
 title: Debugging
 category: tech
 tags:
+- software
 - js
 - tools
-- test
 subject: "debugging"
-description: "Debugging is finding and fixing defects in software."
+description: "Debugging is finding and fixing defects in apps."
 image:
   alt: "JavaScript"
   caption: ""
@@ -17,7 +17,8 @@ image:
 todo:
 ---
 
-{{ page.description }}
+Debugging is finding and fixing defects in
+[apps]({{site.baseurl}}tech/pwa.html "Progressive Web Applications").
 The optimal context for debugging is a
 [test driven development]({{site.baseurl}}tech/testing.html)
 environment and the best time to debug is immediately
@@ -41,7 +42,18 @@ App Developer Tools
 ----
 * [Devtron](http://electron.atom.io/devtron) extends Chrome’s devTools for Electron
 
+Command line tools
+-----
+- [cURL](https://curl.haxx.se/docs/comparison-table.html) - a tool to transfer data from or to a server using e.g. HTTPS
+
+curl offers a busload of useful tricks like proxy support, user authentication, FTP upload, HTTP post, SSL connections, cookies, file transfer resume, Metalink, and more. As you will see below, the number of features will make your head spin!
+
 Developer Sites
 -----
 * [Google](https://developers.google.com/)
 * [Mozilla](https://developer.mozilla.org/)
+
+Blogs
+-----
+- 2014 [Using Curl to Interact with a RESTful API](http://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)
+- 2013 [A curl tutorial using GitHub's API](https://gist.github.com/caspyin/2288960)

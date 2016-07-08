@@ -3,9 +3,9 @@ layout: page
 title: Test/QA
 category: tech
 tags:
+- software
 - js
 - tools
-- test
 subject: schools
 description: "Test-driven development is a method of creating or changing software through iterations."
 image:
