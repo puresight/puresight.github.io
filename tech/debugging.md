@@ -46,8 +46,6 @@ Command line tools
 -----
 - [cURL](https://curl.haxx.se/docs/comparison-table.html) - a tool to transfer data from or to a server using e.g. HTTPS
 
-curl offers a busload of useful tricks like proxy support, user authentication, FTP upload, HTTP post, SSL connections, cookies, file transfer resume, Metalink, and more. As you will see below, the number of features will make your head spin!
-
 Developer Sites
 -----
 * [Google](https://developers.google.com/)

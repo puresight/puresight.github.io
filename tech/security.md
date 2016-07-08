@@ -3,7 +3,7 @@ layout: page
 title: Security
 category: tech
 tags:
-- infosec
+- software
 subject: infosec
 description: "Stay aware of evolving best practices in information security, and how innovations in the platform can help keep your open web applications secure."
 image:
