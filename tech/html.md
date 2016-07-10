@@ -23,10 +23,9 @@ are the building blocks of the
 [world wide web](http://webfoundation.org/),
 enduing web pages with structure and
 [semantics](https://en.wikipedia.org/wiki/Semantic_Web).
-
-HTML is applied in contexts from [ebooks](http://www.jedisaber.com/eBooks/formatsource.shtml)
+Applied in contexts from [ebooks](http://www.jedisaber.com/eBooks/formatsource.shtml)
 to [progressive web applications]({{site.baseurl}}tech/pwa.html),
-from automotive interfaces, to interactive education.
+from automotive interfaces, to interactive education,
 *HTML* has become the
 [legos](http://www.lego.com/) of our digital dimension.
 

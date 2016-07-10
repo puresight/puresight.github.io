@@ -23,11 +23,6 @@ Business
 - [David Heinemeier Hansson](https://twitter.com/dhh), of _[REWORK](http://david.heinemeierhansson.com/#rework)_
 - [Tim Ferriss](https://twitter.com/tferriss), _The 4-Hour Workweek_
 
-Fiction
------
-- [Justine Musk](https://twitter.com/justinemusk), some dark-fantasy novels, [JustineMusk.com](http://justinemusk.com/)
-- [Ted Dekker](http://teddekker.com/), some dark fiction novels
-
 Gospel
 -----
 - [René Noël Théophile Girard (1923—2015)](http://www.iep.utm.edu/girard/)
@@ -61,3 +56,8 @@ Psychology & Neurology
 - [Joey Klein](https://twitter.com/JoeyKleinCT)
 - [Umair Haque](https://umairhaque.com/)
 - [Joe Dispenza](https://twitter.com/DrJoeDispenza)
+
+Fiction
+-----
+- [Justine Musk](https://twitter.com/justinemusk), some dark-fantasy novels, [JustineMusk.com](http://justinemusk.com/)
+- [Ted Dekker](http://teddekker.com/), some dark fiction novels

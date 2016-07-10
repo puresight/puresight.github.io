@@ -20,28 +20,19 @@ todo:
 Cascading Style Sheets is a declarative language for prescribing the presentation of a document written in
 [HTML]({{site.baseurl}}tech/html.html).
 
-Reference
------
-- [W3C](https://www.w3.org/TR/CSS/)
-- [Mozilla’s Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Safari Web Content Guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoCSS/IntroductiontoCSS.html)
-
 Features
 -----
 - Media Queries: [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries), [Google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries)
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - [Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 - [Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
 - [Grids](https://drafts.csswg.org/css-grid/) - 2017
 
-Tutorials
+Blogs & Games
 ----
-- [Flexbox Froggy](http://flexboxfroggy.com/)
-
-Blogs
-----
+- [Flexbox Froggy](http://flexboxfroggy.com/) - game for learning flexbox
 - 2014 [RWD Frameworks: Just Because You Can, Should You?](https://www.smashingmagazine.com/2014/02/responsive-design-frameworks-just-because-you-can-should-you/) by Jen Kramer
 - 2013 [Packt: Introduction to RWD frameworks](https://www.packtpub.com/books/content/introduction-rwd-frameworks) by Thoriq Firdaus
 - 2013 [Design Instruct: Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/) by [Jacob Gube](https://mobile.twitter.com/sixrevisions)
@@ -85,3 +76,9 @@ Historic practices
 -----
 - [Browser Specific Hacks](https://css-tricks.com/snippets/css/browser-specific-hacks/)
 - [960 grid system](http://960.gs/) by [Nathan Smith](https://mobile.twitter.com/nathansmith)
+
+Reference
+-----
+- [W3C](https://www.w3.org/TR/CSS/)
+- [Mozilla’s Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Safari Web Content Guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/IntroductiontoCSS/IntroductiontoCSS.html)
