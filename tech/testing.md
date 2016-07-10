@@ -56,7 +56,6 @@ Commercial TDD frameworks
 Source scanners
 -----
 - [ESLint](http://eslint.org/) - configurable linter tool for finding patterns in the source
-- [Paciello Group’s Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) - assesses against [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/ "WCAG 2.0") and simulates color-blindness & cataracts
 - [Google’s Lighthouse](https://github.com/GoogleChrome/lighthouse) - scans for [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) recommendations
 - [Node Security Platform](https://nodesecurity.io/) - looks for vulnerabilities in node.js source & dependencies
 
@@ -64,9 +63,10 @@ Source scanners
 
 - [Selenium](http://docs.seleniumhq.org/) automates browsers for testing web applications. Selenium has support from browser vendors who have integrated hooks.
 
-## Load testing
+## Test tools
 
 - [Apache’s JMeter](https://jmeter.apache.org/) is open source.
+- [Paciello Group’s Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/) - assesses against [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/ "WCAG 2.0") and simulates color-blindness & cataracts
 
 Virtual Machine test images
 -----

@@ -43,3 +43,5 @@ Books & Blogs
 - [Why HTTPS?](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - frequently used features & commands
 - [Should you encrypt or compress first?](http://blog.appcanary.com/2016/encrypt-or-compress.html) by Max Veytsman
+
+For static source analysis suggestions, see [testing]({{site.baseurl}}tech/testing.html).
