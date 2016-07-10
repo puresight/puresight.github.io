@@ -61,6 +61,10 @@ that concerns people's inherent growth tendencies and innate psychological needs
 
 > SDT propositions focus on how social and cultural factors facilitate or undermine people’s sense of volition and initiative, in addition to their well-being and the quality of their performance.  Conditions supporting the individual’s experience of autonomy, competence, and relatedness are argued to foster the most volitional and high quality forms of motivation and engagement for activities, including enhanced performance, persistence, and creativity. In addition, SDT proposes that the degree to which any of these three psychological needs is unsupported or thwarted within a social context will have a robust detrimental impact on wellness in that setting.
 
+[Conway’s Law](https://en.wikipedia.org/wiki/Melvin_Conway):
+
+> “Organizations, which design systems, are constrained to produce designs which are copies of the communication structures of these organizations.”
+
 From _[The Responsive Org Manifesto](http://www.responsive.org/manifesto):_
 
 > Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:
