@@ -52,8 +52,8 @@ Others begin as polyfills that flock and evolve.
 * Background video: [Vidage.js](https://github.com/dvLden/Vidage)
 * Dataviz: [D3](https://d3js.org/)
 * Generative Art: [P5.js](http://p5js.org/)
-* Animation: [Flip.js](https://github.com/googlechrome/flipjs) by [Paul Lewis](https://twitter.com/aerotwist)
-* AI: [neurolib](https://www.npmjs.com/package/neurolib) - neuron emulation tools by [Eric Elliot](https://twitter.com/_ericelliott) ([blog](https://medium.com/javascript-scene/how-to-build-a-neuron-exploring-ai-in-javascript-pt-2-2f2acb9747ed))
+* Animation: [Flip.js](https://github.com/googlechrome/flipjs) by [Paul Lewis](https://mobile.twitter.com/aerotwist)
+* AI: [neurolib](https://www.npmjs.com/package/neurolib) - neuron emulation tools by [Eric Elliot](https://mobile.twitter.com/_ericelliott) ([blog](https://medium.com/javascript-scene/how-to-build-a-neuron-exploring-ai-in-javascript-pt-2-2f2acb9747ed))
 
 Blogs
 -----

@@ -40,7 +40,7 @@ Books, Video, & Blogs
 -----
 - [DIVE INTO HTML5](http://diveintohtml5.info/) by [Mark Pilgrim](https://github.com/diveintomark)
 - 2016 [Progressive Web App Dev Summit](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb) (The Netherlands)
-- 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://twitter.com/addyosmani)
+- 2015 [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [Addy Osmani](https://mobile.twitter.com/addyosmani)
 - 2015 [Examining the Benefits of Progressive Enhancement](https://www.viget.com/articles/progressive-enhancement-benefits)
 - 2013 [Progressive Enhancement. Still Alive & Kickin’](http://danielmall.com/articles/progressive-enhancement/)
 - 2015 [HTML5’s Media Recorder API in Action on Chrome and Firefox](https://addpipe.com/blog/mediarecorder-api/)

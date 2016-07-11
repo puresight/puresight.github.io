@@ -55,4 +55,4 @@ What's New?
 * [Let's Learn ES6  videos](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX) by [Ryan Christiani](http://ryanchristiani.com/)
 * Promises:
     * [the whys and hows and problems of](https://blog.getify.com/promises-part-1/) by [Kyle Simpson](https://mobile.twitter.com/getify)
-    * [there and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) by [Jake Archibald](https://twitter.com/jaffathecake)
+    * [there and back again](http://www.html5rocks.com/en/tutorials/es6/promises/) by [Jake Archibald](https://mobile.twitter.com/jaffathecake)

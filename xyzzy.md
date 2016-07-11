@@ -25,15 +25,15 @@ IRC/chatrooms/slacks
 
 Twitter
 -------
-* https://twitter.com/strimpeljason
+* https://mobile.twitter.com/strimpeljason
 * @JavaScriptAir
 * Jake Archibald
 * Chris Jenkins blog
-* https://twitter.com/andrestaltz
-* https://twitter.com/shep_ben
-* https://twitter.com/goldglovecb
-* https://twitter.com/idanyliuk (Go)
-* https://twitter.com/hueypetersen (Om)
+* https://mobile.twitter.com/andrestaltz
+* https://mobile.twitter.com/shep_ben
+* https://mobile.twitter.com/goldglovecb
+* https://mobile.twitter.com/idanyliuk (Go)
+* https://mobile.twitter.com/hueypetersen (Om)
 * twitter.com/duhroach #perfmatters #webperf Adobe GCview
 
 Blogs

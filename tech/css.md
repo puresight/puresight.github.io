@@ -39,7 +39,7 @@ Blogs & Games
 - 2013 [Masking](http://www.html5rocks.com/en/tutorials/masking/adobe/)
 - 2012 [Set Text On A Circle](http://blog.grayghostvisuals.com/css/text-me-up-circle/)
 - 2010 [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
-- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://twitter.com/zackbloom)
+- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) by [Zack Bloom](https://mobile.twitter.com/zackbloom)
 - [CSS Animation Rocks: Clocks](https://cssanimation.rocks/clocks/) taught me to make a clock
 
 Taxonomies
