@@ -4,7 +4,7 @@ title: Business
 noindex: true
 category: business
 subject: business
-description: "A few notes about business and finance."
+description: "Business (and finance) notes for entrepreneurs."
 ---
 
 {{ page.description }}
