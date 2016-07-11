@@ -29,7 +29,7 @@ Gospel
 - [William Paul Young](http://wmpaulyoung.com/paul-young-blog/), _The Shack_
 - [Rob Bell](https://robbell.com/), _How To Be Here_, _Love Wins_, _What We Talk About When We Talk About God_, _The Zimzum of Love_
 - [Andre Rabe](https://mobile.twitter.com/AndreRabe1), website [AlwaysLoved](http://alwaysloved.net/).net
-- [Francois Du Toit](https://mobile.twitter.com/francoislydia), _The Mirror Bible_, website [MirrorWord.net](http://www.mirrorword.net/)
+- [Francois Du Toit](https://mobile.twitter.com/francoislydia) ([website](http://www.mirrorword.net/)) - _[The Mirror Bible](http://www.mirrorbible.com/)_
 - [Jeremiah Johnson](https://twitter.com/gracepoint555), _Freedom_, _Staying Connected_
 - [Bertie Brits](https://twitter.com/BertieBrits), website [Dynamic Love Ministries](https://www.dynamicministries.com/)
 
@@ -43,8 +43,8 @@ Zen
 Psychology & Neurology
 -----
 - [Dan Siegel](http://www.drdansiegel.com/)
-- [Steven Kotler](https://mobile.twitter.com/steven_kotler)
-- [Mihaly Csikszentmihalyi](https://amazon.com/e/e/B000AQ1KVM/)
+- [Steven Kotler](https://mobile.twitter.com/steven_kotler) - [The Rise of Superman](http://riseofsuperman.com/)
+- [Mihaly Csikszentmihalyi](https://amazon.com/e/e/B000AQ1KVM/) - _Flow: The Psychology of Optimal Experience_
 - [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author)
 - [Joey Klein](https://twitter.com/JoeyKleinCT)
 - [Umair Haque](https://umairhaque.com/)

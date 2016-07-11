@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Notes
+title: Business
 noindex: true
 category: business
 subject: business

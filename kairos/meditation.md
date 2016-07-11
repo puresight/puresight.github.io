@@ -12,6 +12,7 @@ image:
   url: "images/icons/meditator.png"
   width: 400
   height: 400
+published: true
 ---
 
 {{ page.description }}
@@ -20,6 +21,7 @@ Institutes
 -----
 - [Center for Action and Contemplation](https://cac.org/) ([Soundcloud](https://soundcloud.com/cacadmin))
 - [WCCM](http://wccm.org/ "World Community for Christian Meditation") ([Soundcloud](https://soundcloud.com/wccm))
+- [Flow Genome Project](http://www.flowgenomeproject.com/)
 
 Apps
 ----

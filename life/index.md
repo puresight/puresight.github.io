@@ -1,6 +1,6 @@
 ---
 layout: lifeindex
-title: Monty for hire
+title: Life
 subject: autobiography
 category: life
 noindex: true

@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Kairos notes
+title: Kairos
 noindex: true
 category: kairos
 greek: καιρός

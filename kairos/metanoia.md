@@ -14,20 +14,12 @@ image:
   url: "images/icons/brain.jpg"
   width: 400
   height: 308
+published: false
 ---
 
 {{ page.description }}
 
 {{ page.disclaimer }}
-
-Books
------
-* [Mirror Bible](http://www.mirrorbible.com/) by [Francois Du Toit](https://mobile.twitter.com/francoislydia)
-* [Blink](http://gladwell.com/blink/) by [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
-* [DRiVE](http://www.danpink.com/books/drive/) by [Dan Pink](https://mobile.twitter.com/danielpink)
-* [Flow: The Psychology of Optimal Experience]() by [Mihaly Csikszentmihalyi]()
-* [The Rise of Superman](http://riseofsuperman.com/) by [Steven Kotler](https://mobile.twitter.com/steven_kotler)
-* [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](http://amazon.com/d/dp/B00COOFBA4) by [Scott Adams](https://twitter.com/scottadamssays)
 
 Audio
 -----
@@ -36,10 +28,6 @@ Audio
 Video
 -----
 * [Mihaly Csikszentmihalyi: Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
-
-Centers
-----
-* [Flow Genome Project](http://www.flowgenomeproject.com/)
 
 Blogs
 -----

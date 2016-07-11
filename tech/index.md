@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Notes
+title: Tech
 noindex: true
 category: tech
 subject: technology

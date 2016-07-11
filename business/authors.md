@@ -24,8 +24,9 @@ image:
 - [David Heinemeier Hansson](https://twitter.com/dhh) - Basecamp, _[REWORK](http://david.heinemeierhansson.com/#rework)_
 - [Tim Ferriss](https://twitter.com/tferriss) - _The 4-Hour Workweek_
 - [Brené Brown](http://brenebrown.com/) - _The Gifts of Imperfection_, _Daring Greatly,_ _Rising String_
-- [Malcolm Gladwell](https://mobile.twitter.com/Gladwell) - _Blink_
-- [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ _DRiVE_
+- [Malcolm Gladwell](https://mobile.twitter.com/Gladwell) - [Blink](http://gladwell.com/blink/)
+- [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ [DRiVE](http://www.danpink.com/books/drive/)
+- [Scott Adams](https://twitter.com/scottadamssays) - [How to Fail at Almost Everything and Still Win Big](http://amazon.com/d/dp/B00COOFBA4)
 
 {% if page.correlations %}
 
