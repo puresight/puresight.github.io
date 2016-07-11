@@ -57,6 +57,10 @@ Psychology & Neurology
 - [Umair Haque](https://umairhaque.com/)
 - [Joe Dispenza](https://twitter.com/DrJoeDispenza)
 
+Science
+-----
+- [Eric P. Dollard](http://ericpdollard.com/)
+
 Fiction
 -----
 - [Justine Musk](https://twitter.com/justinemusk), some dark-fantasy novels, [JustineMusk.com](http://justinemusk.com/)
