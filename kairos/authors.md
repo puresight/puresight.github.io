@@ -56,8 +56,8 @@ Science
 
 Fiction
 -----
-- [Justine Musk](https://twitter.com/justinemusk), some dark-fantasy novels, [JustineMusk.com](http://justinemusk.com/)
-- [Ted Dekker](http://teddekker.com/), some dark fiction novels
+- [Justine Musk](https://twitter.com/justinemusk) ([website](http://justinemusk.com/)) - some dark-fantasy novels
+- [Ted Dekker](http://teddekker.com/) - some dark fiction novels
 
 {% if page.correlations %}
 

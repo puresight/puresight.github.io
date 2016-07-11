@@ -3,7 +3,7 @@ layout: page
 title: Authors
 category: business
 subject: authors
-description: "Authors that I find beloved, noteworthy, or, just interesting."
+description: "Authors that I find noteworthy or interesting."
 tags:
 - authors
 todo:
@@ -21,11 +21,11 @@ image:
 
 - [Seth Godin](http://sethgodin.typepad.com/) - _Linchpin,_ _Tribes,_ _The Dip,_ _Purple Cow_
 - [Simon Sinek](https://www.startwithwhy.com/About) - _Start With Why_
-- [David Heinemeier Hansson](https://twitter.com/dhh) - _[REWORK](http://david.heinemeierhansson.com/#rework)_
+- [David Heinemeier Hansson](https://twitter.com/dhh) - Basecamp, _[REWORK](http://david.heinemeierhansson.com/#rework)_
 - [Tim Ferriss](https://twitter.com/tferriss) - _The 4-Hour Workweek_
 - [Brené Brown](http://brenebrown.com/) - _The Gifts of Imperfection_, _Daring Greatly,_ _Rising String_
 - [Malcolm Gladwell](https://mobile.twitter.com/Gladwell) - _Blink_
-- [Dan Pink](https://mobile.twitter.com/danielpink) - _DRiVE_
+- [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ _DRiVE_
 
 {% if page.correlations %}
 
