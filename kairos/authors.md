@@ -5,7 +5,10 @@ category: kairos
 subject: spirituality
 description: "Authors that I find beloved, noteworthy, or, just interesting."
 tags:
+- authors
 todo:
+correlations:
+- business/authors
 image:
   alt: "Mark Twain"
   caption: ""
@@ -15,13 +18,6 @@ image:
 ---
 
 {{ page.description }}
-
-Business
------
-- [Seth Godin](http://sethgodin.typepad.com/)
-- [Simon Sinek](https://www.startwithwhy.com/About)
-- [David Heinemeier Hansson](https://twitter.com/dhh), of _[REWORK](http://david.heinemeierhansson.com/#rework)_
-- [Tim Ferriss](https://twitter.com/tferriss), _The 4-Hour Workweek_
 
 Gospel
 -----
@@ -46,9 +42,6 @@ Zen
 
 Psychology & Neurology
 -----
-- [Brené Brown](http://brenebrown.com/)
-- [Malcolm Gladwell](https://mobile.twitter.com/Gladwell)
-- [Dan Pink](https://mobile.twitter.com/danielpink)
 - [Dan Siegel](http://www.drdansiegel.com/)
 - [Steven Kotler](https://mobile.twitter.com/steven_kotler)
 - [Mihaly Csikszentmihalyi](https://amazon.com/e/e/B000AQ1KVM/)
@@ -65,3 +58,14 @@ Fiction
 -----
 - [Justine Musk](https://twitter.com/justinemusk), some dark-fantasy novels, [JustineMusk.com](http://justinemusk.com/)
 - [Ted Dekker](http://teddekker.com/), some dark fiction novels
+
+{% if page.correlations %}
+
+### See also:
+
+<ul class="correlations">
+  {% for slug in page.correlations %}
+    <li class=""><a href="{{ site.baseurl }}{{ slug }}.html">{{ slug }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
