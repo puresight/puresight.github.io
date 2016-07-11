@@ -40,7 +40,7 @@ Zen
 - [Jordan Harbinger](http://theartofcharm.com/jordan-harbinger/), _The Art of Charm_
 - [Brett Mckay](https://mobile.twitter.com/brettmckay), website [The Art of Manliness](http://www.artofmanliness.com/)
 - [Joey Klein](https://mobile.twitter.com/JoeyKleinCT) - _The Inner Matrix_
-- [Umair Haque](https://umairhaque.com/)
+- [Umair Haque](https://umairhaque.com/) - _Betterness: Economics for Humans_
 - [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author) - _Wherever You Go, There You Are_
 
 Psychology & Neurology
