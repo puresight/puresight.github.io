@@ -19,21 +19,26 @@ image:
 
 {{ page.description }}
 
-Gospel
+The Good News
 -----
+- [Bob Mumford](https://twitter.com/lifechangers72) - _[The Agape Road](http://lifechangers.org/teachings/agape-road/)_
+- [Bill Johnson](http://bjm.org/) - _[When Heaven Invades Earth](https://shop.ibethel.org/products/when-heaven-invades-earth-book)_
+- [Danny Silk](https://twitter.com/dannyleesilk) - _[The Culture of Honor](http://lovingonpurpose.com/product-archive/culture-of-honor-book)_
 - [Jeremiah Johnson](https://mobile.twitter.com/gracepoint555) - _Freedom_, _Staying Connected_
 - [Bertie Brits](https://mobile.twitter.com/BertieBrits) - website [Dynamic Love Ministries](https://www.dynamicministries.com/)
 - [Mark Chironna](https://mobile.twitter.com/markchironna) - books, TV, pastor, certified life coach
 - [Graham Cooke](https://mobile.twitter.com/GrahamCookeBBH) - [Brilliant Book House](https://www.brilliantbookhouse.com/)
-- [Andre Rabe](https://mobile.twitter.com/AndreRabe1) - website [AlwaysLoved](http://alwaysloved.net/).net
+- [Andre Rabe](https://mobile.twitter.com/AndreRabe1) - _[Desire Found Me](http://alwaysloved.net/books/desire-found/)_
 - [Francois Du Toit](https://mobile.twitter.com/francoislydia) ([website](http://www.mirrorword.net/)) - _[The Mirror Bible](http://www.mirrorbible.com/)_
+- [Peter Rollins](https://twitter.com/PeterRollins) - _The Idolatry of God,_ [etc](http://peterrollins.net/category/merch/)
+- [Ted Dekker](http://teddekker.com/) - _[The Forgotten Way](https://theforgottenway.com/)_
 - [C. Baxter Kruger](http://perichoresis.org/) - [Perichoresis Ministries](http://perichoresis.org/), _The Shack Revisited_, _The Great Dance_, _Jesus and the Undoing of Adam_, _Across All Worlds_
 - [William Paul Young](http://wmpaulyoung.com/paul-young-blog/) - _The Shack_
 - [Rob Bell](https://robbell.com/) - _How To Be Here_, _Love Wins_, _What We Talk About When We Talk About God_, _The Zimzum of Love_
 - [René Noël Théophile Girard (1923—2015)](http://www.iep.utm.edu/girard/)
 - Jean-Luc Marion - [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc_Marion), [UChicago](http://philosophy.uchicago.edu/faculty/marion.html), [Amazon](https://amazon.com/e/e/B001IXMWUY/)
 
-Zen
+Awakening
 -----
 - [Joey Klein](https://mobile.twitter.com/JoeyKleinCT) - _The Inner Matrix_
 - [Umair Haque](https://umairhaque.com/) - _Betterness: Economics for Humans_
@@ -42,6 +47,7 @@ Zen
 - [Jordan Harbinger](http://theartofcharm.com/jordan-harbinger/), _The Art of Charm_
 - [Brett Mckay](https://mobile.twitter.com/brettmckay), website [The Art of Manliness](http://www.artofmanliness.com/)
 - [Jon Kabat-Zinn](http://www.mindfulnesscds.com/pages/about-the-author) - _Wherever You Go, There You Are_
+- [White Eagle](http://www.whiteaglepublishing.org/_books/) - _Golden Harvest: How to Become a Centre of Love_
 
 Psychology & Neurology
 -----
@@ -56,8 +62,8 @@ Science
 
 Fiction
 -----
+- [Stephen R. Lawhead](https://twitter.com/StephenLawhead) - _The Song of Albion,_ _The Pendragon Cycle,_ [etc](http://www.stephenlawhead.com/the-books)
 - [Justine Musk](https://mobile.twitter.com/justinemusk) ([website](http://justinemusk.com/)) - some dark-fantasy novels
-- [Ted Dekker](http://teddekker.com/) - some dark fiction novels
 
 {% if page.correlations %}
 
