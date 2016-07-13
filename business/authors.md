@@ -27,3 +27,4 @@ image:
 - [Malcolm Gladwell](https://mobile.twitter.com/Gladwell) - _[Blink](http://gladwell.com/blink/)_
 - [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ _[DRiVE](http://www.danpink.com/books/drive/)_
 - [Scott Adams](https://mobile.twitter.com/scottadamssays) - _[How to Fail at Almost Everything and Still Win Big](http://amazon.com/d/dp/B00COOFBA4)_
+- [Janelle Klein](https://twitter.com/janellekz) - _[Idea Flow: How to Measure the Pain in Software Development](https://leanpub.com/ideaflow)_
