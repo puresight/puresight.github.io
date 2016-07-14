@@ -13,6 +13,10 @@ todo:
 
 {{ page.js }}
 
+## Unicode
+
+♿️
+
 Jekyll
 ----
 * [Add tags to your website](http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/)

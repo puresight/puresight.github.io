@@ -2,6 +2,8 @@
 layout: page
 title: LLC
 category: business
+tags:
+- legal
 subject: reference
 description: "A limited liability company is a business structure combining the pass-through taxation of a sole-proprietorship with the limited liability of a corporation."
 ---

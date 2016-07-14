@@ -4,7 +4,6 @@ title: Finance
 category: business
 tags:
 - finance
-- SPDR
 description: "SPDR Sector ETF’s"
 ---
 

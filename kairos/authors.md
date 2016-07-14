@@ -62,7 +62,7 @@ Science
 
 Fiction
 -----
-- [Stephen R. Lawhead](https://twitter.com/StephenLawhead) - _The Song of Albion,_ _The Pendragon Cycle,_ [etc](http://www.stephenlawhead.com/the-books)
+- [Stephen Lawhead](https://twitter.com/StephenLawhead) - _The Song of Albion,_ _The Pendragon Cycle,_ [etc](http://www.stephenlawhead.com/the-books)
 - [Justine Musk](https://mobile.twitter.com/justinemusk) ([website](http://justinemusk.com/)) - some dark-fantasy novels
 
 {% if page.correlations %}
