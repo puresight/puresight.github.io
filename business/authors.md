@@ -19,7 +19,7 @@ image:
 
 {{ page.description }}
 
-- [Eric Ries](https://twitter.com/ericries) - [The LEAN Startup](http://theleanstartup.com/book)
+- [Eric Ries](https://twitter.com/ericries) - _[The LEAN Startup](http://theleanstartup.com/book)_
 - [Simon Sinek](https://www.startwithwhy.com/About) - _Start With Why_
 - [Seth Godin](http://sethgodin.typepad.com/) - _Linchpin,_ _Tribes,_ _The Dip,_ _Purple Cow_
 - [Don Norman](http://www.jnd.org/) - _[The Design of Everyday Things](http://www.jnd.org/books.html#doet2)_

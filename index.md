@@ -1,7 +1,7 @@
 ---
 layout: lifeindex
 title: Home
-tagline: Monty
+tagline: Monty Dickerson
 subject: website
 noindex: true
 ---
