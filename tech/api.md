@@ -23,3 +23,10 @@ todo:
 Blogs
 -----
 * [Anatomy of an Elasticsearch Cluster](http://insightdataengineering.com/blog/elasticsearch-crud/)
+
+Formats
+-----
+- [Core JSON](http://www.coreapi.org/specification/encoding/#core-json-encoding)
+- [Swagger](https://openapis.org/specification)
+- [JSON Hyper-Schema](http://json-schema.org/latest/json-schema-hypermedia.html)
+- [api blueprint](https://apiblueprint.org/)

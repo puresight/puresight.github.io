@@ -9,7 +9,7 @@
 main { display: block; }
 
 main footer p {
-  text-shadow: 1px 1px 2px #eee;
+  text-shadow: 1px 1px 2px #e0e0e0;
 }
 
 main iframe {

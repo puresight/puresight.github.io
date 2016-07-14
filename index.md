@@ -1,7 +1,7 @@
 ---
 layout: lifeindex
 title: Home
-tagline: Monty for hire
+tagline: Monty
 subject: website
 noindex: true
 ---

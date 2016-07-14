@@ -60,6 +60,7 @@ Others begin as polyfills that flock and evolve.
 Blogs
 -----
 - 2016 [Tutorialzine’s Interesting Libraries for January](http://tutorialzine.com/2016/01/15-interesting-javascript-and-css-libraries-for-january-2016/)
+- 2012 [JavaScript Physics Engines Comparison](http://buildnewgames.com/physics-engines-comparison/)
 
 Reference
 ---------
