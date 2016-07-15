@@ -30,3 +30,6 @@ image:
 - [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ _[DRiVE](http://www.danpink.com/books/drive/)_
 - [Scott Adams](https://mobile.twitter.com/scottadamssays) - _[How to Fail at Almost Everything and Still Win Big](http://amazon.com/d/dp/B00COOFBA4)_
 - [Janelle Klein](https://twitter.com/janellekz) - _[Idea Flow: How to Measure the Pain in Software Development](https://leanpub.com/ideaflow)_
+- [Elle Luna](https://mobile.twitter.com/elleluna), _The Crossroads of Should and Must: Find and Follow Your Passion_
+- [Jordan Harbinger](http://theartofcharm.com/jordan-harbinger/), _The Art of Charm_
+- [Brett Mckay](https://mobile.twitter.com/brettmckay), website [The Art of Manliness](http://www.artofmanliness.com/)
