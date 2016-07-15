@@ -9,6 +9,7 @@ tags:
 todo:
 correlations:
 - business/authors
+- kairos/interpersonal-neurobiology
 image:
   alt: "Mark Twain"
   caption: ""
