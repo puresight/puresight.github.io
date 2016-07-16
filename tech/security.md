@@ -38,6 +38,11 @@ Client TLS check
 
 - [Let’s Encrypt](https://letsencrypt.org/getting-started/) - free, automated, & open
 
+Private Key Store
+-----
+- [Nitrokey](https://www.nitrokey.com/) USB (German, fully open source)
+- [Yubikey](https://www.yubico.com/products/yubikey-hardware/) NFC/USB (American)
+
 Books & Blogs
 -----
 - [Why HTTPS?](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
