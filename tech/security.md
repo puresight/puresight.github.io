@@ -43,10 +43,27 @@ Private Key Store
 - [Nitrokey](https://www.nitrokey.com/) USB (German, fully open source)
 - [Yubikey](https://www.yubico.com/products/yubikey-hardware/) NFC/USB (American)
 
+Device Disposal Wipers
+-----
+- [Eraser](http://eraser.heidi.ie/)
+- [Darik’s Boot and Nuke](http://www.dban.org/)
+- [Killdisk](http://www.killdisk.com/)
+
 Books & Blogs
 -----
 - [Why HTTPS?](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - frequently used features & commands
 - [Should you encrypt or compress first?](http://blog.appcanary.com/2016/encrypt-or-compress.html) by Max Veytsman
+
+Primers
+-----
+- [Teaching Privacy](http://teachingprivacy.org/)
+- [TwoFactorAuth.org](https://twofactorauth.org/)
+- [Freedom.press/encryption-works](https://github.com/freedomofpress/encryption-works)
+
+Watch
+-----
+- [OpenSSL](https://www.openssl.org/)
+- [GNU Privacy Guard (GPG)](https://www.gnupg.org/)
 
 For static source analysis suggestions, see [testing]({{site.baseurl}}tech/testing.html).
