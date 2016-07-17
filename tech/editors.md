@@ -31,8 +31,6 @@ CSS styles from PSD files; this might be useful to some.
 * [Sublime Text](https://www.sublimetext.com/) ($70) is a proprietary text editor
 with a good UI and features.
 Has been the king of the hill.
-* [WebStorm](https://www.jetbrains.com/webstorm/) ($130) IDE from JetBrains does autocomplete, navigation help, error detection, refactorings for JavaScript, Node.js, HTML, CSS, and more.
-* [Microsoft’s VisualStudioCode](https://code.visualstudio.com/) IDE for JS, TypeScript, Node.js, C++, C#, Python, PHP, et. al.
 
 Add-on integrations
 -------------------
@@ -42,16 +40,13 @@ Add-on integrations
 
 Cloud solutions (editor as a service)
 -------------------------------------
-* [Cloud9](https://c9.io/)
+* [AWS Cloud9](https://c9.io/)
 * [Nitrous](https://www.nitrous.io/pricing/)
 * [https://alternativeto.net/software/cloud9/](https://alternativeto.net/software/cloud9/)
 
-Heavyweights IDE’s
-------------------
-
-These were created primarily to assist programmers using
-back-end language toolchains, have a steeper learning curve, and help for
-front-end developers is an afterthought.
-
-* [NetBeans](https://netbeans.org/) - created for Java by Sun/Oracle
-* [Eclipse](https://www.eclipse.org/) - created for Java by IBM
+IDE’s
+-----
+* [WebStorm](https://www.jetbrains.com/webstorm/) ($130) IDE from JetBrains does autocomplete, navigation help, error detection, refactorings for JavaScript, Node.js, HTML, CSS, et. al.
+* [Microsoft’s VisualStudioCode](https://code.visualstudio.com/) for JS, TypeScript, Node.js, C++, C#, Python, PHP
+* [NetBeans](https://netbeans.org/) - created for Java by Sun/Oracle.
+* [Eclipse](https://www.eclipse.org/) - created for Java by IBM. Not optimal for front-end languages.
