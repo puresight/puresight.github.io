@@ -35,3 +35,4 @@ Coolness
 - [WhatFont? Chrome extension](http://www.chengyinliu.com/whatfont.html)
 - [Real Favicon Generator](https://realfavicongenerator.net/)
 - [Modular Scale](http://www.modularscale.com/)
+- [robots.txt](http://www.robotstxt.org/)
