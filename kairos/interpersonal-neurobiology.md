@@ -5,7 +5,7 @@ category: kairos
 subject: science
 description: "Interpersonal neurobiology is an interdisciplinary field which bringing together learning from anthropology, biology, linguistics, mathematics, physics, psychology, sociology, et. al. to understand the human mind - and what it needs for optimal health."
 tags:
-- wellness
+- authors
 todo:
 image:
   alt: "brain"
