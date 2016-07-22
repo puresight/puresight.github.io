@@ -26,6 +26,7 @@ image:
 - [Don Norman](http://www.jnd.org/) - _[The Design of Everyday Things](http://www.jnd.org/books.html#doet2)_
 - [Tim Ferriss](https://mobile.twitter.com/tferriss) - _The 4-Hour Workweek_
 - [David Heinemeier Hansson](https://mobile.twitter.com/dhh) - [Basecamp](https://basecamp.com/), _[REWORK](http://david.heinemeierhansson.com/#rework)_
+- [Jason Fried](https://twitter.com/jasonfried) - [Basecamp](https://basecamp.com/), _[REWORK](http://david.heinemeierhansson.com/#rework),_ _Getting Real,_ _Remote_
 - [Brené Brown](http://brenebrown.com/) - _The Gifts of Imperfection_, _Daring Greatly,_ _Rising Strong_
 - [Malcolm Gladwell](https://mobile.twitter.com/Gladwell) - _[Blink](http://gladwell.com/blink/)_
 - [Dan Pink](https://mobile.twitter.com/danielpink) - _A Whole New Mind,_ _[DRiVE](http://www.danpink.com/books/drive/)_
