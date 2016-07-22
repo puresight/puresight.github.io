@@ -23,6 +23,7 @@ image:
 The Good News
 -----
 - [Bob Mumford](https://twitter.com/lifechangers72) - _[The Agape Road](http://lifechangers.org/teachings/agape-road/)_
+- [Brennan Manning](http://brennanmanning.com/) - _The Ragamuffin Gospel_
 - [Bill Johnson](http://bjm.org/) - _[When Heaven Invades Earth](https://shop.ibethel.org/products/when-heaven-invades-earth-book)_
 - [Danny Silk](https://twitter.com/dannyleesilk) - _[The Culture of Honor](http://lovingonpurpose.com/product-archive/culture-of-honor-book)_
 - [Jeremiah Johnson](https://mobile.twitter.com/gracepoint555) - _Freedom_, _Staying Connected_
