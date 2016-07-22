@@ -24,6 +24,11 @@ The Good News
 -----
 - [Bob Mumford](https://twitter.com/lifechangers72) - _[The Agape Road](http://lifechangers.org/teachings/agape-road/)_
 - [Brennan Manning](http://brennanmanning.com/) - _The Ragamuffin Gospel_
+- [Brian Zahnd](https://twitter.com/BrianZahnd) - _Water to Wine,_ _Farewell to Mars,_ [etc](http://brianzahnd.com/books/)
+- [Stan Tyra](https://twitter.com/stantyra) - _[Awakened To Love](http://www.awakenedtolove.com/)_
+- [John Crowder](http://www.thenewmystics.com/Groups/1000036238/Home_Page_of/About_Us/John_and_Lily/John_and_Lily.aspx) - _Mystical Union,_ _Money/Sex/Beer/God,_ [etc](http://www.johncrowder.net/collections/books)
+- [Brad Jersak](https://twitter.com/bradjersak) - _A More Christlike God,_ _Her Gates Will Never Be Shut,_ [etc](http://www.bradjersak.com/)
+- [Rob Grayson](https://twitter.com/robgrayson) - _Worth The Wait: Abiding with Christ in the Waiting Room of Life,_ [etc](http://www.faithmeetsworld.com/)
 - [Bill Johnson](http://bjm.org/) - _[When Heaven Invades Earth](https://shop.ibethel.org/products/when-heaven-invades-earth-book)_
 - [Danny Silk](https://twitter.com/dannyleesilk) - _[The Culture of Honor](http://lovingonpurpose.com/product-archive/culture-of-honor-book)_
 - [Jeremiah Johnson](https://mobile.twitter.com/gracepoint555) - _Freedom_, _Staying Connected_
